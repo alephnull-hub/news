@@ -10,6 +10,8 @@ import html
 import json
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -21,10 +23,12 @@ ROOT = Path(__file__).resolve().parent.parent
 USER_AGENT = "news-briefing-script/1.0 (+https://github.com/alephnull-hub/news)"
 ATOM = "{http://www.w3.org/2005/Atom}"
 TRENDS = "{https://trends.google.com/trending/rss}"
+SITEMAP = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
+NEWNEEK_SITEMAP = "https://newneek.co/sitemap/article-sitemap.xml"
 
 GNEWS = "https://news.google.com/rss"
 FEEDS = [
-    # (name, region, url) — region: domestic | global | trend
+    # (name, region, url) — region: domestic | global | trend | explainer
     ("Google 뉴스 비즈니스", "domestic", f"{GNEWS}/headlines/section/topic/BUSINESS?hl=ko&gl=KR&ceid=KR:ko"),
     ("연합뉴스 경제", "domestic", "https://www.yna.co.kr/rss/economy.xml"),
     ("연합뉴스 마켓", "domestic", "https://www.yna.co.kr/rss/market.xml"),
@@ -52,13 +56,23 @@ FEEDS = [
     ("TechCrunch", "trend", "https://techcrunch.com/feed/"),
     ("Hacker News", "trend", "https://hnrss.org/frontpage"),
     ("Product Hunt", "trend", "https://www.producthunt.com/feed"),
+    ("어피티", "explainer", "https://uppity.co.kr/feed/"),
+    ("뉴닉", "explainer", NEWNEEK_SITEMAP),  # no RSS; read via its public article sitemap
 ]
 
 
-def fetch(url):
+def fetch(url, attempts=2):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=20) as resp:
-        return resp.read()
+    for attempt in range(attempts):
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                return resp.read()
+        except urllib.error.HTTPError:
+            raise  # the server answered; retrying won't change it
+        except OSError:
+            if attempt == attempts - 1:
+                raise
+            time.sleep(2)  # transient connection reset or timeout
 
 
 def clean(text):
@@ -99,6 +113,9 @@ def entries(root):
             if news is not None:
                 extra["related"] = clean(news.findtext(f"{TRENDS}news_item_title"))
                 extra["related_url"] = (news.findtext(f"{TRENDS}news_item_url") or "").strip()
+        categories = [c.text or "" for c in item.findall("category")]
+        if any(re.search(r"(^|\s)AD$|광고", c) for c in categories):
+            continue  # sponsored posts (e.g. uppity "머니레터 AD")
         yield (item.findtext("title"), item.findtext("link"), item.findtext("description"),
                item.findtext("pubDate"), source.text if source is not None else None, extra)
     for entry in root.iter(f"{ATOM}entry"):
@@ -106,6 +123,25 @@ def entries(root):
         yield (entry.findtext(f"{ATOM}title"), link.get("href") if link is not None else "",
                entry.findtext(f"{ATOM}summary") or entry.findtext(f"{ATOM}content"),
                entry.findtext(f"{ATOM}published") or entry.findtext(f"{ATOM}updated"), None, {})
+
+
+def meta(page, key):
+    m = re.search(rf'<meta (?:property|name)="{re.escape(key)}" content="([^"]*)"', page)
+    return html.unescape(m.group(1)) if m else ""
+
+
+def newneek_entries(root, cutoff):
+    """Newneek's own articles (@newneek) modified since cutoff, with title and date from each page's meta tags."""
+    since = cutoff.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M")
+    urls = [u.findtext(f"{SITEMAP}loc") for u in root.iter(f"{SITEMAP}url")
+            if "/@newneek/article/" in (u.findtext(f"{SITEMAP}loc") or "") and (u.findtext(f"{SITEMAP}lastmod") or "") >= since]
+    for url in urls[:60]:
+        try:
+            page = fetch(url).decode("utf-8", errors="replace")
+        except Exception:
+            continue
+        time.sleep(0.3)  # be gentle: one page at a time
+        yield (meta(page, "og:title"), url, meta(page, "og:description"), meta(page, "article:published_time"), "뉴닉", {})
 
 
 def main():
@@ -127,7 +163,8 @@ def main():
             feeds.append(entry)
             continue
         kept = 0
-        for title, link, summary, pub, publisher, extra in entries(root):
+        source_entries = newneek_entries(root, cutoff) if url == NEWNEEK_SITEMAP else entries(root)
+        for title, link, summary, pub, publisher, extra in source_entries:
             title = clean(title)
             published = parse_date(pub)
             if publisher:
@@ -146,7 +183,8 @@ def main():
                 "publisher": publisher or name,
                 "region": region,
                 "title": title,
-                "summary": clean(summary)[:300],
+                # WordPress feeds (e.g. uppity) append "The post … appeared first on …"
+                "summary": re.sub(r"\s*The post .*? appeared first on .*$", "", clean(summary))[:300],
                 "link": (link or "").strip(),
                 "published": published.isoformat(timespec="minutes"),
                 **extra,
@@ -171,7 +209,7 @@ def main():
     (out_dir / "titles.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     ok = sum(f["status"] == "ok" for f in feeds)
-    by_region = {r: sum(x["region"] == r for x in items) for r in ("domestic", "global", "trend")}
+    by_region = {r: sum(x["region"] == r for x in items) for r in ("domestic", "global", "trend", "explainer")}
     print(f"data/{args.date}/news.json: {len(items)} items {by_region} from {ok}/{len(feeds)} feeds")
     for f in feeds:
         if f["status"] != "ok":

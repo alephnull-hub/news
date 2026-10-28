@@ -10,7 +10,7 @@
 |---|---|
 | `prompts/daily-briefing.md` | 루틴이 따르는 작업 지침과 브리핑 양식 |
 | `scripts/fetch_market.py` | 한국은행 ECOS·FRED 공식 수치 수집 → `data/<날짜>/market.json` |
-| `scripts/fetch_news.py` | 국내·해외·트렌드 피드 27개 수집 → `data/<날짜>/news.json`, `titles.txt` |
+| `scripts/fetch_news.py` | 국내·해외·트렌드·해설(어피티, 뉴닉) 29개 출처 수집 → `data/<날짜>/news.json`, `titles.txt` |
 | `scripts/count_titles.py` | 이슈별 보도 건수 집계 (제목 핵심어 기준) |
 | `scripts/article_text.py` | 기사 본문 추출 (시황 기사의 수치 인용용) |
 | `scripts/render_page.py` | `briefings/*.json`을 Artifact 페이지(`site/index.html`)로 변환 |
@@ -31,7 +31,7 @@
 `news.google.com`, `www.yna.co.kr`, `www.hankyung.com`, `www.mk.co.kr`, `www.chosun.com`, `www.sedaily.com`,
 `rss.mt.co.kr`, `rss.etnews.com`, `feeds.content.dowjones.io`, `feeds.bbci.co.uk`, `www.ft.com`, `www.economist.com`,
 `trends.google.com`, `www.mobiinside.co.kr`, `www.venturesquare.net`, `techcrunch.com`, `hnrss.org`, `www.producthunt.com`,
-`ecos.bok.or.kr`, `api.stlouisfed.org`
+`uppity.co.kr`, `newneek.co`, `ecos.bok.or.kr`, `api.stlouisfed.org`
 
 ## 수동 실행
 

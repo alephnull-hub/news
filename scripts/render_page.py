@@ -114,6 +114,17 @@ def trends(day, cards, search):
     return "\n".join(out)
 
 
+def explainers(day, rows):
+    out = [f'<section id="{day}-explain">', sec_head("쉽게 읽는 해설", "어피티 · 뉴닉"), '<ul class="explain">']
+    for r in rows:
+        src = r.get("source") or {}
+        out.append(f'<li><span class="pub">{e(src.get("label"))}</span>'
+                   f'<h3>{link({"label": r.get("title"), "url": src.get("url")})}</h3>'
+                   + (f'<p>{e(r.get("summary"))}</p>' if r.get("summary") else "") + "</li>")
+    out.append("</ul></section>")
+    return "\n".join(out)
+
+
 def schedule(day, s):
     out = [f'<section id="{day}-schedule">', sec_head("이번 주 일정", s.get("note", "모두 한국 시간")),
            '<div class="sched-wrap"><table class="sched"><thead><tr><th>날짜·시각</th><th>일정</th><th>볼 것</th></tr></thead><tbody>']
@@ -139,7 +150,7 @@ def watch(day, w):
 
 
 def footer(b):
-    names = {r: [n for n, reg, _ in FEEDS if reg == r] for r in ("domestic", "global", "trend")}
+    names = {r: [n for n, reg, _ in FEEDS if reg == r] for r in ("domestic", "global", "trend", "explainer")}
     c = b.get("collection", {})
     failed = c.get("failed") or []
     notes = "".join(f"<p><b>메모</b> {e(n)}</p>" for n in b.get("notes", []))
@@ -147,7 +158,9 @@ def footer(b):
         "<footer>"
         f"<p><b>수집 방법</b> 국내 {len(names['domestic'])}개({e(', '.join(names['domestic']))}), "
         f"해외 {len(names['global'])}개({e(', '.join(names['global']))}), "
-        f"트렌드 {len(names['trend'])}개({e(', '.join(names['trend']))}) 피드에서 직전 24시간 기사를 모았습니다."
+        f"트렌드 {len(names['trend'])}개({e(', '.join(names['trend']))}), "
+        f"해설 {len(names['explainer'])}개({e(', '.join(names['explainer']))})에서 직전 24시간 기사를 모았습니다. "
+        "뉴닉은 RSS가 없어 공개 사이트맵과 기사 메타 정보(제목·요약)만 읽었고, 어피티의 광고 글은 제외했습니다."
         + (f" 이번에 열리지 않은 피드: {e(', '.join(failed))}." if failed else "")
         + " 시장 지표는 한국은행 ECOS·FRED(키가 있을 때)와 시황 기사 본문에서, 일정은 공개 캘린더 기사에서 확인했습니다.</p>"
         "<p><b>읽을 때 참고</b> Claude가 기사 제목·공개 요약·본문을 바탕으로 작성했습니다. 유료 기사는 헤드라인만 썼습니다. "
@@ -169,7 +182,7 @@ def render(b, options):
         f"기사 {c['articles']:,}건" if c.get("articles") else "",
     ] if x)
     toc = [("market", "시장"), ("domestic", "국내 TOP 5"), ("global", "글로벌 TOP 5"), ("industry", "산업·기업"),
-           ("trend", "트렌드"), ("schedule", "일정"), ("watch", "생각해 볼 점")]
+           ("trend", "트렌드"), ("explain", "쉽게 읽기"), ("schedule", "일정"), ("watch", "생각해 볼 점")]
     parts = [
         f'<article class="wrap briefing" data-day="{day}" hidden>',
         '<header class="mast"><div class="mast-top">'
@@ -189,6 +202,8 @@ def render(b, options):
         parts.append(industry(day, b["industry"]))
     if b.get("trends") or b.get("search_trends"):
         parts.append(trends(day, b.get("trends", []), b.get("search_trends")))
+    if b.get("explainers"):
+        parts.append(explainers(day, b["explainers"]))
     if b.get("schedule"):
         parts.append(schedule(day, b["schedule"]))
     if b.get("watch"):
@@ -305,6 +320,15 @@ section { display: grid; gap: 18px; scroll-margin-top: 16px; }
 .kw small { font-family: var(--font-data); color: var(--muted); margin-left: 6px; font-size: 12px; }
 .kw-note { margin: 0; font-size: 14px; color: var(--muted); }
 
+/* Explainers */
+.explain { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+.explain li { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 16px; display: grid; gap: 6px; align-content: start; min-width: 0; }
+.explain .pub { font-size: 12px; font-weight: 600; color: var(--muted); letter-spacing: 0.04em; }
+.explain h3 { font-size: 16px; line-height: 1.5; margin: 0; text-wrap: pretty; }
+.explain h3 a { color: var(--ink); text-decoration: none; }
+.explain h3 a:hover { color: var(--accent); text-decoration: underline; }
+.explain p { margin: 0; font-size: 14px; color: var(--muted); }
+
 /* Schedule */
 .sched-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); }
 table.sched { border-collapse: collapse; width: 100%; min-width: 520px; font-size: 14.5px; }
@@ -329,7 +353,7 @@ footer p { margin: 0; }
 @media (max-width: 640px) {
   .wrap { gap: 40px; padding-block: 20px 48px; }
   .board { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .watch { grid-template-columns: minmax(0, 1fr); }
+  .watch, .explain { grid-template-columns: minmax(0, 1fr); }
   .rows li { grid-template-columns: minmax(0, 1fr); }
   .issue { grid-template-columns: 26px minmax(0, 1fr); }
 }

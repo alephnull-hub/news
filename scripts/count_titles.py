@@ -3,7 +3,7 @@
 
 Each pattern is a regular expression matched against titles in data/<date>/titles.txt;
 a headline counts once even if several patterns match it.
-Usage: python3 scripts/count_titles.py [--date YYYY-MM-DD] [--region domestic|global|trend] [--show 5] PATTERN [PATTERN ...]
+Usage: python3 scripts/count_titles.py [--date YYYY-MM-DD] [--region domestic|global|trend|explainer] [--show 5] PATTERN [PATTERN ...]
 Example: python3 scripts/count_titles.py --region domestic "하이닉스" "SK하닉"
 """
 import argparse
@@ -19,7 +19,7 @@ KST = timezone(timedelta(hours=9))
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", default=datetime.now(KST).strftime("%Y-%m-%d"))
-    parser.add_argument("--region", choices=["domestic", "global", "trend"])
+    parser.add_argument("--region", choices=["domestic", "global", "trend", "explainer"])
     parser.add_argument("--show", type=int, default=5, help="print this many matching headlines")
     parser.add_argument("patterns", nargs="+")
     args = parser.parse_args()
