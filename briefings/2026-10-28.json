@@ -1,0 +1,791 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "11:40",
+ "collection": {
+  "window": "10/27 11:35 – 10/28 11:35 KST",
+  "feeds_ok": 27,
+  "feeds_total": 27,
+  "articles": 1229,
+  "failed": []
+ },
+ "title": "오늘의 비즈니스·경제 브리핑",
+ "lead": "SK하이닉스가 3분기 영업이익 83조 원과 올해 100조 원 규모의 주주환원을 내놓자 코스피가 이틀 연속 매수 사이드카 속에 6,000선을 되찾았습니다. 금융권 해킹은 증권사와 코인거래소로 번지고 있고, 오늘 밤 FOMC와 빅테크 실적이 랠리의 다음 방향을 정합니다.",
+ "market": {
+  "note": "10/27 종가 기준",
+  "tiles": [
+   {
+    "name": "코스피",
+    "value": "5,638.34",
+    "change": "168.87 (+3.09%)",
+    "dir": "up",
+    "note": "10/27 · 연합뉴스"
+   },
+   {
+    "name": "코스닥",
+    "value": "743.83",
+    "change": "16.62 (+2.29%)",
+    "dir": "up",
+    "note": "10/27 · 연합뉴스"
+   },
+   {
+    "name": "원/달러",
+    "value": "1,323.7",
+    "change": "0.6원",
+    "dir": "up",
+    "note": "10/27 15:30 · 연합뉴스"
+   },
+   {
+    "name": "국고채 10년",
+    "value": "4.032%",
+    "change": "4.2bp",
+    "dir": "down",
+    "note": "10/27 · 연합뉴스"
+   },
+   {
+    "name": "S&P 500",
+    "value": "7,722.60",
+    "change": "45.83 (+0.60%)",
+    "dir": "up",
+    "note": "10/27 현지 · 연합뉴스"
+   },
+   {
+    "name": "나스닥",
+    "value": "26,477.81",
+    "change": "308.43 (+1.18%)",
+    "dir": "up",
+    "note": "10/27 현지 · 연합뉴스"
+   },
+   {
+    "name": "다우",
+    "value": "52,377.57",
+    "change": "15.99 (+0.03%)",
+    "dir": "up",
+    "note": "10/27 현지 · 연합뉴스"
+   },
+   {
+    "name": "필라델피아 반도체",
+    "value": "—",
+    "change": "+3.60%",
+    "dir": "up",
+    "note": "등락률만 확인 · 한국경제"
+   },
+   {
+    "name": "WTI (12월물)",
+    "value": "$99.90",
+    "change": "1.83%",
+    "dir": "down",
+    "note": "10/27 현지 · 한국경제"
+   },
+   {
+    "name": "브렌트 (12월물)",
+    "value": "$113.88",
+    "change": "1.67%",
+    "dir": "down",
+    "note": "10/27 현지 · 한국경제"
+   },
+   {
+    "name": "미 국채 10년",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "FRED 키 등록 시 표시"
+   },
+   {
+    "name": "VIX",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "FRED 키 등록 시 표시"
+   }
+  ],
+  "foot": "원/달러는 서울 외환시장 주간 종가(15:30), 유가는 12월 인도분 선물 종가입니다. 공식 데이터(ECOS·FRED) 키가 없어 모든 수치는 시황 기사 본문에서 인용했습니다.",
+  "sources": [
+   {
+    "label": "연합뉴스 (국내 증시·환율)",
+    "url": "https://www.yna.co.kr/view/AKR20261027146100008"
+   },
+   {
+    "label": "연합뉴스 (국고채)",
+    "url": "https://www.yna.co.kr/view/AKR20261027157251008"
+   },
+   {
+    "label": "연합뉴스 (뉴욕 증시)",
+    "url": "https://www.yna.co.kr/view/AKR20261028006851072"
+   },
+   {
+    "label": "한국경제 (반도체지수·유가)",
+    "url": "https://www.hankyung.com/article/2026102892456"
+   }
+  ]
+ },
+ "domestic": [
+  {
+   "title": "SK하이닉스 3분기 영업이익 83.3조 원, 올해 주주환원 100조 원",
+   "tags": [
+    "반도체",
+    "증시"
+   ],
+   "count": 59,
+   "summary": "영업이익 83조3,338억 원으로 1년 전보다 632% 늘며 6개 분기 연속 최대치를 경신했고, 분기 매출은 처음 100조 원을 넘었습니다. 주당 2만 원 현금배당을 포함해 올해 약 100조 원을 주주에게 돌려줍니다. 2027~2028년 생산능력의 50% 이상을 장기계약으로 묶었고 \"2030년까지 메모리 공급 부족\"을 전망했습니다. 다만 투자·환 손실로 순이익은 크게 줄었습니다.",
+   "why": "코스피에서 비중이 큰 종목이라 지수 방향을 좌우합니다. 중국 CXMT발 '반도체 고점론'에 대한 정면 반박이기도 합니다. 반면 환원 발표 뒤에도 수익률 상위 개인투자자들은 삼성전자와 SK하이닉스를 팔았다는 집계가 나와 차익 실현 압력도 함께 봐야 합니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261028028053527"
+    },
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261028036251003"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/tech_it/2026/10/28/GRRTQYRZGM2TIZJUG43WIYRXME/"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/industry/2026/10/28/2026102810255952011"
+    },
+    {
+     "label": "매일경제 (초고수 매매)",
+     "url": "https://www.mk.co.kr/news/stock/12188261"
+    }
+   ]
+  },
+  {
+   "title": "코스피 이틀 연속 매수 사이드카, 장중 6,000선 탈환",
+   "tags": [
+    "증시",
+    "수급"
+   ],
+   "count": 39,
+   "summary": "27일 3.09% 오른 5,638.34로 마친 코스피는 28일 장 초반 4%대 급등해 이틀 연속 매수 사이드카가 발동됐습니다. 오전 11시 무렵 6%대까지 올라 10거래일 만에 6,000선을 회복했습니다. 앤트로픽 IPO발 AI 랠리와 SK하이닉스 실적이 겹쳤고, 외국인은 27일 5,910억 원 순매수로 돌아섰습니다.",
+   "why": "코스피는 19일부터 하루씩 오르내림을 반복하고 있습니다. 상승폭을 장 마감까지 지키는지, 외국인 매수가 이어지는지가 랠리의 진위를 가립니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261028083000008"
+    },
+    {
+     "label": "연합뉴스 (6%대 급등)",
+     "url": "https://www.yna.co.kr/view/AKR20261028085900008"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/10/28/2026102810081042345"
+    },
+    {
+     "label": "연합뉴스 (27일 마감)",
+     "url": "https://www.yna.co.kr/view/AKR20261027146100008"
+    }
+   ]
+  },
+  {
+   "title": "빗썸·미래에셋운용·대신증권까지, 금융권 해킹 전방위 확산",
+   "tags": [
+    "보안",
+    "금융"
+   ],
+   "count": 25,
+   "summary": "금감원이 빗썸, 미래에셋자산운용, 대신증권의 해킹 침해를 추가로 확인하고 현장점검에 나섰습니다. 대신증권은 고객 3만8,490명의 개인·신용정보가 유출됐다고 밝혔고, 빗썸은 사내 그룹웨어를 통해 직원 정보가 빠져나가 회원 정보 포함 여부를 분석 중입니다. 정부는 통신·IDC 등 핵심시설 170여 곳의 보안을 점검합니다.",
+   "why": "보안주가 동반 상승할 만큼 시장도 반응하고 있습니다. 금융사의 보안 투자와 규제가 늘어날 가능성이 크고, 개인은 금융 앱 비밀번호와 2단계 인증을 점검해 둘 시점입니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261028053252002"
+    },
+    {
+     "label": "KBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ONkg3NlRoWHF0WHpQOVI1ZTlENk9oV1dPdkp6U0dKSkpHR0pNN3Z1RklOam1ldlFRSHNzYnBPajFIMUMtaEVINURNakZ0eDI1R0o5Tkg3VlU1LUU?oc=5"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/10/28/2026102810033916631"
+    },
+    {
+     "label": "머니투데이 (보안주)",
+     "url": "https://www.mt.co.kr/stock/2026/10/28/2026102811162967881"
+    }
+   ]
+  },
+  {
+   "title": "3분기 GDP 1.0% 깜짝 성장, 민간소비는 뒷걸음",
+   "tags": [
+    "거시",
+    "소비"
+   ],
+   "count": 14,
+   "summary": "3분기 실질 GDP는 전 분기보다 1.0% 늘어 한국은행의 8월 전망치(0.3%)를 크게 웃돌았고, 3개 분기 연속 전망을 넘어선 것은 처음입니다. 설비투자 4.1%, 수출 2.3%가 성장을 끌었지만 민간소비는 0.2% 줄었습니다. 정부는 올해 3% 중반 성장과 1인당 국민소득 4만 달러 진입을 전망했습니다.",
+   "why": "숫자와 체감이 갈립니다. 한경협 조사에서 11월 기업 경기 전망(BSI)은 98.6으로 2개월 연속 기준선 아래였고, 반도체가 포함된 전자·통신장비는 83.3으로 9개월 만에 부정 전환했습니다. 세금과 카드값을 할부로 미루는 가계도 늘고 있습니다.",
+   "sources": [
+    {
+     "label": "서울경제",
+     "url": "https://www.sedaily.com/article/20106879"
+    },
+    {
+     "label": "전자신문",
+     "url": "https://www.etnews.com/20261027000438"
+    },
+    {
+     "label": "연합뉴스 (기업 경기 전망)",
+     "url": "https://www.yna.co.kr/view/AKR20261027167600003"
+    },
+    {
+     "label": "매일경제 (할부 결제)",
+     "url": "https://www.mk.co.kr/news/stock/12188146"
+    }
+   ]
+  },
+  {
+   "title": "가상자산 과세 내년 1월 시행 앞두고 당정, 유예 결론 못 내",
+   "tags": [
+    "가상자산",
+    "세제"
+   ],
+   "count": 8,
+   "summary": "28일 당정협의회에서 결론을 내지 못하고 민주당이 당 차원에서 더 점검하기로 했습니다. 세 차례 유예된 만큼 시행하자는 의견과 보완하자는 의견이 엇갈렸고, 여당 안에서는 과세 인프라 미비와 청년층 우려로 추가 유예에 무게가 실립니다. 한국은행이 해외로 보낸 코인의 잔액을 매달 보겠다고 하자 업계는 정보 수집이 과하다고 반발했습니다.",
+   "why": "결론에 따라 코인 투자자의 세금 부담과 연말 거래소 수급이 달라집니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261028030752001"
+    },
+    {
+     "label": "매일경제 경제",
+     "url": "https://www.mk.co.kr/news/economy/12188027"
+    },
+    {
+     "label": "조선일보 (한은 잔액 보고)",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/10/28/MYZTEYLEGBRDKODFMI3TKOBXGE/"
+    }
+   ]
+  }
+ ],
+ "global": [
+  {
+   "title": "앤트로픽 IPO가 되살린 AI 랠리, 월가 이틀째 상승",
+   "tags": [
+    "AI",
+    "IPO"
+   ],
+   "count": 56,
+   "summary": "앤트로픽의 IPO 추진으로 AI 투자가 계속될 것이라는 믿음이 살아나며 뉴욕 증시가 이틀 연속 올랐고 코어위브 등 AI주가 강세였습니다. 블룸버그는 앤트로픽이 미국 개인투자자 공모 주관사로 JP모건을 골랐다고 보도했고, 브로드컴의 앤트로픽용 칩 금융 거래에는 은행들이 210억 달러 규모 채권 발행을 검토하고 있습니다. 해외 언론은 SK하이닉스 실적도 'AI 열풍에 대한 의구심을 달랜 결과'로 전했습니다.",
+   "why": "AI 거품론이 잦아드는 계기가 됐지만, 실리콘밸리 낙관론자조차 거품 우려 근거를 보여 줬다는 반론도 나옵니다. 국내 반도체주와 직결되는 흐름입니다.",
+   "sources": [
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWdYcFFPZlJNOVktU05PdTRoWVNxSVUyQ2l6ek9ibU13cnVTczNGNVZkLTNrZ0h3bGVSRFdnNTVaQVNGUExjVGVkRFNFOE1QbklFT3JyWmNiNDdycE96ZmZ1VDBLOGtOdmNYWkZMZHlxMTd2WENNTU1kWVFYOEgtXzgtUHBOcndzZlZOclNXWWMtR0FYT3JnR19TSEI5YUNmRG1xcTVPdWJqcjlCOWZXaFE0NkJ6QQ?oc=5"
+    },
+    {
+     "label": "MarketWatch",
+     "url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObENDd2ZaNmE1VUlBR0d6Q1YydGNyX1dNZUV1YVVoTlpfb1hJckdOV1VKTDJqLXZhbzNWdnpUOWNwc2huLVBXWUF5ZFZzUU1meXhPTzlGMmc4cUt5VzBCeEJwb0NLQ3p3d2xhc0NVb0tuOFRHS3JmbjRHMXp4UDd5WEZiUUJKbHBrTFNJLVVMSnFLZmU1ZHRhMzVVZnBFS2xjY05LQzdDSTFPSGMxVzVQNkFocw?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5"
+    },
+    {
+     "label": "MarketWatch (거품 우려)",
+     "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories"
+    }
+   ]
+  },
+  {
+   "title": "미국 기업 실적 엇갈려: 비자·UPS 선방, 보잉·로빈후드 부진",
+   "tags": [
+    "실적",
+    "미국"
+   ],
+   "count": 39,
+   "summary": "비자는 결제액이 9% 늘며 예상을 웃돌았고, UPS는 연말 이익 개선을 전망하며 데이터센터 붐에서 연 150억 달러 매출 기회를 언급했습니다. 보잉은 737 증산 속도와 잉여현금흐름 전망이 기대에 못 미쳐 주가가 급락했습니다. 로빈후드는 코인 거래 둔화로 이익이 예상을 밑돌았고, NXP는 미지근한 매출 전망에, 시게이트는 사상 최대 실적에도 주가가 내렸습니다.",
+   "why": "소비·결제·물류는 버티지만 제조와 코인 관련 사업은 약합니다. 기대가 높은 종목은 좋은 실적에도 떨어지는 장이라 국내 실적주도 같은 잣대로 평가받을 수 있습니다.",
+   "sources": [
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW5rWUVOZFJIMnhSTkFTUTRsLUVKcWpTamYzZmpRRW41Q2xna0tpRnFVM2M3bC0zZk1LdnE1RkQtWTYyLUl1b3BROGI4el9pWlljWE5wNVllOEhtRnBGYlBVbDR3R2ZtU2tvbFFRWDZnV1VzRUMxaDVuOVFpT2tIZ01RTWZXV0plbFl3YkF5bm9Yd0dsUzBfclJpbVM1SnM2MmEtN3lIUTQ0aDg?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ09qUmU1TG9CYkFQZWhZRWRlajJfMDRabXhYWUZTck05eVJHc1ZtY1ZaM203c2xiRm8wMWNqMGsxUHFyWHg4NmZBYUNLQmNVa2VCSnZrVld3ZzFtU0FGY2NBREd2bVZUVGRJSVY3SWRGRTRVMy1MRXB3U1JQMFF4ZE1RRHJGeFFvQUdMRG84dUtqSGZxdFVRaWVIenVZanNwTGFXalpfTzRraWx4WG5fNmJmdTRoRDFoZVZ0N0hibVpVNU5QNk4xSXIxUDJialJXYnlxaVFaYw?oc=5"
+    },
+    {
+     "label": "Reuters (UPS 데이터센터)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEFxR2I1ZlhWMkZHZVQzQXFoQTdzV3E0UUN1el82N3o1dlBkZEo2M011NUY4Q0VvMng4TFlJTG8wUVA2ZjRoZ0VwNmdsUlFmaDJXY3oxQnhEOU8yOVlQRmJZazBlWHV1Z0pMSkVBQ2EyNlk1RWkyNmlDYW52VjVkbGxYelNaMm9YWDdDTnZiLVhVbjk1X0dZRmo1SUppREI1a2RicGxDZ0RON0RpVC02VGl3?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnZ1c1Q5Q2tSYnRpdnppV25UNEpNekRsVGhpbkdLVk95QjBkenF1Ni0tOFJFYThrcXlnYjhRbUJWMlo2WHlkLUIzNlJ5UUpoN1p3VUh3b1p5TlJlZHBpaENqVmY4RDZPVTFsRHhMZXJKQzhseUM1V2U4TjMySHdvNzZ1VE9MbnI4ajV1dklVemhwWFRrZmtYWF9qYUNjUTFLOVRMaGNVUG0wSDhHcEZMbXNjcWpHWGZqeUEzc3puMGZwd2FvVU93?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2NKUnhMNTltUE4yRzUwTUFQVDU0b1ZqR19OSkRHTmhBcFk5cHEtSXN2b0d5SUEtOEczMTRQVXQzNlZ0UENocldxQ2lKUlNTNjRKM1ZlMFE1aHU3ZUxLalhjZmtremFGQWNNN3g0dkl6ZmxuRFdQaEVhX3Y0T0lDRUFOZVpNaWNrNW1xSXA0NEVmd1RNenY5TFpXY3VJNmJ5Yy1nZnNuWS0za2g2VmR1bnhxNC1td1ZWcjRYOVpWR0pPZnc?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFl4MFNhV2JXTU1DN21IU0xGMXoySDBFemVBTTJ6U2xXRzU2b1ltVlhwSlRUNDJfSndvWWhqYUJJSU5UT1JiMDVQam1vTkhYbW1PRDNtQmU1UEVzbmN1alRQeEs2bTlfcmM1ZjlWNmFMRm9vMnByQmY3VmFFU01CbmFNYnV1am5HVUhrenI2OU51X0FCWTJ2QnJhNXlSaUlZR0R2ekRlWmxwYzJ6QjlqTG5B?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "정치 변수: 이스라엘 총선 박빙, 미 중간선거 1주 앞, 보우소나루 미국행",
+   "tags": [
+    "정치",
+    "신흥국"
+   ],
+   "count": 39,
+   "summary": "이스라엘 총선에서 반네타냐후 진영이 앞섰지만 과반에는 못 미칠 것으로 보여 연정 구성이 불투명합니다. 트럼프 대통령은 11월 3일 중간선거에 대해 \"공정하면 수용\"이라는 조건을 달았습니다. 브라질 대선에서 진 보우소나루 전 대통령은 여권 제출 명령을 피해 미국에 도착했고, 룰라 당선 뒤 브라질 증시는 26일 하루 17% 폭락했습니다.",
+   "why": "중동 정세는 유가로, 미국 선거는 관세·재정 정책으로 이어집니다. 국내에서 인기가 많던 브라질 채권 투자자도 직접 손실을 봤습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261028007552099"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXpPOXhGcWV6cmFWY3hPV1EtRS04cVZXTS0yancxN3FCVmJMb1kya0NWREFkdkhKUy1LWEZvQ3BsTzk1eVp2NjJMWFN4ZDVtU0RmZGdrbmVJU0FNc1JuX0tkRHpRN0d4aXBZYzlObS00eDBXZk80Yy1CdFp3dFBFX21FbFJFX3E0RklWZmxIZ3paOUJwTDN3MWkzUDhzN3FHWU50MHVaem5mcGVNU2RDLVE3TQ?oc=5"
+    },
+    {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/202610289252H"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261028063100009"
+    },
+    {
+     "label": "연합뉴스 (브라질 채권)",
+     "url": "https://www.yna.co.kr/view/AKR20261028057400008"
+    }
+   ]
+  },
+  {
+   "title": "이란 전쟁 비용, 기름값을 넘어 생필품 값으로",
+   "tags": [
+    "원자재",
+    "물가"
+   ],
+   "count": 32,
+   "summary": "WTI는 중동 외교 기대에 1.83% 내린 배럴당 99.90달러로 마쳤지만 여전히 100달러 언저리입니다. 예멘 후티 반군은 사우디 최대 정유시설 라스 타누라를 미사일로 공격했다고 주장했습니다. 식품·생활용품 업체들은 이란 전쟁 비용을 이유로 추가 가격 인상을 예고했고, 미국 소비자는 사상 가장 비싼 휘발유 값의 해를 보내고 있습니다.",
+   "why": "유가가 내려도 원가 부담은 시차를 두고 소비자 가격에 반영됩니다. 국내 수입물가와 연말 물가에도 부담 요인입니다.",
+   "sources": [
+    {
+     "label": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeklkQ3dLbGJfaEt1ZDNyR3BZbk5JcjlJWVNEVnRrSVFudjJsOFA1S20zSlNxdVpoVkFJM1liUUdaTXExS25HTzFnUFYxWUNkWUFTVU9mODVlX3VwOGdzRGJEdHUzQzhyekVZeUhmN1RTTUhMM05peURpTFBRTFcyZ3RyX2dRT1lDT3k5YmtWeHRhYTJGdWNqWFRXZFVJMWMxMlM3YWcyZWlMZHV5SGc?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXRiWWdvUGZ0dTBiY2t4aWlWZlNWSlVlYUV4VXR6c25vRFJ0QUJ2NEJ6WTJTSW93cWFhb2xDYURhY2gydkQyRHhvMEFJYkh0S1JjVTVOLWlTbEVOQW83UUZZam5TTnBtV1ZoS2NaV3REUXF6andpWUZfcXpwdzRMQjJmZkxkdUs0eDVFSF94TjN5Tl9INFZ1WVFiUm8wSzBvbHlEQVJJT25TMlBWRVZneE01NGl6ekNHVGhYb2ZqNTRHdw?oc=5"
+    },
+    {
+     "label": "MarketWatch",
+     "url": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories"
+    },
+    {
+     "label": "Reuters (베네수엘라 원유)",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajN2UFlXd0wwM25Bd0ZIVVRPcEZQQkQydTRBQXBuT0RuYnBFRnFqbF9rYTZxdFhqWnBYYk10M0U3RGhXd1lReE5ndTk2VEd1SUI4SEUzLWx6YWRHOTBZaXdyOTFDMm9Cc1JjQ1ZPRHF2empCUy1wUmxaX2NnckhZeFFMOExJVnNHODU5YThsUWZ2RVRUX2xobXk4UUlLSDFvNFB6ZjhIVWZMRF9KYjhqcmVQUFhYUTlSLWdYaw?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "FOMC 결정 임박: 동결 우세, 시장은 추가 인상 신호를 본다",
+   "tags": [
+    "금리",
+    "달러"
+   ],
+   "count": 11,
+   "summary": "연준은 28일(현지) 기준금리를 결정하며, 발표는 한국 시간 29일 새벽 3시입니다. 3.75~4.00% 동결이 예상되지만 추가 인상 가능성을 열어 둘 수 있다는 관측이 나옵니다. 로이터는 채권 투자자들이 연준보다 AI 투자 붐과 재정적자에 더 주목한다고 전했고, 금은 온스당 4,000달러 위에서 결정을 기다리고 있습니다.",
+   "why": "매파적 신호가 나오면 국채 강세 베팅이 뒤집히고 성장주가 흔들릴 수 있습니다. 원/달러 환율도 1,320원대에서 방향을 탐색하는 중입니다.",
+   "sources": [
+    {
+     "label": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DeEN1Q0lOYXdvZ1RhMGVYWm5Fcm1jU3ZEWTR4M3lCdXBQdkJ3WkJRS0VKbGFOVkpfUG8tbHFNb05yenRtRnJfMUZLV3hQdFVxZGxmdUI1OWt2d2xfSWRXYWd2OGEzUFIxelJDRnliOVJ6MHNXTk50VDh30gF_QVVfeXFMUFhDd2V2SDNUb0F3OWpneFhXVk90eDlFY2dyNVVLVEVhU2c4Z3d5d211RFBiMWZrUk5ZXzdRc0w3MGEzVTFCV0tKYjFuTWN1aklNRkZJTmJFc0l2VHFMaklvTUFRQWlqUGp2RFhLVklrRGl5NjJGLVVuM0lfTDlaNA?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZDTFViUjF0VS1rM2FQX1ZjYmpIQncyQi1pMldoZ1N2U2JXUjIydVFJUGN1dXV4STlvYlVEM3FPSEZaSEt3Rnkxc0R5c3JrOEg2b0g2d2pUemFMbXpKNjZ6M1NabkwxcmJrbE5sdWtnU2pDd3R0X3ZkakhTNTZraUU0ejJKdDVRR0NheWhzcXBLUnU2dGxGUXFURnJZaExIM1hTRW9LWE5KbkNJN2RZ?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVdDN1Q0dWNoV3p6Z1JKbXlQM0tsU3lGVFVKMzNkZW5qR2FVYUFicy05NURWOXJmUEd3TTR0ZHlRVUY1V3hxU3dWdXA3ODdaZFltdXJ2WnI5NmN0TGNseXFKYXhoUjg4dndnaGlUVXdRQ0YyN2VPaS1IUnd5d2lOaU5RTU0wa05yS1h4b1NmaDlYdmNrQVpxRHpEaTJxQU96UmVPdHhuNEZ5S3k3?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUt1anRfa2s0VVI2NXlTQlJWaE5weVJJNlhlRWxZMzA4LTVRelVZU3ZRRzBYMXgxdEI1UjVBRE9GbmJROXdIS08tbE9OQ24tVFhDZjRvTEFPLWRNUHV1RzdhWEVpSWhXbGp5UUw3SVhJTk9UYmNLS0lvSXdVbjBETjFCY2pycF9HaDlSY2I0b2FHdlVKc0RIcEpVUUw2ZlhEbExwa3FrY20tcDY5dlNF?oc=5"
+    },
+    {
+     "label": "Stocktwits",
+     "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-25-2026/cZUcyBcRBUp"
+    }
+   ]
+  }
+ ],
+ "industry": [
+  {
+   "who": "네이버",
+   "what": "브룩필드와 90억 달러 규모 AI 인프라 계약, 'AI 팩토리' 본격화. 28일 주가 장 초반 6%대 급등",
+   "source": {
+    "label": "전자신문",
+    "url": "https://www.etnews.com/20261027000413"
+   }
+  },
+  {
+   "who": "KT",
+   "what": "AI 토큰을 통신처럼 생산·유통하는 사업 진출",
+   "source": {
+    "label": "지디넷코리아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xcDkyc2JsSl9WZ2prXzY1M2FybDRaYVJHZjd5TXl2N2k5b2Z2R3p0UTBnNktmVF9lT2ZTZlVvRnFPR1NwRkJzRFl4OXVOdHR5Sl9uUi1R?oc=5"
+   }
+  },
+  {
+   "who": "솔리다임",
+   "what": "SK하이닉스 자회사, 미국에 60조 원 규모 낸드 공장 추진 (블룸버그 보도)",
+   "source": {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261028011300009"
+   }
+  },
+  {
+   "who": "미래에셋",
+   "what": "일본 증권사 인수 추진, 29일 이사회 뒤 발표 예정",
+   "source": {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261027154951008"
+   }
+  },
+  {
+   "who": "JYP엔터",
+   "what": "일본계 투자사가 지분 인수 추진, 금감원은 불공정거래 여부 주시",
+   "source": {
+    "label": "매일경제 증권",
+    "url": "https://www.mk.co.kr/news/stock/12187530"
+   }
+  },
+  {
+   "who": "삼성전자",
+   "what": "공정위, 갤럭시 GOS 성능 제한 미고지에 과징금 201억 원. 삼성은 법적 대응",
+   "source": {
+    "label": "MBC 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00NUl3Uno2VUl5am5HMHh3WTVqT2REWFlaa2dZU1lfcVB1V3hOaUZxM3UweFVMbUJ0eGxEaWJraWhSbEYyd3kwejZxUzVhdW93WktNVFVxdEs4MlVFWEl4RGVXTFVvUlZVdy1qa3A3bzhWVVU50gF0QVVfeXFMTmtEY2dKaW1vX3NTd3Z0TmNzZW1kcEFrNlgwYXE2emtJRTVyR2tWM0pELV8xRkp1a3hjd2ZBdmRPV25kX21ORTFnUkRvSWZGZUtTYURCbGppM3Fmdl9ya0NsejVwT0xwSF8xdjBpcE1HcGViY20?oc=5"
+   }
+  },
+  {
+   "who": "토스뱅크",
+   "what": "주택담보대출 시장 첫 진출, 인터넷은행 대출 경쟁 본격화",
+   "source": {
+    "label": "매일경제 경제",
+    "url": "https://www.mk.co.kr/news/economy/12186947"
+   }
+  },
+  {
+   "who": "금융위원회",
+   "what": "10년 고정금리 주택대출 확대 추진, 은행권과 곧 논의",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/10/28/MNRWGODBHBTGCMLGGU4DCMDCMY/"
+   }
+  },
+  {
+   "who": "HD건설기계",
+   "what": "군산 엔진 신공장 준공, 데이터센터용 발전엔진 사업 확대",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/industry-company/2026/10/28/7MZW5VZ3CBHNROSVRHA64FZIBM/"
+   }
+  },
+  {
+   "who": "골프존홀딩스",
+   "what": "MBK의 일방적 매각에 반대하며 법적 대응 예고",
+   "source": {
+    "label": "머니투데이",
+    "url": "https://www.mt.co.kr/living/2026/10/28/2026102809570699799"
+   }
+  },
+  {
+   "who": "래블업",
+   "what": "11월 3일 코스닥 상장, 공모가 1만9,000원·예상 시총 2,768억 원",
+   "source": {
+    "label": "벤처스퀘어",
+    "url": "https://www.venturesquare.net/1123545/"
+   }
+  }
+ ],
+ "trends": [
+  {
+   "title": "K-뷰티·소비재, 아마존 직판과 외국인 관광 결제가 함께 큰다",
+   "evidence": [
+    {
+     "text": "아마존 신화숙 대표 \"K-뷰티 성장 여력 여전히 크다, 내년엔 더 큰 성장 기대\"",
+     "source": {
+      "label": "벤처스퀘어",
+      "url": "https://www.venturesquare.net/1123451/"
+     }
+    },
+    {
+     "text": "동의모감, 미국 아마존 진출 18일 만에 헤어토닉 신상품 1위",
+     "source": {
+      "label": "벤처스퀘어",
+      "url": "https://www.venturesquare.net/1123605/"
+     }
+    },
+    {
+     "text": "라인플러스, K-뷰티 아마존 진출 돕는 상품 콘텐츠 자동화 AI 공개",
+     "source": {
+      "label": "벤처스퀘어",
+      "url": "https://www.venturesquare.net/1123623/"
+     }
+    },
+    {
+     "text": "와우패스 전국 17개 시·도 결제망 구축, 외국인 관광객 재사용 비중 45%",
+     "source": {
+      "label": "벤처스퀘어",
+      "url": "https://www.venturesquare.net/1123620/"
+     }
+    },
+    {
+     "text": "외국인 고객 상담·예약을 다국어로 통합하는 '킵커넥트' 출시",
+     "source": {
+      "label": "벤처스퀘어",
+      "url": "https://www.venturesquare.net/1123694/"
+     }
+    }
+   ],
+   "insight": "판로(아마존), 콘텐츠 제작(AI), 결제·응대(외국인 관광) 모두에서 K-소비재를 돕는 서비스가 동시에 나오고 있습니다. 브랜드보다 이 인프라를 제공하는 쪽에 기회가 넓습니다."
+  },
+  {
+   "title": "AI는 늘었는데 성과는? 일자리와 비용 구조의 재편",
+   "evidence": [
+    {
+     "text": "미국 공장 생산직도 AI 숙련도에 따라 몸값이 30% 높아",
+     "source": {
+      "label": "조선일보 경제",
+      "url": "https://www.chosun.com/economy/tech_it/2026/10/26/DWMNBS7OFZB5FOMM7PDZPE7L6Y/"
+     }
+    },
+    {
+     "text": "아마존 \"부적합하면 AI 안 쓰는 것도 능력\", 무조건 많이 쓰는 '토큰맥싱'에 제동",
+     "source": {
+      "label": "연합뉴스 국제",
+      "url": "https://www.yna.co.kr/view/AKR20261028065000091"
+     }
+    },
+    {
+     "text": "KT, AI 토큰 생산·유통 사업 진출",
+     "source": {
+      "label": "지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xcDkyc2JsSl9WZ2prXzY1M2FybDRaYVJHZjd5TXl2N2k5b2Z2R3p0UTBnNktmVF9lT2ZTZlVvRnFPR1NwRkJzRFl4OXVOdHR5Sl9uUi1R?oc=5"
+     }
+    },
+    {
+     "text": "\"AI 사용량은 늘었는데 크게 달라진 건 없다\"는 직장인 칼럼",
+     "source": {
+      "label": "모비인사이드",
+      "url": "https://www.mobiinside.co.kr/2026/10/28/ai-usage-vs-usability-measurement/"
+     }
+    },
+    {
+     "text": "AI가 신입의 첫 일을 가져간 뒤의 커리어 설계",
+     "source": {
+      "label": "모비인사이드",
+      "url": "https://www.mobiinside.co.kr/2026/10/28/ai-era-junior-designer-portfolio-judgment-strategy/"
+     }
+    }
+   ],
+   "insight": "AI를 얼마나 쓰느냐보다 어디에 써서 성과를 내느냐가 기업과 개인의 경쟁력이 되고 있습니다. AI 사용량·비용 관리와 직무 재교육 수요가 함께 커질 것입니다."
+  },
+  {
+   "title": "보안이 비용에서 생존 조건으로",
+   "evidence": [
+    {
+     "text": "증권사·운용사·코인거래소까지 해킹, 보안주 동반 상승",
+     "source": {
+      "label": "머니투데이",
+      "url": "https://www.mt.co.kr/stock/2026/10/28/2026102811162967881"
+     }
+    },
+    {
+     "text": "일본 인터넷 대기업 GMO, 해커가 훔친 고객 데이터 공개",
+     "source": {
+      "label": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+     }
+    },
+    {
+     "text": "뱅크오브아메리카, AI 비서에게 은행 비밀번호를 공유하지 말라고 당부",
+     "source": {
+      "label": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+     }
+    },
+    {
+     "text": "생성형 AI 정보 유출 방지 솔루션, GS인증 1등급 획득",
+     "source": {
+      "label": "벤처스퀘어",
+      "url": "https://www.venturesquare.net/1123506/"
+     }
+    },
+    {
+     "text": "딥페이크 인물 도용을 차단하는 얼굴 식별 기술 개발",
+     "source": {
+      "label": "벤처스퀘어",
+      "url": "https://www.venturesquare.net/1123557/"
+     }
+    }
+   ],
+   "insight": "해킹 피해가 국경과 업종을 가리지 않고, AI 비서라는 새 통로까지 생겼습니다. 금융·플랫폼 기업의 보안 예산은 줄이기 어려운 고정비가 되고 있습니다."
+  }
+ ],
+ "search_trends": {
+  "note": "Google 트렌드 한국 · 수집 시점 기준",
+  "items": [
+   {
+    "term": "아주대 소아 응급실",
+    "traffic": "5,000+"
+   },
+   {
+    "term": "국민연금",
+    "traffic": "1,000+"
+   },
+   {
+    "term": "대신증권",
+    "traffic": "500+"
+   },
+   {
+    "term": "그랜드 테프트 오토 VI",
+    "traffic": "500+"
+   },
+   {
+    "term": "sk하이닉스 ir",
+    "traffic": "200+"
+   },
+   {
+    "term": "어닝콜",
+    "traffic": "200+"
+   },
+   {
+    "term": "팔란티어 테크놀로지",
+    "traffic": "200+"
+   }
+  ],
+  "comment": "대신증권은 고객정보 유출 소식, 'sk하이닉스 ir'과 '어닝콜'은 실적 발표 때문에 검색이 늘었습니다. 아주대 소아 응급실은 소아응급 교수 7명의 사직 결정 보도와 맞물립니다."
+ },
+ "schedule": {
+  "note": "모두 한국 시간",
+  "rows": [
+   {
+    "when": "10/29(목) 03:00",
+    "event": "FOMC 금리 결정 (03:30 기자회견)",
+    "watch": "3.75~4.00% 동결 예상, 추가 인상 신호 여부",
+    "hot": true
+   },
+   {
+    "when": "10/29(목) 새벽",
+    "event": "마이크로소프트·알파벳 실적 발표",
+    "watch": "AI 설비투자(capex) 계획",
+    "hot": true
+   },
+   {
+    "when": "10/29(목)",
+    "event": "미래에셋 일본 증권사 인수 발표",
+    "watch": "인수 대상과 규모"
+   },
+   {
+    "when": "10/29(목)",
+    "event": "티앤이코리아 코스닥 상장",
+    "watch": "공모주 수급"
+   },
+   {
+    "when": "10/29(목) 21:30",
+    "event": "미국 3분기 GDP·9월 PCE 물가",
+    "watch": "인플레이션 재가속 여부"
+   },
+   {
+    "when": "10/30(금) 새벽",
+    "event": "아마존·인텔 실적 발표",
+    "watch": "AWS 성장률, 인텔 파운드리"
+   },
+   {
+    "when": "11/3(화)",
+    "event": "미국 중간선거 · 래블업 코스닥 상장",
+    "watch": "의회 구도, AI 인프라 공모주 흐름"
+   }
+  ],
+  "foot": "미국 일정은 서머타임(EDT, 한국과 13시간 차) 기준으로 환산했습니다. 유럽중앙은행·일본은행 일정은 확인하지 못해 넣지 않았습니다.",
+  "sources": [
+   {
+    "label": "Stocktwits",
+    "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-25-2026/cZUcyBcRBUp"
+   },
+   {
+    "label": "Regards of Wall Street",
+    "url": "https://www.regardsofwallstreet.com/news/stock-market-week-ahead-october-26-2026"
+   },
+   {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261027154951008"
+   },
+   {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261027179800008"
+   },
+   {
+    "label": "벤처스퀘어",
+    "url": "https://www.venturesquare.net/1123545/"
+   }
+  ]
+ },
+ "watch": {
+  "opportunities": [
+   "대형 반도체주의 100조 원 규모 주주환원이 다른 대기업의 배당·자사주 정책으로 번질 수 있습니다.",
+   {
+    "text": "금융권 해킹 확산으로 보안 솔루션·접근통제·백업 수요가 늘어납니다",
+    "source": {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/10/28/2026102811162967881"
+    }
+   },
+   "K-소비재의 아마존 직판과 외국인 관광 결제·응대 서비스가 함께 커지고 있습니다.",
+   {
+    "text": "데이터센터 붐이 전력망과 발전설비로 번지고 있습니다",
+    "source": {
+     "label": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+    }
+   }
+  ],
+  "risks": [
+   {
+    "text": "FOMC가 매파적이면 국채 강세 베팅이 뒤집히고 성장주가 흔들릴 수 있습니다",
+    "source": {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVdDN1Q0dWNoV3p6Z1JKbXlQM0tsU3lGVFVKMzNkZW5qR2FVYUFicy05NURWOXJmUEd3TTR0ZHlRVUY1V3hxU3dWdXA3ODdaZFltdXJ2WnI5NmN0TGNseXFKYXhoUjg4dndnaGlUVXdRQ0YyN2VPaS1IUnd5d2lOaU5RTU0wa05yS1h4b1NmaDlYdmNrQVpxRHpEaTJxQU96UmVPdHhuNEZ5S3k3?oc=5"
+    }
+   },
+   "코스피가 하루 단위로 급등락을 반복하고 있어, 이틀 연속 사이드카는 과열 신호이기도 합니다.",
+   "유가 100달러 언저리와 생필품 가격 인상이 시차를 두고 국내 물가에 반영됩니다.",
+   "제조업 체감 경기 악화와 민간소비 감소가 겹치면 내수 기업 실적이 먼저 꺾입니다."
+  ],
+  "keywords": [
+   "주주환원",
+   "매수 사이드카",
+   "금융권 해킹",
+   "FOMC",
+   "체감 경기",
+   "K-뷰티 직판"
+  ]
+ },
+ "notes": [
+  "시험 실행: 루틴 시간(07:40)이 아니라 장중(11:40 무렵)에 만든 판이라 28일 장중 코스피 흐름이 들어 있습니다. 정기 실행본은 장 시작 전 정보만 다룹니다.",
+  "미 국채 10년물과 VIX는 기사와 검색에서 10/27 수치를 확인하지 못했습니다. FRED API 키를 등록하면 공식 수치로 채워집니다."
+ ]
+}
