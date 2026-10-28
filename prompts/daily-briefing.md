@@ -1,7 +1,8 @@
 # 매일 경제 브리핑 작업 지침
 
 매일 07:40 KST에 루틴이 새 클라우드 세션을 띄워 이 지침대로 브리핑을 작성한다.
-결과물은 `briefings/YYYY-MM-DD.md` 한 파일이다. 날짜는 KST 기준 오늘이다.
+결과물은 `briefings/YYYY-MM-DD.md` 한 파일이고, 보기용으로 Artifact 페이지
+https://claude.ai/artifact/4usQTC3hvoJ7W55kw9Ngdh 를 같은 URL로 갱신한다. 날짜는 KST 기준 오늘이다.
 
 ## 1. 준비
 
@@ -104,9 +105,16 @@ python3 scripts/fetch_news.py
 2. 커밋 메시지는 `briefing: YYYY-MM-DD`로 한다.
 3. `git push -u origin claude/jolly-tesla-u8r0gz`로 푸시한다. 네트워크 오류일 때만 2·4·8·16초 간격으로 최대 4번 재시도한다.
 
-## 7. 마지막 응답
+## 7. Artifact 페이지 갱신
+
+1. `python3 scripts/render_page.py`로 `site/index.html`을 만든다. 최근 60일 브리핑이 한 페이지에 들어간다.
+2. Artifact 도구로 기존 페이지를 먼저 읽는다: `action: "read"`, `url: "https://claude.ai/artifact/4usQTC3hvoJ7W55kw9Ngdh"`.
+3. 같은 URL로 다시 게시한다: `file_path: "site/index.html"`, `url: "https://claude.ai/artifact/4usQTC3hvoJ7W55kw9Ngdh"`. `icon`은 넘기지 않는다.
+4. 새 Artifact를 만들지 않는다. 게시가 실패하면 커밋은 그대로 두고, 마지막 응답에 실패 사유를 적는다.
+
+## 8. 마지막 응답
 
 마지막 응답은 푸시 알림으로 전달되므로 짧게 쓴다.
 - 1줄: 한 줄 총평
 - 1줄: 핵심 수치 3개 (예: `KOSPI +1.2% · S&P −0.4% · 원/달러 1,324원`)
-- 1줄: 커밋된 파일 경로, 또는 실패했다면 어느 단계에서 왜 실패했는지
+- 1줄: 페이지 링크 https://claude.ai/artifact/4usQTC3hvoJ7W55kw9Ngdh , 또는 실패했다면 어느 단계에서 왜 실패했는지
