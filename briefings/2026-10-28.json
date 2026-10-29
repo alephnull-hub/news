@@ -1,17 +1,17 @@
 {
  "date": "2026-10-28",
- "generated_at": "11:40",
+ "generated_at": "12:10",
  "collection": {
-  "window": "10/27 11:35 – 10/28 11:35 KST",
-  "feeds_ok": 27,
-  "feeds_total": 27,
-  "articles": 1229,
+  "window": "10/27 12:04 – 10/28 12:04 KST",
+  "feeds_ok": 29,
+  "feeds_total": 29,
+  "articles": 1260,
   "failed": []
  },
  "title": "오늘의 비즈니스·경제 브리핑",
- "lead": "SK하이닉스가 3분기 영업이익 83조 원과 올해 100조 원 규모의 주주환원을 내놓자 코스피가 이틀 연속 매수 사이드카 속에 6,000선을 되찾았습니다. 금융권 해킹은 증권사와 코인거래소로 번지고 있고, 오늘 밤 FOMC와 빅테크 실적이 랠리의 다음 방향을 정합니다.",
+ "lead": "SK하이닉스가 3분기 영업이익 83조 원과 올해 100조 원 규모의 주주환원을 내놓자 코스피가 이틀 연속 매수 사이드카 속에 장중 6,000선을 되찾았습니다. 증권사·코인거래소로 번진 금융권 해킹과 오늘 밤 FOMC·빅테크 실적이 랠리의 다음 방향을 가를 변수입니다.",
  "market": {
-  "note": "10/27 종가 기준",
+  "note": "10/27 종가 기준 (28일 장중이라 전 거래일 종가를 썼습니다)",
   "tiles": [
    {
     "name": "코스피",
@@ -46,21 +46,21 @@
     "value": "7,722.60",
     "change": "45.83 (+0.60%)",
     "dir": "up",
-    "note": "10/27 현지 · 연합뉴스"
+    "note": "10/27 현지 · 한국경제"
    },
    {
     "name": "나스닥",
     "value": "26,477.81",
     "change": "308.43 (+1.18%)",
     "dir": "up",
-    "note": "10/27 현지 · 연합뉴스"
+    "note": "10/27 현지 · 한국경제"
    },
    {
     "name": "다우",
     "value": "52,377.57",
     "change": "15.99 (+0.03%)",
     "dir": "up",
-    "note": "10/27 현지 · 연합뉴스"
+    "note": "10/27 현지 · 한국경제"
    },
    {
     "name": "필라델피아 반도체",
@@ -74,47 +74,47 @@
     "value": "$99.90",
     "change": "1.83%",
     "dir": "down",
-    "note": "10/27 현지 · 한국경제"
+    "note": "10/27 현지 · 연합뉴스"
    },
    {
     "name": "브렌트 (12월물)",
     "value": "$113.88",
     "change": "1.67%",
     "dir": "down",
-    "note": "10/27 현지 · 한국경제"
+    "note": "10/27 현지 · 연합뉴스"
    },
    {
     "name": "미 국채 10년",
     "value": "확인 불가",
     "change": "—",
     "dir": "na",
-    "note": "FRED 키 등록 시 표시"
+    "note": "FRED 키 미설정 · 기사에서 미확인"
    },
    {
     "name": "VIX",
     "value": "확인 불가",
     "change": "—",
     "dir": "na",
-    "note": "FRED 키 등록 시 표시"
+    "note": "FRED 키 미설정 · 기사에서 미확인"
    }
   ],
-  "foot": "원/달러는 서울 외환시장 주간 종가(15:30), 유가는 12월 인도분 선물 종가입니다. 공식 데이터(ECOS·FRED) 키가 없어 모든 수치는 시황 기사 본문에서 인용했습니다.",
+  "foot": "국내는 27일 종가, 미국·유가는 27일(현지) 종가입니다. ECOS·FRED 공식 수치는 API 키가 없어 쓰지 못했고, 시황 기사 본문에서 확인한 값만 실었습니다.",
   "sources": [
    {
-    "label": "연합뉴스 (국내 증시·환율)",
+    "label": "연합뉴스 (코스피·원/달러 마감)",
     "url": "https://www.yna.co.kr/view/AKR20261027146100008"
    },
    {
-    "label": "연합뉴스 (국고채)",
+    "label": "연합뉴스 (국고채 금리)",
     "url": "https://www.yna.co.kr/view/AKR20261027157251008"
    },
    {
-    "label": "연합뉴스 (뉴욕 증시)",
-    "url": "https://www.yna.co.kr/view/AKR20261028006851072"
+    "label": "한국경제 (뉴욕증시 브리핑)",
+    "url": "https://www.hankyung.com/article/2026102892456"
    },
    {
-    "label": "한국경제 (반도체지수·유가)",
-    "url": "https://www.hankyung.com/article/2026102892456"
+    "label": "연합뉴스 (국제유가)",
+    "url": "https://www.yna.co.kr/view/AKR20261028006000072"
    }
   ]
  },
@@ -125,25 +125,25 @@
     "반도체",
     "증시"
    ],
-   "count": 59,
-   "summary": "영업이익 83조3,338억 원으로 1년 전보다 632% 늘며 6개 분기 연속 최대치를 경신했고, 분기 매출은 처음 100조 원을 넘었습니다. 주당 2만 원 현금배당을 포함해 올해 약 100조 원을 주주에게 돌려줍니다. 2027~2028년 생산능력의 50% 이상을 장기계약으로 묶었고 \"2030년까지 메모리 공급 부족\"을 전망했습니다. 다만 투자·환 손실로 순이익은 크게 줄었습니다.",
-   "why": "코스피에서 비중이 큰 종목이라 지수 방향을 좌우합니다. 중국 CXMT발 '반도체 고점론'에 대한 정면 반박이기도 합니다. 반면 환원 발표 뒤에도 수익률 상위 개인투자자들은 삼성전자와 SK하이닉스를 팔았다는 집계가 나와 차익 실현 압력도 함께 봐야 합니다.",
+   "count": 49,
+   "summary": "3분기 영업이익이 83조3,338억 원으로 1년 전보다 632.1% 늘어 6개 분기 연속 최대치를 냈고, 시장 전망치(76조2,605억 원)를 9.3% 웃돌았습니다. 매출은 104조6,155억 원으로 분기 기준 처음 100조 원을 넘었고 영업이익률은 79.7%, 순이익은 39조7,756억 원입니다. 60조 원 규모의 추가 주주환원을 더해 올해 환원액이 100조 원에 이릅니다. 2027~2028년 생산능력의 50% 이상을 장기공급계약으로 확보했고 2030년까지 메모리 공급 부족을 전망했습니다.",
+   "why": "코스피 비중이 큰 종목이라 지수 방향을 좌우합니다. 중국 CXMT발 '반도체 고점론'에 대한 반박이기도 합니다. 다만 환원 발표 뒤에도 수익률 상위 개인투자자들이 삼성전자와 SK하이닉스를 팔았다는 집계가 나와 차익 실현 물량도 함께 봐야 합니다.",
    "sources": [
     {
      "label": "연합뉴스 마켓",
-     "url": "https://www.yna.co.kr/view/AKR20261028028053527"
+     "url": "https://www.yna.co.kr/view/AKR20261028028052527"
     },
     {
      "label": "연합뉴스 경제",
      "url": "https://www.yna.co.kr/view/AKR20261028036251003"
     },
     {
-     "label": "조선일보 경제",
+     "label": "조선일보 경제 (공급 부족 전망)",
      "url": "https://www.chosun.com/economy/tech_it/2026/10/28/GRRTQYRZGM2TIZJUG43WIYRXME/"
     },
     {
-     "label": "머니투데이",
-     "url": "https://www.mt.co.kr/industry/2026/10/28/2026102810255952011"
+     "label": "조선일보 경제 (장기계약)",
+     "url": "https://www.chosun.com/economy/tech_it/2026/10/28/G5RWIYZWGE4GKMRUMFSTAZJYGY/"
     },
     {
      "label": "매일경제 (초고수 매매)",
@@ -152,280 +152,312 @@
    ]
   },
   {
-   "title": "코스피 이틀 연속 매수 사이드카, 장중 6,000선 탈환",
+   "title": "증권사·코인거래소로 번진 금융권 해킹",
    "tags": [
-    "증시",
-    "수급"
+    "금융",
+    "보안"
    ],
-   "count": 39,
-   "summary": "27일 3.09% 오른 5,638.34로 마친 코스피는 28일 장 초반 4%대 급등해 이틀 연속 매수 사이드카가 발동됐습니다. 오전 11시 무렵 6%대까지 올라 10거래일 만에 6,000선을 회복했습니다. 앤트로픽 IPO발 AI 랠리와 SK하이닉스 실적이 겹쳤고, 외국인은 27일 5,910억 원 순매수로 돌아섰습니다.",
-   "why": "코스피는 19일부터 하루씩 오르내림을 반복하고 있습니다. 상승폭을 장 마감까지 지키는지, 외국인 매수가 이어지는지가 랠리의 진위를 가립니다.",
+   "count": 28,
+   "summary": "대신증권이 고객 3만8,490명의 개인·신용정보가 유출됐다고 밝혔고, 빗썸은 사내 모바일 그룹웨어에 비인가 접근이 있어 유출 범위를 분석 중입니다. 빗썸은 고객자산에 접근한 정황은 없다고 했습니다. 미래에셋자산운용도 웹 시스템 이상 접근을 확인했으며 고유식별정보·민감정보 유출은 없다고 설명했습니다. 금융감독원은 대신증권에 현장점검반을 보냈고, 26일 미래에셋생명에 이어 카드사를 제외한 주요 금융업권이 모두 피해를 확인한 셈입니다.",
+   "why": "고객정보 유출은 소송과 제재, 이탈로 이어질 수 있어 해당 금융사의 비용 부담이 커집니다. 보안주는 이 소식에 동반 상승했고, 정부는 통신·IDC 등 핵심시설 170여 곳 보안점검에도 나섰습니다.",
    "sources": [
     {
      "label": "연합뉴스 경제",
-     "url": "https://www.yna.co.kr/view/AKR20261028083000008"
+     "url": "https://www.yna.co.kr/view/AKR20261028053251002"
     },
     {
-     "label": "연합뉴스 (6%대 급등)",
-     "url": "https://www.yna.co.kr/view/AKR20261028085900008"
+     "label": "조선일보 경제 (대신증권)",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/10/28/MUZDSNRUGIZTSZTFGNRTEMRQHA/"
     },
     {
-     "label": "머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/10/28/2026102810081042345"
-    },
-    {
-     "label": "연합뉴스 (27일 마감)",
-     "url": "https://www.yna.co.kr/view/AKR20261027146100008"
-    }
-   ]
-  },
-  {
-   "title": "빗썸·미래에셋운용·대신증권까지, 금융권 해킹 전방위 확산",
-   "tags": [
-    "보안",
-    "금융"
-   ],
-   "count": 25,
-   "summary": "금감원이 빗썸, 미래에셋자산운용, 대신증권의 해킹 침해를 추가로 확인하고 현장점검에 나섰습니다. 대신증권은 고객 3만8,490명의 개인·신용정보가 유출됐다고 밝혔고, 빗썸은 사내 그룹웨어를 통해 직원 정보가 빠져나가 회원 정보 포함 여부를 분석 중입니다. 정부는 통신·IDC 등 핵심시설 170여 곳의 보안을 점검합니다.",
-   "why": "보안주가 동반 상승할 만큼 시장도 반응하고 있습니다. 금융사의 보안 투자와 규제가 늘어날 가능성이 크고, 개인은 금융 앱 비밀번호와 2단계 인증을 점검해 둘 시점입니다.",
-   "sources": [
-    {
-     "label": "연합뉴스 경제",
-     "url": "https://www.yna.co.kr/view/AKR20261028053252002"
-    },
-    {
-     "label": "KBS 뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ONkg3NlRoWHF0WHpQOVI1ZTlENk9oV1dPdkp6U0dKSkpHR0pNN3Z1RklOam1ldlFRSHNzYnBPajFIMUMtaEVINURNakZ0eDI1R0o5Tkg3VlU1LUU?oc=5"
-    },
-    {
-     "label": "머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/10/28/2026102810033916631"
+     "label": "한국경제 (빗썸)",
+     "url": "https://www.hankyung.com/article/2026102898767"
     },
     {
      "label": "머니투데이 (보안주)",
      "url": "https://www.mt.co.kr/stock/2026/10/28/2026102811162967881"
+    },
+    {
+     "label": "KBS 뉴스 (핵심시설 점검)",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ONkg3NlRoWHF0WHpQOVI1ZTlENk9oV1dPdkp6U0dKSkpHR0pNN3Z1RklOam1ldlFRSHNzYnBPajFIMUMtaEVINURNakZ0eDI1R0o5Tkg3VlU1LUU?oc=5"
     }
    ]
   },
   {
-   "title": "3분기 GDP 1.0% 깜짝 성장, 민간소비는 뒷걸음",
+   "title": "앤트로픽 IPO 훈풍에 코스피 이틀 연속 사이드카, 장중 6,000선 회복",
    "tags": [
-    "거시",
-    "소비"
+    "증시",
+    "AI"
    ],
-   "count": 14,
-   "summary": "3분기 실질 GDP는 전 분기보다 1.0% 늘어 한국은행의 8월 전망치(0.3%)를 크게 웃돌았고, 3개 분기 연속 전망을 넘어선 것은 처음입니다. 설비투자 4.1%, 수출 2.3%가 성장을 끌었지만 민간소비는 0.2% 줄었습니다. 정부는 올해 3% 중반 성장과 1인당 국민소득 4만 달러 진입을 전망했습니다.",
-   "why": "숫자와 체감이 갈립니다. 한경협 조사에서 11월 기업 경기 전망(BSI)은 98.6으로 2개월 연속 기준선 아래였고, 반도체가 포함된 전자·통신장비는 83.3으로 9개월 만에 부정 전환했습니다. 세금과 카드값을 할부로 미루는 가계도 늘고 있습니다.",
+   "count": 28,
+   "summary": "27일 코스피는 3.09% 오른 5,638.34로 마감했고 외국인이 5,910억 원을 순매수했습니다. 앤트로픽이 IPO 신청서를 냈다는 소식에 반도체 투자 심리가 살아났습니다. 28일에는 SK하이닉스 실적이 더해져 장중 4%대 급등으로 이틀 연속 매수 사이드카가 발동됐고, 6%대까지 오르며 6,000선을 10거래일 만에 되찾았습니다.",
+   "why": "코스피는 19일부터 하루 걸러 오르내리는 변동성 장세여서, 급등 뒤 되돌림 가능성도 열어 둬야 합니다. 27일 개인은 9,490억 원을 순매도해 외국인·기관과 엇갈렸습니다.",
    "sources": [
     {
-     "label": "서울경제",
-     "url": "https://www.sedaily.com/article/20106879"
+     "label": "연합뉴스 마켓 (27일 마감)",
+     "url": "https://www.yna.co.kr/view/AKR20261027146100008"
     },
     {
-     "label": "전자신문",
-     "url": "https://www.etnews.com/20261027000438"
+     "label": "연합뉴스 경제 (6%대 급등)",
+     "url": "https://www.yna.co.kr/view/AKR20261028085900008"
     },
     {
-     "label": "연합뉴스 (기업 경기 전망)",
-     "url": "https://www.yna.co.kr/view/AKR20261027167600003"
+     "label": "연합뉴스 경제 (사이드카)",
+     "url": "https://www.yna.co.kr/view/AKR20261028064600008"
     },
     {
-     "label": "매일경제 (할부 결제)",
-     "url": "https://www.mk.co.kr/news/stock/12188146"
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/10/28/2026102810515326153"
+    },
+    {
+     "label": "한국경제 (마켓라이브)",
+     "url": "https://www.hankyung.com/article/202610280139i"
     }
    ]
   },
   {
-   "title": "가상자산 과세 내년 1월 시행 앞두고 당정, 유예 결론 못 내",
+   "title": "가상자산 과세, 당정 '유예 여부' 결론 못 내",
    "tags": [
     "가상자산",
     "세제"
    ],
    "count": 8,
-   "summary": "28일 당정협의회에서 결론을 내지 못하고 민주당이 당 차원에서 더 점검하기로 했습니다. 세 차례 유예된 만큼 시행하자는 의견과 보완하자는 의견이 엇갈렸고, 여당 안에서는 과세 인프라 미비와 청년층 우려로 추가 유예에 무게가 실립니다. 한국은행이 해외로 보낸 코인의 잔액을 매달 보겠다고 하자 업계는 정보 수집이 과하다고 반발했습니다.",
-   "why": "결론에 따라 코인 투자자의 세금 부담과 연말 거래소 수급이 달라집니다.",
+   "summary": "더불어민주당과 정부가 28일 당정협의회를 열어 내년 1월 시행 예정인 가상자산 과세의 유예 여부를 논의했지만 결론을 내지 못했습니다. 김민석 대표는 유예 의견이 많다고 전했고, 과세는 이미 세 차례 미뤄졌습니다. 해외 거래소 정보 확보 방안, 파생상품 과세 분류, 손실이월공제 등이 쟁점으로 거론됐습니다.",
+   "why": "시행이 두 달 남짓 남아 투자자의 세 부담 계획이 달라질 수 있습니다. 한국은행이 해외로 보낸 코인의 잔액을 매달 확인하겠다고 해 업계가 정보 수집이 과하다고 반발하는 점도 같은 흐름입니다.",
    "sources": [
     {
      "label": "연합뉴스 경제",
      "url": "https://www.yna.co.kr/view/AKR20261028030752001"
     },
     {
-     "label": "매일경제 경제",
-     "url": "https://www.mk.co.kr/news/economy/12188027"
+     "label": "연합뉴스 경제 (결론 못 내)",
+     "url": "https://www.yna.co.kr/view/AKR20261028030751001"
     },
     {
-     "label": "조선일보 (한은 잔액 보고)",
+     "label": "경향신문",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhOVo2eGRMVGwteGJsSUxWcjBFSGl4TXI5OGdIY1hXbDR5YkxxTEZ2eXUtWnprektKa2NEX29VS190czhqRm5EaDlXSmFaSjBTZjdoM2RNM3hpZ9IBX0FVX3lxTE1zcGNRRkVOZGtEclBXUFRDS1hpY0YtYlhUTWJ6TkNWd2JFVHo4TmVGa3IxZmdxMjdRbmZVRTduaHB6dE5PUG5lM20wZ0hmX2w4YlhYckJXbkN4c2N6eEt3?oc=5"
+    },
+    {
+     "label": "조선일보 경제 (한은 잔액 확인)",
      "url": "https://www.chosun.com/economy/stock-finance/2026/10/28/MYZTEYLEGBRDKODFMI3TKOBXGE/"
+    },
+    {
+     "label": "뉴닉",
+     "url": "https://newneek.co/@newneek/article/48151"
+    }
+   ]
+  },
+  {
+   "title": "네이버, 브룩필드와 90억 달러 AI 컴퓨팅 인프라 계약",
+   "tags": [
+    "AI",
+    "플랫폼"
+   ],
+   "count": 6,
+   "summary": "네이버가 글로벌 자산운용사 브룩필드와 약 12조 원(90억 달러) 규모의 컴퓨팅 인프라 확보 계약을 27일 공시했습니다. 브룩필드 측 투자목적회사가 출자한 별도 회사가 GPU를 확보하고 네이버클라우드가 이를 공급받아 고객에게 서비스하는 구조입니다. 28일 장 초반 주가는 6.66% 오른 18만5,900원(9시 31분 기준)까지 올랐고, 한때 7.23% 상승했습니다.",
+   "why": "대규모 외부 자본을 계약으로 구체화해 네오클라우드의 조달 불안이 덜어졌다는 평가입니다. 다만 대신증권은 후속 고객 계약과 투자자 배분 뒤 네이버에 귀속되는 이익이 관건이라고 짚었습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261028055700008"
+    },
+    {
+     "label": "연합뉴스 경제 (대신증권 평가)",
+     "url": "https://www.yna.co.kr/view/AKR20261028029200008"
+    },
+    {
+     "label": "한국경제 증권",
+     "url": "https://www.hankyung.com/article/2026102892956"
+    },
+    {
+     "label": "한국경제 IT (AI팩토리)",
+     "url": "https://www.hankyung.com/article/2026102786581"
+    },
+    {
+     "label": "한국경제 IT (본궤도)",
+     "url": "https://www.hankyung.com/article/202610278549i"
     }
    ]
   }
  ],
  "global": [
   {
-   "title": "앤트로픽 IPO가 되살린 AI 랠리, 월가 이틀째 상승",
+   "title": "앤트로픽 IPO 신청과 브로드컴 630억 달러 자금조달, AI 금융 확대",
    "tags": [
     "AI",
     "IPO"
    ],
-   "count": 56,
-   "summary": "앤트로픽의 IPO 추진으로 AI 투자가 계속될 것이라는 믿음이 살아나며 뉴욕 증시가 이틀 연속 올랐고 코어위브 등 AI주가 강세였습니다. 블룸버그는 앤트로픽이 미국 개인투자자 공모 주관사로 JP모건을 골랐다고 보도했고, 브로드컴의 앤트로픽용 칩 금융 거래에는 은행들이 210억 달러 규모 채권 발행을 검토하고 있습니다. 해외 언론은 SK하이닉스 실적도 'AI 열풍에 대한 의구심을 달랜 결과'로 전했습니다.",
-   "why": "AI 거품론이 잦아드는 계기가 됐지만, 실리콘밸리 낙관론자조차 거품 우려 근거를 보여 줬다는 반론도 나옵니다. 국내 반도체주와 직결되는 흐름입니다.",
+   "count": 19,
+   "summary": "앤트로픽이 SEC에 IPO 증권신고서를 냈고, 최대 2조 달러 가치로 1,000억 달러를 조달하는 것이 목표로 알려졌습니다. 브로드컴은 앤트로픽의 반도체 구매 자금으로 주요 금융사와 630억 달러 규모 계약을 맺은 것으로 전해졌고, 은행들은 이와 연계한 210억 달러 채권을 검토 중입니다. 27일 뉴욕 증시에서 필라델피아 반도체지수는 3.60%, 나스닥은 1.18% 올랐습니다. 오픈AI의 구글 TPU 구매 계획과 오라클의 구글·세레브라스 칩 탑재도 엔비디아 의존을 낮추려는 움직임으로 보도됐습니다.",
+   "why": "AI 수익성 우려가 한풀 꺾이며 반도체주가 반등했지만, 막대한 부채 조달이 뒤따라 AI 투자 사이클이 금융시장 안정에 기대는 구조가 짙어졌습니다. 무디스는 AI 금융이 사모대출 성장을 이끌며 차환 위험도 커진다고 경고했습니다.",
    "sources": [
     {
-     "label": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR21qQWZsLUZqbWRjR2YtQ3FGakpEWWVjSUVFNjVDSi01MnRiWmV3Z2pPQUsyVGhJR3UxQ1o4RjRVa2tCLXNXbnJjNE9fbE5KVzlKTEZtNHpZb3lPR0hXcFFSVGVydlpnR3RQdVM5bDE3aVI3aVowN0NqY3NHb3VDN3hlaXpLTmxkeFc3NE13dUNqYUtIMHNxRFR5M3VYZmpKUDRzVE5WLUdwRHJCeEpQM1pKaw?oc=5"
+     "label": "한국경제 (뉴욕증시 브리핑)",
+     "url": "https://www.hankyung.com/article/2026102892456"
     },
     {
-     "label": "Bloomberg",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWdYcFFPZlJNOVktU05PdTRoWVNxSVUyQ2l6ek9ibU13cnVTczNGNVZkLTNrZ0h3bGVSRFdnNTVaQVNGUExjVGVkRFNFOE1QbklFT3JyWmNiNDdycE96ZmZ1VDBLOGtOdmNYWkZMZHlxMTd2WENNTU1kWVFYOEgtXzgtUHBOcndzZlZOclNXWWMtR0FYT3JnR19TSEI5YUNmRG1xcTVPdWJqcjlCOWZXaFE0NkJ6QQ?oc=5"
+     "label": "WSJ (브로드컴 630억 달러)",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5?oc=5"
     },
     {
-     "label": "MarketWatch",
-     "url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories"
-    },
-    {
-     "label": "Bloomberg",
+     "label": "Bloomberg (210억 달러 채권)",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObENDd2ZaNmE1VUlBR0d6Q1YydGNyX1dNZUV1YVVoTlpfb1hJckdOV1VKTDJqLXZhbzNWdnpUOWNwc2huLVBXWUF5ZFZzUU1meXhPTzlGMmc4cUt5VzBCeEJwb0NLQ3p3d2xhc0NVb0tuOFRHS3JmbjRHMXp4UDd5WEZiUUJKbHBrTFNJLVVMSnFLZmU1ZHRhMzVVZnBFS2xjY05LQzdDSTFPSGMxVzVQNkFocw?oc=5"
     },
     {
-     "label": "Bloomberg",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5"
+     "label": "Bloomberg (JP모건 IPO 주관)",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWdYcFFPZlJNOVktU05PdTRoWVNxSVUyQ2l6ek9ibU13cnVTczNGNVZkLTNrZ0h3bGVSRFdnNTVaQVNGUExjVGVkRFNFOE1QbklFT3JyWmNiNDdycE96ZmZ1VDBLOGtOdmNYWkZMZHlxMTd2WENNTU1kWVFYOEgtXzgtUHBOcndzZlZOclNXWWMtR0FYT3JnR19TSEI5YUNmRG1xcTVPdWJqcjlCOWZXaFE0NkJ6QQ?oc=5"
     },
     {
-     "label": "MarketWatch (거품 우려)",
-     "url": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories"
+     "label": "Reuters (무디스)",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5"
+    },
+    {
+     "label": "Reuters (오라클)",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0?oc=5"
     }
    ]
   },
   {
-   "title": "미국 기업 실적 엇갈려: 비자·UPS 선방, 보잉·로빈후드 부진",
+   "title": "이스라엘 총선, 뚜렷한 승자 없는 초박빙",
    "tags": [
-    "실적",
-    "미국"
+    "중동",
+    "정치"
    ],
-   "count": 39,
-   "summary": "비자는 결제액이 9% 늘며 예상을 웃돌았고, UPS는 연말 이익 개선을 전망하며 데이터센터 붐에서 연 150억 달러 매출 기회를 언급했습니다. 보잉은 737 증산 속도와 잉여현금흐름 전망이 기대에 못 미쳐 주가가 급락했습니다. 로빈후드는 코인 거래 둔화로 이익이 예상을 밑돌았고, NXP는 미지근한 매출 전망에, 시게이트는 사상 최대 실적에도 주가가 내렸습니다.",
-   "why": "소비·결제·물류는 버티지만 제조와 코인 관련 사업은 약합니다. 기대가 높은 종목은 좋은 실적에도 떨어지는 장이라 국내 실적주도 같은 잣대로 평가받을 수 있습니다.",
-   "sources": [
-    {
-     "label": "Bloomberg",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW5rWUVOZFJIMnhSTkFTUTRsLUVKcWpTamYzZmpRRW41Q2xna0tpRnFVM2M3bC0zZk1LdnE1RkQtWTYyLUl1b3BROGI4el9pWlljWE5wNVllOEhtRnBGYlBVbDR3R2ZtU2tvbFFRWDZnV1VzRUMxaDVuOVFpT2tIZ01RTWZXV0plbFl3YkF5bm9Yd0dsUzBfclJpbVM1SnM2MmEtN3lIUTQ0aDg?oc=5"
-    },
-    {
-     "label": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ09qUmU1TG9CYkFQZWhZRWRlajJfMDRabXhYWUZTck05eVJHc1ZtY1ZaM203c2xiRm8wMWNqMGsxUHFyWHg4NmZBYUNLQmNVa2VCSnZrVld3ZzFtU0FGY2NBREd2bVZUVGRJSVY3SWRGRTRVMy1MRXB3U1JQMFF4ZE1RRHJGeFFvQUdMRG84dUtqSGZxdFVRaWVIenVZanNwTGFXalpfTzRraWx4WG5fNmJmdTRoRDFoZVZ0N0hibVpVNU5QNk4xSXIxUDJialJXYnlxaVFaYw?oc=5"
-    },
-    {
-     "label": "Reuters (UPS 데이터센터)",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEFxR2I1ZlhWMkZHZVQzQXFoQTdzV3E0UUN1el82N3o1dlBkZEo2M011NUY4Q0VvMng4TFlJTG8wUVA2ZjRoZ0VwNmdsUlFmaDJXY3oxQnhEOU8yOVlQRmJZazBlWHV1Z0pMSkVBQ2EyNlk1RWkyNmlDYW52VjVkbGxYelNaMm9YWDdDTnZiLVhVbjk1X0dZRmo1SUppREI1a2RicGxDZ0RON0RpVC02VGl3?oc=5"
-    },
-    {
-     "label": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnZ1c1Q5Q2tSYnRpdnppV25UNEpNekRsVGhpbkdLVk95QjBkenF1Ni0tOFJFYThrcXlnYjhRbUJWMlo2WHlkLUIzNlJ5UUpoN1p3VUh3b1p5TlJlZHBpaENqVmY4RDZPVTFsRHhMZXJKQzhseUM1V2U4TjMySHdvNzZ1VE9MbnI4ajV1dklVemhwWFRrZmtYWF9qYUNjUTFLOVRMaGNVUG0wSDhHcEZMbXNjcWpHWGZqeUEzc3puMGZwd2FvVU93?oc=5"
-    },
-    {
-     "label": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2NKUnhMNTltUE4yRzUwTUFQVDU0b1ZqR19OSkRHTmhBcFk5cHEtSXN2b0d5SUEtOEczMTRQVXQzNlZ0UENocldxQ2lKUlNTNjRKM1ZlMFE1aHU3ZUxLalhjZmtremFGQWNNN3g0dkl6ZmxuRFdQaEVhX3Y0T0lDRUFOZVpNaWNrNW1xSXA0NEVmd1RNenY5TFpXY3VJNmJ5Yy1nZnNuWS0za2g2VmR1bnhxNC1td1ZWcjRYOVpWR0pPZnc?oc=5"
-    },
-    {
-     "label": "Bloomberg",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFl4MFNhV2JXTU1DN21IU0xGMXoySDBFemVBTTJ6U2xXRzU2b1ltVlhwSlRUNDJfSndvWWhqYUJJSU5UT1JiMDVQam1vTkhYbW1PRDNtQmU1UEVzbmN1alRQeEs2bTlfcmM1ZjlWNmFMRm9vMnByQmY3VmFFU01CbmFNYnV1am5HVUhrenI2OU51X0FCWTJ2QnJhNXlSaUlZR0R2ekRlWmxwYzJ6QjlqTG5B?oc=5"
-    }
-   ]
-  },
-  {
-   "title": "정치 변수: 이스라엘 총선 박빙, 미 중간선거 1주 앞, 보우소나루 미국행",
-   "tags": [
-    "정치",
-    "신흥국"
-   ],
-   "count": 39,
-   "summary": "이스라엘 총선에서 반네타냐후 진영이 앞섰지만 과반에는 못 미칠 것으로 보여 연정 구성이 불투명합니다. 트럼프 대통령은 11월 3일 중간선거에 대해 \"공정하면 수용\"이라는 조건을 달았습니다. 브라질 대선에서 진 플라비우 보우소나루 상원의원은 법원의 출국 금지를 어기고 미국에 도착했고, 룰라 당선 뒤 브라질 증시는 26일 하루 17% 폭락했습니다.",
-   "why": "중동 정세는 유가로, 미국 선거는 관세·재정 정책으로 이어집니다. 국내에서 인기가 많던 브라질 채권 투자자도 직접 손실을 봤습니다.",
+   "count": 18,
+   "summary": "27일 치러진 총선 출구조사에서 반네타냐후 진영이 52~53석, 친네타냐후 진영이 50석으로 나와 양쪽 모두 과반(61석)에 못 미쳤습니다. 채널12 조사로는 리쿠드당이 24석으로 개별 정당 중 최다이고, 아이젠코트의 야샤르당은 22석입니다. 아랍계 정당이 17~18석을 얻어 정부 구성의 열쇠를 쥘 전망이며 투표율은 역대 최고 수준이었습니다. 리쿠드당은 아랍계 투표소에서 부정행위 620건이 있었다고 주장했습니다.",
+   "why": "연정 협상이 길어지면 이스라엘의 대외 정책이 불확실해져 이란 정세와 유가에 영향을 줍니다. 투자자들은 정권 교체 여부와 미·이스라엘의 이란 공격 가능성을 함께 지켜보고 있습니다.",
    "sources": [
     {
      "label": "연합뉴스 국제",
      "url": "https://www.yna.co.kr/view/AKR20261028007552099"
     },
     {
+     "label": "연합뉴스 국제 (속보)",
+     "url": "https://www.yna.co.kr/view/AKR20261028006200079"
+    },
+    {
+     "label": "FT",
+     "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1"
+    },
+    {
      "label": "Bloomberg",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXpPOXhGcWV6cmFWY3hPV1EtRS04cVZXTS0yancxN3FCVmJMb1kya0NWREFkdkhKUy1LWEZvQ3BsTzk1eVp2NjJMWFN4ZDVtU0RmZGdrbmVJU0FNc1JuX0tkRHpRN0d4aXBZYzlObS00eDBXZk80Yy1CdFp3dFBFX21FbFJFX3E0RklWZmxIZ3paOUJwTDN3MWkzUDhzN3FHWU50MHVaem5mcGVNU2RDLVE3TQ?oc=5"
     },
     {
-     "label": "한국경제 국제",
-     "url": "https://www.hankyung.com/article/202610289252H"
+     "label": "Bloomberg (유가)",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSWozMmJ3RFc4TndManlWbTRGeDhET1NHdGJDeFpnZVIySnk4OUZheXBfUjJaNWVmUHZId05VZFQ4bkVkZWc0NWxETW50QjhzbTUwTlJYelZMTEk4RUsybjNkel9yMXl4T1l0M0VMdl9OOU1xZmw4Z3dBWUpXZFNKVG5ZT0t5SXhnNzVKRWVvR2VEOHR5WjJQTVE5TURXZw?oc=5"
     },
     {
-     "label": "연합뉴스 국제",
-     "url": "https://www.yna.co.kr/view/AKR20261028063100009"
-    },
-    {
-     "label": "연합뉴스 (브라질 채권)",
-     "url": "https://www.yna.co.kr/view/AKR20261028057400008"
+     "label": "연합뉴스 국제 (부정행위 주장)",
+     "url": "https://www.yna.co.kr/view/AKR20261028001500079"
     }
    ]
   },
   {
-   "title": "이란 전쟁 비용, 기름값을 넘어 생필품 값으로",
+   "title": "이란 '조건부 종전' 시사에 유가 100달러 아래, 후티 공격은 변수",
    "tags": [
-    "원자재",
-    "물가"
+    "유가",
+    "중동"
    ],
-   "count": 32,
-   "summary": "WTI는 중동 외교 기대에 1.83% 내린 배럴당 99.90달러로 마쳤지만 여전히 100달러 언저리입니다. 예멘 후티 반군은 사우디 최대 정유시설 라스 타누라를 미사일로 공격했다고 주장했습니다. 식품·생활용품 업체들은 이란 전쟁 비용을 이유로 추가 가격 인상을 예고했고, 미국 소비자는 사상 가장 비싼 휘발유 값의 해를 보내고 있습니다.",
-   "why": "유가가 내려도 원가 부담은 시차를 두고 소비자 가격에 반영됩니다. 국내 수입물가와 연말 물가에도 부담 요인입니다.",
+   "count": 15,
+   "summary": "이란 최고지도자 모즈타바 하메네이가 27일 미국과의 종전 의지를 내비쳤고, 항구 봉쇄와 석유 제재 해제가 전제로 거론됐습니다. 26일에는 사우디·파키스탄·튀르키예와 이란이 테헤란에서 고위급 회담을 열었습니다. 이 영향으로 WTI는 1.83% 내린 99.90달러, 브렌트유는 1.67% 내린 113.88달러에 마감했습니다. 다만 후티는 사우디 라스 타누라 정유시설을 공습했다고 주장했고, 이란은 11월부터 장금상선 등의 호르무즈 운항 선박에 제재를 경고했습니다.",
+   "why": "유가가 100달러 안팎에서 움직여 항공·화학 등 원가 부담과 생필품 가격에 시차를 두고 반영됩니다. UBS는 연말까지 브렌트유가 배럴당 110달러 수준에서 높게 유지될 것으로 전망했습니다.",
    "sources": [
     {
-     "label": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeklkQ3dLbGJfaEt1ZDNyR3BZbk5JcjlJWVNEVnRrSVFudjJsOFA1S20zSlNxdVpoVkFJM1liUUdaTXExS25HTzFnUFYxWUNkWUFTVU9mODVlX3VwOGdzRGJEdHUzQzhyekVZeUhmN1RTTUhMM05peURpTFBRTFcyZ3RyX2dRT1lDT3k5YmtWeHRhYTJGdWNqWFRXZFVJMWMxMlM3YWcyZWlMZHV5SGc?oc=5"
+     "label": "머니투데이 (조건부 종전)",
+     "url": "https://www.mt.co.kr/world/2026/10/28/2026102809215735220"
     },
     {
-     "label": "Reuters",
+     "label": "연합뉴스 마켓 (유가)",
+     "url": "https://www.yna.co.kr/view/AKR20261028006000072"
+    },
+    {
+     "label": "조선일보 경제 (장금상선 제재 경고)",
+     "url": "https://www.chosun.com/economy/industry-company/2026/10/28/XHHSXBELPFGP7H37FQBDDBWW4U/"
+    },
+    {
+     "label": "연합뉴스 국제 (IAEA)",
+     "url": "https://www.yna.co.kr/view/AKR20261028020600072"
+    },
+    {
+     "label": "연합뉴스 국제 (중간선거 후 공격 대비)",
+     "url": "https://www.yna.co.kr/view/AKR20261028095100009"
+    },
+    {
+     "label": "Reuters (후티)",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMU9tRHdmbzQ2ZHlsQzBDVmpqUEhlTk9meXgzN1VMOWlUMnlKOU1ibFRMQ1VQNDNjTkloUG9lb054S2JXZ2YwMS1MMXM4b1pwczl2clNyTHM5RGZVdnd6bzJXTVl4bW4yZ0pGTEV2aEV4dlR2cDNkc0lvNjVMN2ZScklvRDE3S1VyS0FoaC02Z3BqTHJPeTJrekxhM0dONmN0VzdXTmE5QjNfM0pIZ1Q2SHMtSkZzbFNqSThaN2RybDFBdw?oc=5"
-    },
-    {
-     "label": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXRiWWdvUGZ0dTBiY2t4aWlWZlNWSlVlYUV4VXR6c25vRFJ0QUJ2NEJ6WTJTSW93cWFhb2xDYURhY2gydkQyRHhvMEFJYkh0S1JjVTVOLWlTbEVOQW83UUZZam5TTnBtV1ZoS2NaV3REUXF6andpWUZfcXpwdzRMQjJmZkxkdUs0eDVFSF94TjN5Tl9INFZ1WVFiUm8wSzBvbHlEQVJJT25TMlBWRVZneE01NGl6ekNHVGhYb2ZqNTRHdw?oc=5"
-    },
-    {
-     "label": "MarketWatch",
-     "url": "https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories"
-    },
-    {
-     "label": "Reuters (베네수엘라 원유)",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajN2UFlXd0wwM25Bd0ZIVVRPcEZQQkQydTRBQXBuT0RuYnBFRnFqbF9rYTZxdFhqWnBYYk10M0U3RGhXd1lReE5ndTk2VEd1SUI4SEUzLWx6YWRHOTBZaXdyOTFDMm9Cc1JjQ1ZPRHF2empCUy1wUmxaX2NnckhZeFFMOExJVnNHODU5YThsUWZ2RVRUX2xobXk4UUlLSDFvNFB6ZjhIVWZMRF9KYjhqcmVQUFhYUTlSLWdYaw?oc=5"
     }
    ]
   },
   {
-   "title": "FOMC 결정 임박: 동결 우세, 시장은 추가 인상 신호를 본다",
+   "title": "브라질 룰라 4선 뒤 증시·채권 급락, 보우소나루 미국행",
    "tags": [
-    "금리",
-    "달러"
+    "신흥국",
+    "정치"
    ],
-   "count": 11,
-   "summary": "연준은 28일(현지) 기준금리를 결정하며, 발표는 한국 시간 29일 새벽 3시입니다. 3.75~4.00% 동결이 예상되지만 추가 인상 가능성을 열어 둘 수 있다는 관측이 나옵니다. 로이터는 채권 투자자들이 연준보다 AI 투자 붐과 재정적자에 더 주목한다고 전했고, 금은 온스당 4,000달러 위에서 결정을 기다리고 있습니다.",
-   "why": "매파적 신호가 나오면 국채 강세 베팅이 뒤집히고 성장주가 흔들릴 수 있습니다. 원/달러 환율도 1,320원대에서 방향을 탐색하는 중입니다.",
+   "count": 13,
+   "summary": "룰라 대통령이 대선에서 역전승해 4선에 성공하자 브라질 증시가 17% 급락하고 국채값과 헤알화도 크게 떨어져 '삼바 채권' 투자자들이 손실을 봤습니다. 대선에서 패한 플라비우 보우소나루 상원의원은 대법원의 여권 제출 명령을 어기고 미국으로 출국해 마이애미에 도착했고, 미국은 그에게 비자를 내주기로 했습니다. 이후 그는 선거 무효화 시도를 접기로 했다고 블룸버그가 전했습니다. 시진핑 중국 주석은 룰라에게 축전을 보냈습니다.",
+   "why": "신흥국 채권에 투자한 개인에게는 환 손실까지 겹칠 수 있는 사례입니다. 브라질 정치 불확실성이 이어지면 원자재 수출과 자금 흐름에도 영향이 있어 보입니다.",
    "sources": [
     {
-     "label": "CNBC",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DeEN1Q0lOYXdvZ1RhMGVYWm5Fcm1jU3ZEWTR4M3lCdXBQdkJ3WkJRS0VKbGFOVkpfUG8tbHFNb05yenRtRnJfMUZLV3hQdFVxZGxmdUI1OWt2d2xfSWRXYWd2OGEzUFIxelJDRnliOVJ6MHNXTk50VDh30gF_QVVfeXFMUFhDd2V2SDNUb0F3OWpneFhXVk90eDlFY2dyNVVLVEVhU2c4Z3d5d211RFBiMWZrUk5ZXzdRc0w3MGEzVTFCV0tKYjFuTWN1aklNRkZJTmJFc0l2VHFMaklvTUFRQWlqUGp2RFhLVklrRGl5NjJGLVVuM0lfTDlaNA?oc=5"
+     "label": "연합뉴스 마켓 (삼바 채권)",
+     "url": "https://www.yna.co.kr/view/AKR20261028057400008"
     },
     {
-     "label": "Reuters",
+     "label": "Bloomberg (Brazil's Black Monday)",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSVpXajNCRW5iTk1pM0o0NnRpTXpQem01VGt0cTgzaUl0THRkUF9FdWNRZ01QQnZqR1FfTFhVRXBxMjNWODZNaEhTZUFuNDRIYU40QXpVVjd2RkJCNWFiOWlhRjZieUgxVzNDNVlmam14MTNnVmthNXduRlEwRlEzRG1sNFRHWWkzd1V4aE9hYXJiQjVUb0FZ?oc=5"
+    },
+    {
+     "label": "Bloomberg (GQG)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEVmYUtiMEtSR01jOEpuUUdEUzZsOU02S2ZkeVNabzJzU2lzVENHN3dmbXA0cEQxcnVxQUd5dzd6Q2dGMVVUVXN2bVN4S0I1ZzJnMm0zWGxkWkRWUGZmVWVudjF5bjNEQmhRaTc4Nk5aWm9kZ1BacmpRWFdBQnFnN1k2TVRpeVRnN25qNWNyUW9QaFZrRlpleXcySzY1b1BweE1vc2puSXN6M0k0c2gwNXZR?oc=5"
+    },
+    {
+     "label": "연합뉴스 국제 (여권 제출 명령)",
+     "url": "https://www.yna.co.kr/view/AKR20261028006300072"
+    },
+    {
+     "label": "FT (비자)",
+     "url": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1"
+    },
+    {
+     "label": "Bloomberg (무효화 시도 철회)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUk1TQ1hVTXNaQ0FITm5WVTdwSWhoTnJrM2NkSWh3SlE0MnUteG9XZ1FXYjRIOHF1NnI2VWRWa280UGVzY3FOalpzS1JqVUJjZ2FwNXFCYU5sdFVNVXZwUzNaQ3F4MTVSdlpwZEEwR1hoVjcxUGhta1RrSXlBR1VVbVJwMmhibmd3VGlKUVIwbm9WQXFHOUlocnBobDJuWFRUU3dLZ3I5VjVaUFVYeVhSQzln?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "FOMC 오늘 밤 결과 발표, 시장은 동결 뒤 12월 인상 주시",
+   "tags": [
+    "미국",
+    "금리"
+   ],
+   "count": 10,
+   "summary": "연준은 27~28일(현지시간) FOMC를 열고 있으며 현재 기준금리는 연 3.75~4.00%입니다. 로이터가 경제전문가 100명에게 물은 결과 94명이 동결을 예상했고, 응답자 전원이 12월 인상을 전망했습니다. 이번에는 새 경제전망과 점도표가 없으며, 케빈 워시 의장의 기자회견에서 동결의 의미와 추가 인상 조건을 어떻게 설명하는지가 초점입니다. 국채시장에서는 강세 베팅이 매파적 연준에 뒤집힐 위험이 거론됩니다.",
+   "why": "시장 관심은 통화정책에서 AI 투자 자금조달과 재정적자로 옮겨가고 있어, 금리 방향은 연준 발언만으로 정해지지 않습니다. 환율과 한국 증시의 외국인 수급에도 결과가 곧바로 영향을 줍니다.",
+   "sources": [
+    {
+     "label": "머니투데이 (로이터 설문)",
+     "url": "https://www.mt.co.kr/world/2026/10/28/2026102809435567993"
+    },
+    {
+     "label": "Reuters (채권, AI·재정적자)",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZDTFViUjF0VS1rM2FQX1ZjYmpIQncyQi1pMldoZ1N2U2JXUjIydVFJUGN1dXV4STlvYlVEM3FPSEZaSEt3Rnkxc0R5c3JrOEg2b0g2d2pUemFMbXpKNjZ6M1NabkwxcmJrbE5sdWtnU2pDd3R0X3ZkakhTNTZraUU0ejJKdDVRR0NheWhzcXBLUnU2dGxGUXFURnJZaExIM1hTRW9LWE5KbkNJN2RZ?oc=5"
     },
     {
-     "label": "Bloomberg",
+     "label": "Bloomberg (국채 베팅)",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVdDN1Q0dWNoV3p6Z1JKbXlQM0tsU3lGVFVKMzNkZW5qR2FVYUFicy05NURWOXJmUEd3TTR0ZHlRVUY1V3hxU3dWdXA3ODdaZFltdXJ2WnI5NmN0TGNseXFKYXhoUjg4dndnaGlUVXdRQ0YyN2VPaS1IUnd5d2lOaU5RTU0wa05yS1h4b1NmaDlYdmNrQVpxRHpEaTJxQU96UmVPdHhuNEZ5S3k3?oc=5"
     },
     {
-     "label": "Bloomberg",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUt1anRfa2s0VVI2NXlTQlJWaE5weVJJNlhlRWxZMzA4LTVRelVZU3ZRRzBYMXgxdEI1UjVBRE9GbmJROXdIS08tbE9OQ24tVFhDZjRvTEFPLWRNUHV1RzdhWEVpSWhXbGp5UUw3SVhJTk9UYmNLS0lvSXdVbjBETjFCY2pycF9HaDlSY2I0b2FHdlVKc0RIcEpVUUw2ZlhEbExwa3FrY20tcDY5dlNF?oc=5"
+     "label": "Google News (동결 전망)",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVIydWFYR0ZrclVBdXVnc1J0MkhqNHl1Z29oMkFPVkF4T2tzUndiR0UxX3hqblBsRFdQQkdGdUJkcnFncTFTanBIbThDM19DdGdSWDltQW9McFprYU1MYVhxM20wU1lDRG9QdURQcm44UU9DOXhOdF91b3pVNGphOHduaVFXWl9ESzlGaHRNQ3QtS2o4VW5hS1lNVEpEUmFSTl9XTWotU043QUt0VmR3NHFRZ2VPQdIBuwFBVV95cUxONHJ0LWVOekZ2amM5T1E5bTBYZDdvSGFJUHRHR3JjT0x5YUN1b19SMjFtYW1SZmJZOFpKTlJJYkdTMVNaNEVqRE9yYmQ1RF9Sckt1eXBJN1dpeDlxT2phZ21zY09BRktfbzZqY3h6T1FYU3NwemZEQm5MSDQySWpmbDJyM21nY05OanlTeEVLWEFHOEZsWjBMa3FMVEl2c0dQT3BTemFpOXllUnpVVEhyMXJxcVU5RjY2YlVN?oc=5"
     },
     {
-     "label": "Stocktwits",
-     "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-25-2026/cZUcyBcRBUp"
+     "label": "Reuters (달러)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRE96SkVILWZEWGsxdTRORUJsWlJ4YmNlclNadUxmdGpHRlNONHllVDY5eTBiZHBsbndwSEtBeDI0STFqdDhsNUxLVVhhVmZrWFdGUVFCaDNGd25VVENDcDdmT1ZUMHFFRWN2enRXeXk1ZUNfNHp5OE8wam94MktvQlNzazVNRG1Ed2lXYTFMVjNCY2JPckJRWlIyQ2ZvVzVqOEsw?oc=5"
+    },
+    {
+     "label": "Bloomberg (금)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUt1anRfa2s0VVI2NXlTQlJWaE5weVJJNlhlRWxZMzA4LTVRelVZU3ZRRzBYMXgxdEI1UjVBRE9GbmJROXdIS08tbE9OQ24tVFhDZjRvTEFPLWRNUHV1RzdhWEVpSWhXbGp5UUw3SVhJTk9UYmNLS0lvSXdVbjBETjFCY2pycF9HaDlSY2I0b2FHdlVKc0RIcEpVUUw2ZlhEbExwa3FrY20tcDY5dlNF?oc=5"
     }
    ]
   }
@@ -433,104 +465,187 @@
  "industry": [
   {
    "who": "네이버",
-   "what": "브룩필드와 90억 달러 규모 AI 인프라 계약, 'AI 팩토리' 본격화. 28일 주가 장 초반 6%대 급등",
+   "what": "브룩필드와 90억 달러 규모 컴퓨팅 인프라 확보 계약, 28일 주가 장 초반 6%대 상승",
    "source": {
-    "label": "전자신문",
-    "url": "https://www.etnews.com/20261027000413"
+    "label": "연합뉴스 경제",
+    "url": "https://www.yna.co.kr/view/AKR20261028055700008"
    }
   },
   {
-   "who": "KT",
-   "what": "AI 토큰을 통신처럼 생산·유통하는 사업 진출",
+   "who": "삼성전기",
+   "what": "3분기 매출 3조7,633억 원, 영업이익 6,909억 원으로 전년보다 165.5% 증가",
    "source": {
-    "label": "지디넷코리아",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xcDkyc2JsSl9WZ2prXzY1M2FybDRaYVJHZjd5TXl2N2k5b2Z2R3p0UTBnNktmVF9lT2ZTZlVvRnFPR1NwRkJzRFl4OXVOdHR5Sl9uUi1R?oc=5"
+    "label": "머니투데이",
+    "url": "https://www.mt.co.kr/industry/2026/10/28/2026102811504883193"
    }
   },
   {
-   "who": "솔리다임",
-   "what": "SK하이닉스 자회사, 미국에 60조 원 규모 낸드 공장 추진 (블룸버그 보도)",
+   "who": "안랩",
+   "what": "3분기 영업이익 109억 원, 전년 대비 38.7% 증가. 보안 수요 확대",
    "source": {
     "label": "연합뉴스 마켓",
-    "url": "https://www.yna.co.kr/view/AKR20261028011300009"
+    "url": "https://www.yna.co.kr/view/AKR20261028044500527"
+   }
+  },
+  {
+   "who": "SK하이닉스",
+   "what": "솔리다임 IPO를 중단하고 성장 투자는 이어가겠다고 밝힘",
+   "source": {
+    "label": "한국경제",
+    "url": "https://www.hankyung.com/article/2026102897736"
    }
   },
   {
    "who": "미래에셋",
-   "what": "일본 증권사 인수 추진, 29일 이사회 뒤 발표 예정",
+   "what": "박현주 회장이 일본 증권사 인수·합병을 29일 이사회 뒤 발표한다고 예고",
    "source": {
-    "label": "연합뉴스 마켓",
+    "label": "연합뉴스",
     "url": "https://www.yna.co.kr/view/AKR20261027154951008"
    }
   },
   {
-   "who": "JYP엔터",
-   "what": "일본계 투자사가 지분 인수 추진, 금감원은 불공정거래 여부 주시",
-   "source": {
-    "label": "매일경제 증권",
-    "url": "https://www.mk.co.kr/news/stock/12187530"
-   }
-  },
-  {
-   "who": "삼성전자",
-   "what": "공정위, 갤럭시 GOS 성능 제한 미고지에 과징금 201억 원. 삼성은 법적 대응",
-   "source": {
-    "label": "MBC 뉴스",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00NUl3Uno2VUl5am5HMHh3WTVqT2REWFlaa2dZU1lfcVB1V3hOaUZxM3UweFVMbUJ0eGxEaWJraWhSbEYyd3kwejZxUzVhdW93WktNVFVxdEs4MlVFWEl4RGVXTFVvUlZVdy1qa3A3bzhWVVU50gF0QVVfeXFMTmtEY2dKaW1vX3NTd3Z0TmNzZW1kcEFrNlgwYXE2emtJRTVyR2tWM0pELV8xRkp1a3hjd2ZBdmRPV25kX21ORTFnUkRvSWZGZUtTYURCbGppM3Fmdl9ya0NsejVwT0xwSF8xdjBpcE1HcGViY20?oc=5"
-   }
-  },
-  {
-   "who": "토스뱅크",
-   "what": "주택담보대출 시장 첫 진출, 인터넷은행 대출 경쟁 본격화",
-   "source": {
-    "label": "매일경제 경제",
-    "url": "https://www.mk.co.kr/news/economy/12186947"
-   }
-  },
-  {
-   "who": "금융위원회",
-   "what": "10년 고정금리 주택대출 확대 추진, 은행권과 곧 논의",
+   "who": "얼라인·맥쿼리",
+   "what": "가비아 주당 5만3,000원 합의, KINX는 19만 원에 전량 공개매수",
    "source": {
     "label": "조선일보 경제",
-    "url": "https://www.chosun.com/economy/stock-finance/2026/10/28/MNRWGODBHBTGCMLGGU4DCMDCMY/"
+    "url": "https://www.chosun.com/economy/stock-finance/2026/10/28/GMYTANRYHAYDIYJUGA4WGYZTGI/"
    }
   },
   {
-   "who": "HD건설기계",
-   "what": "군산 엔진 신공장 준공, 데이터센터용 발전엔진 사업 확대",
+   "who": "골프존카운티",
+   "what": "국내 최대 골프장 운영사 골프존카운티가 더시에나에 매각된다",
    "source": {
     "label": "조선일보 경제",
-    "url": "https://www.chosun.com/economy/industry-company/2026/10/28/7MZW5VZ3CBHNROSVRHA64FZIBM/"
+    "url": "https://www.chosun.com/economy/market_trend/2026/10/28/BYX4VZTV7NCBPA2456J2BLEYBI/"
    }
   },
   {
-   "who": "골프존홀딩스",
-   "what": "MBK의 일방적 매각에 반대하며 법적 대응 예고",
+   "who": "GM",
+   "what": "115년 만에 뉴욕증권거래소를 떠나 나스닥으로 상장 이전",
    "source": {
-    "label": "머니투데이",
-    "url": "https://www.mt.co.kr/living/2026/10/28/2026102809570699799"
+    "label": "연합뉴스 국제",
+    "url": "https://www.yna.co.kr/view/AKR20261027191300072"
    }
   },
   {
-   "who": "래블업",
-   "what": "11월 3일 코스닥 상장, 공모가 1만9,000원·예상 시총 2,768억 원",
+   "who": "인텔",
+   "what": "양자 소프트웨어 업체 클래시크를 약 23억 달러에 인수 (블룸버그 보도)",
    "source": {
-    "label": "벤처스퀘어",
-    "url": "https://www.venturesquare.net/1123545/"
+    "label": "Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnJjaGVYODVacVE0QlNxazBqMEZRMVhScmV5ME9yLVJRYkZ1dDhBRDhjNm85NU0xeGpFYlVJTm1ybFNTMmxMNEVRZkpyellvMGpEN3VaNzRxWkowT2ZfS19NNlp5WU0tYjhqbmpXZWZjdDRhQWE2blp4VVpQUkUtZ0FJMTBSUVlSVkZ6cHZWTmwyV1B2cjNFQU54YXRDdEthb0NwVV9jNUZMUURZejh5VkpzMA?oc=5"
+   }
+  },
+  {
+   "who": "아마존",
+   "what": "미국 FCC가 글로벌스타 115억 달러 인수를 승인",
+   "source": {
+    "label": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2pZY3J4T2Fvd0hub09FM2RkaHJQc21pOWRWal80cHpZMXN2RS1La2M2WmpVY1hnbzlnUHNBZG5rQ3hWTFZPdmh0cmFPMHVHV0ttRlhzXzZ2SVdFOTd5ZU42YWFTblZtQnRPQUZNcENPSWJUeEF2TE5JRFFXaUdCRlZmLUFCT1JhT0wxWGpKNlZXYnowUG52dlBqc1JYS2EwcE1PS3gwVzhhYWZ4RkJURTh0LWl6SWxEOVIzT3RXbG1EZw?oc=5"
+   }
+  },
+  {
+   "who": "애플",
+   "what": "M6 칩을 탑재한 맥북 프로와 아이맥 공개, 온디바이스 AI 성능 강화",
+   "source": {
+    "label": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3B6ZTl2YngycEZ2VU5pQmhuOC1TVmdrajNIVHNGdlJKQmQxd3QtMy0tdGdHM0FVRk5LV0c0UzZxbkZPZldtckJXSXgwVl9RY1NEd3B0TFZrVU9QMTZlOVdGRVhPV0pEWkZKMkVMOGxfRElZczdCbmxLV1lRT05sOHk4d1NNUmxQcjgzWXNXTXh5dzh4ZEtzWGVGYlhUNmRkaTZ5bjNGeVZvSC1LSS1lOTg1RjV0VGVPTUNKS2pzVUc?oc=5"
+   }
+  },
+  {
+   "who": "아레스 캐피털",
+   "what": "아폴로의 MFIC를 26억 달러에 인수하기로 하며 사모대출 통합이 이어짐",
+   "source": {
+    "label": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbEhWMG56WWx5aDBUbHlkdkZXQ19zakRDcjgyYzhjak9UTktQOU1jT0F3anF6bmgyVFB3M2M4TjI0Z2ZFN0FIVDZIWDluZTRnSnV6QWNsLWM2ZnE4VS1ncjlUc2RYZXg4V1pSZFhvc0V6TDFUSmJYMWtnbUp0U0Ezd2FKc2tNNUlQM0dHSjhrdzk3LWxkbEtTODJ0NGpYcWJZa3pRdko1c3V1OHp5ZVJLOWtFd2k0SXRfNGRFQUxHVG9VZw?oc=5"
    }
   }
  ],
  "trends": [
   {
-   "title": "K-뷰티·소비재, 아마존 직판과 외국인 관광 결제가 함께 큰다",
+   "title": "AI 투자의 병목이 칩에서 자금·전력·물류로 옮겨간다",
    "evidence": [
     {
-     "text": "아마존 신화숙 대표 \"K-뷰티 성장 여력 여전히 크다, 내년엔 더 큰 성장 기대\"",
+     "text": "브로드컴 CEO가 앤트로픽 630억 달러 부채 계약 성사에 직접 개입",
      "source": {
-      "label": "벤처스퀘어",
-      "url": "https://www.venturesquare.net/1123451/"
+      "label": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5?oc=5"
      }
     },
+    {
+     "text": "무디스: AI 금융이 사모대출 성장을 이끌지만 차환 위험도 커짐",
+     "source": {
+      "label": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5"
+     }
+    },
+    {
+     "text": "UPS CEO, 데이터센터 붐에서 연 150억 달러 매출 기회 전망",
+     "source": {
+      "label": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEFxR2I1ZlhWMkZHZVQzQXFoQTdzV3E0UUN1el82N3o1dlBkZEo2M011NUY4Q0VvMng4TFlJTG8wUVA2ZjRoZ0VwNmdsUlFmaDJXY3oxQnhEOU8yOVlQRmJZazBlWHV1Z0pMSkVBQ2EyNlk1RWkyNmlDYW52VjVkbGxYelNaMm9YWDdDTnZiLVhVbjk1X0dZRmo1SUppREI1a2RicGxDZ0RON0RpVC02VGl3?oc=5"
+     }
+    },
+    {
+     "text": "데이터센터 붐이 미국 전력망 혁신의 계기가 될 수 있다는 분석",
+     "source": {
+      "label": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+     }
+    },
+    {
+     "text": "포항 6,000억 원 규모 AI 데이터센터 건설 절차 간소화",
+     "source": {
+      "label": "서울경제",
+      "url": "https://www.sedaily.com/article/20107003"
+     }
+    }
+   ],
+   "insight": "칩 수요가 확인되자 이를 받쳐 줄 자금 조달, 전력, 물류 인프라가 다음 수혜·리스크 영역으로 드러나고 있습니다. 투자 평가도 칩 업체 실적에서 이 연결고리의 안정성으로 넓어질 필요가 있습니다."
+  },
+  {
+   "title": "AI가 공격과 방어를 함께 키우며 보안 사고가 일상화된다",
+   "evidence": [
+    {
+     "text": "빗썸·미래에셋운용·대신증권 해킹 확인, 금융권 전반으로 확산",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261028053251002"
+     }
+    },
+    {
+     "text": "호주 \"AI 이용 해킹, 전례 없는 위협\"… 핵심 서비스 중단 대비 당부",
+     "source": {
+      "label": "연합뉴스 국제",
+      "url": "https://www.yna.co.kr/view/AKR20261027169200084"
+     }
+    },
+    {
+     "text": "미 정부, 해커들이 치명적인 PHP 웹 취약점을 악용 중이라고 발표",
+     "source": {
+      "label": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVRJaWtwN3M3TmQwandSTmRnLXl2M0ptRS1qSDJUd1J5dEFadGNlaXZVZlJwRld6TlQteHJIRW15LVY1NWQycXNycXFzMG0yTDRwTklKaTBGQUFPaXhVakNHaUNJMC1MY2poV1MtYlJrUHpmVmxkU0tJTUdkTjFLQUpyZ0g0aDlIdUp6VHlyUlEyQVlNRGczRU5oaWJ0cFgwdFNQVg?oc=5"
+     }
+    },
+    {
+     "text": "일본 GMO, 해커가 훔친 고객 데이터를 공개",
+     "source": {
+      "label": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+     }
+    },
+    {
+     "text": "이스트시큐리티, 'PHP2Shell' 취약점 대응 점검 도구 배포",
+     "source": {
+      "label": "조선일보 경제",
+      "url": "https://www.chosun.com/economy/tech_it/2026/10/28/GAYTCNLBGVQWMOJTMI4GCMDFMI/"
+     }
+    }
+   ],
+   "insight": "금융감독원장도 AI가 해킹 수단이 되며 동시다발 공격이 상시화될 것이라고 경고했습니다. 보안은 비용이 아니라 영업 지속성의 문제가 되고 있어 보안 솔루션 수요가 구조적으로 늘 수 있습니다."
+  },
+  {
+   "title": "K-뷰티·소비재, 아마존 직판과 외국인 관광 결제가 함께 큰다",
+   "evidence": [
     {
      "text": "동의모감, 미국 아마존 진출 18일 만에 헤어토닉 신상품 1위",
      "source": {
@@ -539,7 +654,7 @@
      }
     },
     {
-     "text": "라인플러스, K-뷰티 아마존 진출 돕는 상품 콘텐츠 자동화 AI 공개",
+     "text": "라인플러스, K-뷰티 아마존 진출 돕는 '워너블 AI' 공개",
      "source": {
       "label": "벤처스퀘어",
       "url": "https://www.venturesquare.net/1123623/"
@@ -558,91 +673,16 @@
       "label": "벤처스퀘어",
       "url": "https://www.venturesquare.net/1123694/"
      }
-    }
-   ],
-   "insight": "판로(아마존), 콘텐츠 제작(AI), 결제·응대(외국인 관광) 모두에서 K-소비재를 돕는 서비스가 동시에 나오고 있습니다. 브랜드보다 이 인프라를 제공하는 쪽에 기회가 넓습니다."
-  },
-  {
-   "title": "AI는 늘었는데 성과는? 일자리와 비용 구조의 재편",
-   "evidence": [
-    {
-     "text": "미국 공장 생산직도 AI 숙련도에 따라 몸값이 30% 높아",
-     "source": {
-      "label": "조선일보 경제",
-      "url": "https://www.chosun.com/economy/tech_it/2026/10/26/DWMNBS7OFZB5FOMM7PDZPE7L6Y/"
-     }
     },
     {
-     "text": "아마존 \"부적합하면 AI 안 쓰는 것도 능력\", 무조건 많이 쓰는 '토큰맥싱'에 제동",
-     "source": {
-      "label": "연합뉴스 국제",
-      "url": "https://www.yna.co.kr/view/AKR20261028065000091"
-     }
-    },
-    {
-     "text": "KT, AI 토큰 생산·유통 사업 진출",
-     "source": {
-      "label": "지디넷코리아",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xcDkyc2JsSl9WZ2prXzY1M2FybDRaYVJHZjd5TXl2N2k5b2Z2R3p0UTBnNktmVF9lT2ZTZlVvRnFPR1NwRkJzRFl4OXVOdHR5Sl9uUi1R?oc=5"
-     }
-    },
-    {
-     "text": "\"AI 사용량은 늘었는데 크게 달라진 건 없다\"는 직장인 칼럼",
-     "source": {
-      "label": "모비인사이드",
-      "url": "https://www.mobiinside.co.kr/2026/10/28/ai-usage-vs-usability-measurement/"
-     }
-    },
-    {
-     "text": "AI가 신입의 첫 일을 가져간 뒤의 커리어 설계",
-     "source": {
-      "label": "모비인사이드",
-      "url": "https://www.mobiinside.co.kr/2026/10/28/ai-era-junior-designer-portfolio-judgment-strategy/"
-     }
-    }
-   ],
-   "insight": "AI를 얼마나 쓰느냐보다 어디에 써서 성과를 내느냐가 기업과 개인의 경쟁력이 되고 있습니다. AI 사용량·비용 관리와 직무 재교육 수요가 함께 커질 것입니다."
-  },
-  {
-   "title": "보안이 비용에서 생존 조건으로",
-   "evidence": [
-    {
-     "text": "증권사·운용사·코인거래소까지 해킹, 보안주 동반 상승",
-     "source": {
-      "label": "머니투데이",
-      "url": "https://www.mt.co.kr/stock/2026/10/28/2026102811162967881"
-     }
-    },
-    {
-     "text": "일본 인터넷 대기업 GMO, 해커가 훔친 고객 데이터 공개",
-     "source": {
-      "label": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
-     }
-    },
-    {
-     "text": "뱅크오브아메리카, AI 비서에게 은행 비밀번호를 공유하지 말라고 당부",
-     "source": {
-      "label": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
-     }
-    },
-    {
-     "text": "생성형 AI 정보 유출 방지 솔루션, GS인증 1등급 획득",
+     "text": "인덴트코퍼레이션 \"1인 브랜드도 1조 매출\", AI로 글로벌 커머스 장벽 낮춘다",
      "source": {
       "label": "벤처스퀘어",
-      "url": "https://www.venturesquare.net/1123506/"
-     }
-    },
-    {
-     "text": "딥페이크 인물 도용을 차단하는 얼굴 식별 기술 개발",
-     "source": {
-      "label": "벤처스퀘어",
-      "url": "https://www.venturesquare.net/1123557/"
+      "url": "https://www.venturesquare.net/1123498/"
      }
     }
    ],
-   "insight": "해킹 피해가 국경과 업종을 가리지 않고, AI 비서라는 새 통로까지 생겼습니다. 금융·플랫폼 기업의 보안 예산은 줄이기 어려운 고정비가 되고 있습니다."
+   "insight": "판로(아마존), 콘텐츠 제작(AI), 결제·응대(외국인 관광)까지 K-소비재를 돕는 서비스가 동시에 나오고 있습니다. 브랜드 자체보다 이 인프라를 제공하는 쪽의 기회가 넓습니다."
   }
  ],
  "search_trends": {
@@ -665,64 +705,60 @@
     "traffic": "500+"
    },
    {
-    "term": "sk하이닉스 ir",
-    "traffic": "200+"
-   },
-   {
-    "term": "어닝콜",
-    "traffic": "200+"
-   },
-   {
     "term": "팔란티어 테크놀로지",
+    "traffic": "200+"
+   },
+   {
+    "term": "도박",
     "traffic": "200+"
    }
   ],
-  "comment": "대신증권은 고객정보 유출 소식, 'sk하이닉스 ir'과 '어닝콜'은 실적 발표 때문에 검색이 늘었습니다. 아주대 소아 응급실은 소아응급 교수 7명의 사직 결정 보도와 맞물립니다."
+  "comment": "대신증권은 고객정보 3만8,490명 유출 소식과 맞물려 검색이 늘었습니다. 나머지 항목은 이번 수집 기사에서 검색이 늘어난 이유를 확인하지 못했습니다."
  },
  "explainers": [
   {
    "title": "K-뷰티는 되는데, K-푸드는 왜 안 되나",
-   "summary": "지난해 수출액은 화장품 114억 달러, 농식품 104억 달러로 비슷했지만 2023~2025년 증가율은 34%와 14%로 두 배 넘게 벌어졌습니다. 그 차이가 어디서 오는지 짚습니다.",
+   "summary": "지난해 수출액은 화장품 114억 달러, K-푸드 104억 달러로 비슷했지만 성장세에서 차이가 납니다. 그 이유를 짚어 줍니다.",
    "source": {
     "label": "어피티",
     "url": "https://uppity.co.kr/k-%eb%b7%b0%ed%8b%b0%eb%8a%94-%eb%90%98%eb%8a%94%eb%8d%b0-k-%ed%91%b8%eb%93%9c%eb%8a%94-%ec%99%9c-%ec%95%88-%eb%90%98%eb%82%98/"
    }
   },
   {
-   "title": "테슬라와 스페이스X, 합치면 누가 이득일까요?",
-   "summary": "오늘 자 머니레터입니다. 두 회사의 합병 기대가 투자자에게 어떤 의미인지 다루고, 이번 주 실적 발표 시즌에 알아 둘 상식도 함께 정리했습니다.",
-   "source": {
-    "label": "어피티",
-    "url": "https://uppity.co.kr/%f0%9f%92%b0%ed%85%8c%ec%8a%ac%eb%9d%bc%ec%99%80-%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4x-%ed%95%a9%ec%b9%98%eb%a9%b4-%eb%88%84%ea%b0%80-%ec%9d%b4%eb%93%9d%ec%9d%bc%ea%b9%8c%ec%9a%94/"
-   }
-  },
-  {
-   "title": "3분기 GDP 1.0% 껑충, 한은 전망치 0.3%를 훌쩍 넘긴 이유는?",
-   "summary": "반도체 수출과 설비투자가 성장을 끌었고, 연간 성장률은 3.6~4.0%로 올라갈 가능성이 커졌습니다.",
+   "title": "코스피 4%대 급등에 매수 사이드카 발동, 4거래일 만에 또 작동한 이유는?",
+   "summary": "코스피가 장중 4% 급등해 5,700선 근처에 닿으면서 프로그램 매수 호가 효력을 잠시 멈추는 사이드카가 발동됐습니다. 외국인과 기관이 함께 순매수했고 시장 변동성이 커졌다는 설명입니다.",
    "source": {
     "label": "뉴닉",
-    "url": "https://newneek.co/@newneek/article/48135"
+    "url": "https://newneek.co/@newneek/article/48143"
    }
   },
   {
-   "title": "가상자산 과세, 또 유예될까? 시행 60일 앞두고 민주당이 고민하는 것들",
-   "summary": "해외 거래 정보 확보 문제와 형평성 우려가 왜 유예론의 근거가 되는지 정리했습니다.",
+   "title": "가상자산 과세, 또 유예될까? 시행까지 60일 남은 지금 민주당이 고민하는 것들",
+   "summary": "과세 시행이 60여 일 남은 가운데 해외 거래 정보 확보 문제 등 추가 유예의 쟁점을 정리했습니다.",
    "source": {
     "label": "뉴닉",
     "url": "https://newneek.co/@newneek/article/48151"
    }
   },
   {
-   "title": "토스뱅크 주담대 출시, 인터넷은행 3사 금리 비교",
-   "summary": "6개월 변동 연 4.44~8.95%, 5년 고정 연 4.65~9.19%로 케이뱅크·카카오뱅크와 경쟁에 들어갑니다.",
+   "title": "3분기 GDP 1.0% 껑충, 한은 전망치 0.3% 훌쩍 넘긴 이유는?",
+   "summary": "한국은행이 발표한 3분기 실질 GDP 성장률은 1.0%로, 기존 전망치 0.3%를 크게 웃돌았습니다. 반도체 수출과 설비투자가 주된 요인이며 올해 연간 성장률은 3.6~4.0%로 전망됩니다.",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48135"
+   }
+  },
+  {
+   "title": "토스뱅크 주담대 출시, 출범 5년 만에 금리 경쟁 합류! 최저 연 4.44%, 인터넷은행 3사 금리 비교",
+   "summary": "토스뱅크가 주택담보대출을 시작했습니다. 6개월 변동금리는 4.44~8.95%, 5년 고정은 4.65~9.19%입니다.",
    "source": {
     "label": "뉴닉",
     "url": "https://newneek.co/@newneek/article/48168"
    }
   },
   {
-   "title": "실손보험 반값 할인 11월 시작, 1·2세대 가입자는 전환해야 할까?",
-   "summary": "5세대로 바꾸면 3년간 보험료가 50% 할인되지만 보장 범위가 줄어, 병원 이용 빈도에 따라 판단해야 합니다.",
+   "title": "실손보험 반값 할인 11월 시작, 1·2세대 가입자 전환해야 할까?",
+   "summary": "11월부터 1·2세대 실손보험 가입자가 5세대로 전환하면 3년간 보험료를 50% 할인받습니다. 다만 보장 범위가 줄어 병원 이용이 잦다면 따져 봐야 합니다.",
    "source": {
     "label": "뉴닉",
     "url": "https://newneek.co/@newneek/article/48154"
@@ -734,62 +770,67 @@
   "rows": [
    {
     "when": "10/29(목) 03:00",
-    "event": "FOMC 금리 결정 (03:30 기자회견)",
-    "watch": "3.75~4.00% 동결 예상, 추가 인상 신호 여부",
+    "event": "FOMC 금리 결정 (03:30 워시 의장 기자회견)",
+    "watch": "3.75~4.00% 동결 예상, 12월 인상 신호 여부",
     "hot": true
    },
    {
     "when": "10/29(목) 새벽",
-    "event": "마이크로소프트·알파벳 실적 발표",
-    "watch": "AI 설비투자(capex) 계획",
+    "event": "알파벳(콜 05:30)·마이크로소프트(콜 06:30) 실적 발표",
+    "watch": "AI 설비투자와 클라우드 성장",
     "hot": true
    },
    {
     "when": "10/29(목)",
-    "event": "미래에셋 일본 증권사 인수 발표",
+    "event": "미래에셋 이사회, 일본 증권사 인수·합병 발표",
     "watch": "인수 대상과 규모"
    },
    {
     "when": "10/29(목)",
-    "event": "티앤이코리아 코스닥 상장",
-    "watch": "공모주 수급"
+    "event": "티앤이코리아 코스닥 거래 개시",
+    "watch": "신규 상장 수급"
    },
    {
     "when": "10/29(목) 21:30",
-    "event": "미국 3분기 GDP·9월 PCE 물가",
+    "event": "미국 3분기 GDP 1차 추정·9월 PCE 물가",
     "watch": "인플레이션 재가속 여부"
    },
    {
     "when": "10/30(금) 새벽",
-    "event": "아마존·인텔 실적 발표",
+    "event": "아마존(콜 06:00)·인텔 실적 발표",
     "watch": "AWS 성장률, 인텔 파운드리"
+   },
+   {
+    "when": "10/30(금) 21:30",
+    "event": "미국 3분기 고용비용지수",
+    "watch": "임금발 물가 압력"
    },
    {
     "when": "11/3(화)",
     "event": "미국 중간선거 · 래블업 코스닥 상장",
-    "watch": "의회 구도, AI 인프라 공모주 흐름"
+    "watch": "의회 구도, 공모주 흐름"
    }
   ],
-  "foot": "미국 일정은 서머타임(EDT, 한국과 13시간 차) 기준으로 환산했습니다. 유럽중앙은행·일본은행 일정은 확인하지 못해 넣지 않았습니다.",
+  "foot": "미국 일정은 서머타임(EDT, 한국과 13시간 차)을 적용해 환산했고, 서머타임은 11월 1일 종료됩니다. 메타·애플 실적 일정은 확인하지 못해 넣지 않았습니다.",
   "sources": [
-   {
-    "label": "Stocktwits",
-    "url": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-oct-25-2026/cZUcyBcRBUp"
-   },
    {
     "label": "Regards of Wall Street",
     "url": "https://www.regardsofwallstreet.com/news/stock-market-week-ahead-october-26-2026"
    },
    {
-    "label": "연합뉴스 마켓",
+    "label": "연합뉴스 (미래에셋 M&A)",
     "url": "https://www.yna.co.kr/view/AKR20261027154951008"
    },
    {
-    "label": "연합뉴스 마켓",
+    "label": "연합뉴스 (티앤이코리아)",
     "url": "https://www.yna.co.kr/view/AKR20261027179800008"
    },
    {
-    "label": "벤처스퀘어",
+    "label": "한국경제 (중간선거)",
+    "url": "https://www.hankyung.com/article/202610289116i"
+   },
+   {
+    "label": "벤처스퀘어 (래블업)",
     "url": "https://www.venturesquare.net/1123545/"
    }
   ]
@@ -804,12 +845,18 @@
      "url": "https://www.mt.co.kr/stock/2026/10/28/2026102811162967881"
     }
    },
-   "K-소비재의 아마존 직판과 외국인 관광 결제·응대 서비스가 함께 커지고 있습니다.",
    {
-    "text": "데이터센터 붐이 전력망과 발전설비로 번지고 있습니다",
+    "text": "AI 인프라 투자가 데이터센터 물류와 전력망 설비 수요로 번지고 있습니다",
     "source": {
-     "label": "TechCrunch",
-     "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/"
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEFxR2I1ZlhWMkZHZVQzQXFoQTdzV3E0UUN1el82N3o1dlBkZEo2M011NUY4Q0VvMng4TFlJTG8wUVA2ZjRoZ0VwNmdsUlFmaDJXY3oxQnhEOU8yOVlQRmJZazBlWHV1Z0pMSkVBQ2EyNlk1RWkyNmlDYW52VjVkbGxYelNaMm9YWDdDTnZiLVhVbjk1X0dZRmo1SUppREI1a2RicGxDZ0RON0RpVC02VGl3?oc=5"
+    }
+   },
+   {
+    "text": "K-소비재의 아마존 직판과 외국인 관광 결제·응대 서비스가 함께 커지고 있습니다",
+    "source": {
+     "label": "벤처스퀘어",
+     "url": "https://www.venturesquare.net/1123620/"
     }
    }
   ],
@@ -821,22 +868,35 @@
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVdDN1Q0dWNoV3p6Z1JKbXlQM0tsU3lGVFVKMzNkZW5qR2FVYUFicy05NURWOXJmUEd3TTR0ZHlRVUY1V3hxU3dWdXA3ODdaZFltdXJ2WnI5NmN0TGNseXFKYXhoUjg4dndnaGlUVXdRQ0YyN2VPaS1IUnd5d2lOaU5RTU0wa05yS1h4b1NmaDlYdmNrQVpxRHpEaTJxQU96UmVPdHhuNEZ5S3k3?oc=5"
     }
    },
-   "코스피가 하루 단위로 급등락을 반복하고 있어, 이틀 연속 사이드카는 과열 신호이기도 합니다.",
-   "유가 100달러 언저리와 생필품 가격 인상이 시차를 두고 국내 물가에 반영됩니다.",
-   "제조업 체감 경기 악화와 민간소비 감소가 겹치면 내수 기업 실적이 먼저 꺾입니다."
+   "코스피가 하루 걸러 급등락을 반복하고 있어, 이틀 연속 사이드카는 과열 신호이기도 합니다.",
+   {
+    "text": "유가가 100달러 안팎에 머물고 후티 공격 등 중동 변수가 남아 물가에 시차를 두고 반영될 수 있습니다",
+    "source": {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261028006000072"
+    }
+   },
+   {
+    "text": "AI 금융의 차환 위험이 커지면 데이터센터 투자와 관련 기업 실적이 흔들릴 수 있습니다",
+    "source": {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5"
+    }
+   }
   ],
   "keywords": [
    "주주환원",
    "매수 사이드카",
    "금융권 해킹",
    "FOMC",
-   "체감 경기",
-   "K-뷰티 직판"
+   "AI 금융",
+   "가상자산 과세"
   ]
  },
  "notes": [
-  "시험 실행: 루틴 시간(07:40)이 아니라 장중(11:40 무렵)에 만든 판이라 28일 장중 코스피 흐름이 들어 있습니다. 정기 실행본은 장 시작 전 정보만 다룹니다.",
-  "어피티·뉴닉 해설은 첫 발행 뒤(11:50 무렵) 추가했습니다. 내일부터는 정기 수집에 포함됩니다.",
-  "미 국채 10년물과 VIX는 기사와 검색에서 10/27 수치를 확인하지 못했습니다. FRED API 키를 등록하면 공식 수치로 채워집니다."
+  "시험 실행: 루틴 시간(07:40)이 아니라 장중(12시 무렵)에 만든 판이라 28일 장중 코스피 흐름이 일부 들어 있습니다. 시세판은 10/27 종가 기준입니다.",
+  "미 국채 10년물과 VIX는 기사에서 10/27 수치를 확인하지 못했고, 웹 검색에서도 날짜가 맞는 값이 나오지 않아 '확인 불가'로 두었습니다. ECOS·FRED 키가 없어 공식 수치는 쓰지 못했습니다.",
+  "필라델피아 반도체지수는 등락률(+3.60%)만 확인했습니다.",
+  "이 판은 10/28 12시 무렵 루틴 테스트 실행이 만든 것으로, 당시 저장소 push가 막혀 게시된 페이지에서 복원했습니다."
  ]
 }
