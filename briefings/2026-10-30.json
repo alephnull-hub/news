@@ -1,0 +1,833 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "12:44",
+ "collection": {
+  "window": "10/29 12:38 – 10/30 12:38 KST",
+  "feeds_ok": 29,
+  "feeds_total": 29,
+  "articles": 1252,
+  "failed": []
+ },
+ "title": "오늘의 비즈니스·경제 브리핑",
+ "lead": "알파벳 13% 폭락에 이어 아마존·인텔 실적까지 실망을 주자 AI 투자 의구심이 아시아로 번져, 코스피가 장중 5% 넘게 급락하고 11거래일 만에 매도 사이드카가 발동됐습니다. 세계 최대 코인거래소 바이낸스의 해킹 의혹으로 비트코인도 흔들리는 가운데, 9월 국내 생산은 15년 6개월 만에 가장 크게 늘었습니다.",
+ "market": {
+  "note": "국내 10/29 종가 · 미국과 유가 10/29(현지) 종가 · 오늘 국내 장중 흐름은 아래 이슈 참고",
+  "tiles": [
+   {
+    "name": "코스피",
+    "value": "5,937.66",
+    "change": "74.78 (−1.24%)",
+    "dir": "down",
+    "note": "10/29 · 연합뉴스"
+   },
+   {
+    "name": "코스닥",
+    "value": "753.23",
+    "change": "18.05 (−2.34%)",
+    "dir": "down",
+    "note": "10/29 · 연합뉴스"
+   },
+   {
+    "name": "원/달러",
+    "value": "1,336.8",
+    "change": "0.9원",
+    "dir": "down",
+    "note": "10/29 15:30 · 연합뉴스"
+   },
+   {
+    "name": "국고채 10년",
+    "value": "4.081%",
+    "change": "2.7bp",
+    "dir": "down",
+    "note": "10/29 · 연합뉴스"
+   },
+   {
+    "name": "S&P 500",
+    "value": "7,720.39",
+    "change": "23.59 (−0.30%)",
+    "dir": "down",
+    "note": "10/29 현지 · 한국경제"
+   },
+   {
+    "name": "나스닥",
+    "value": "26,184.72",
+    "change": "365.13 (−1.38%)",
+    "dir": "down",
+    "note": "10/29 현지 · 한국경제"
+   },
+   {
+    "name": "다우",
+    "value": "52,342.56",
+    "change": "132.54 (−0.25%)",
+    "dir": "down",
+    "note": "10/29 현지 · 한국경제"
+   },
+   {
+    "name": "필라델피아 반도체",
+    "value": "—",
+    "change": "−1.42%",
+    "dir": "down",
+    "note": "10/29 · 등락률만 확인 · 한국경제"
+   },
+   {
+    "name": "WTI (12월물)",
+    "value": "$102.00",
+    "change": "0.76%",
+    "dir": "down",
+    "note": "10/29 현지 · 연합뉴스"
+   },
+   {
+    "name": "브렌트 (12월물)",
+    "value": "$114.88",
+    "change": "0.38%",
+    "dir": "down",
+    "note": "10/29 현지 · 연합뉴스"
+   },
+   {
+    "name": "미 국채 10년",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "FRED 키 등록 시 표시"
+   },
+   {
+    "name": "VIX",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "FRED 키 등록 시 표시"
+   }
+  ],
+  "foot": "이 판은 30일 낮(장중)에 만들어 국내는 전 거래일 종가를 실었습니다. 원/달러는 서울 외환시장 15:30 기준가, 유가는 12월 인도분 선물 종가입니다. 공식 데이터(ECOS·FRED) 키가 없어 수치는 시황 기사 본문에서 인용했습니다.",
+  "sources": [
+   {
+    "label": "연합뉴스 (코스피 10/29 마감)",
+    "url": "https://www.yna.co.kr/view/AKR20261029152851008"
+   },
+   {
+    "label": "연합뉴스 (환율 10/29)",
+    "url": "https://www.yna.co.kr/view/AKR20261029151400002"
+   },
+   {
+    "label": "연합뉴스 (국고채)",
+    "url": "https://www.yna.co.kr/view/AKR20261029173951008"
+   },
+   {
+    "label": "한국경제 (뉴욕 증시 10/29)",
+    "url": "https://www.hankyung.com/article/2026103048766"
+   },
+   {
+    "label": "연합뉴스 (유가)",
+    "url": "https://www.yna.co.kr/view/AKR20261030006200072"
+   }
+  ]
+ },
+ "domestic": [
+  {
+   "title": "코스피 장중 5%대 급락, 11거래일 만에 매도 사이드카… 삼전닉스 6~8%↓",
+   "tags": [
+    "증시",
+    "반도체"
+   ],
+   "count": 43,
+   "summary": "코스피는 2.99% 내린 5,760.35로 출발해 오전 11시 3분 5,620.68(−5.34%)까지 밀렸고, 한때 5,599.42(−5.7%)를 기록했습니다. 코스피 7.57% 급락이 있었던 15일 이후 11거래일 만에 매도 사이드카가 발동됐습니다. 같은 시각 삼성전자는 6.14%, SK하이닉스는 8.65% 떨어졌고, 외국인과 기관이 각각 7,755억 원, 2,388억 원을 순매도하는 동안 개인은 9,074억 원을 사들였습니다.",
+   "why": "알파벳·아마존·인텔 실적이 'AI 투자 대비 회수'에 대한 의문을 키우며 반도체 비중이 큰 한국 증시가 가장 크게 흔들렸습니다. UBS는 환율과 실적 부담을 이유로 코스피 목표치를 8,000에서 7,500으로 낮췄습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261030080000008"
+    },
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261030061500008"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261030040651008"
+    },
+    {
+     "label": "매일경제 증권",
+     "url": "https://www.mk.co.kr/news/stock/12191288"
+    },
+    {
+     "label": "서울경제",
+     "url": "https://www.sedaily.com/article/20108140"
+    }
+   ]
+  },
+  {
+   "title": "3분기 실적 시즌: 현대글로비스·SK이노 '역대 최대', 한미반도체·LG CNS도 선방",
+   "tags": [
+    "실적",
+    "기업"
+   ],
+   "count": 37,
+   "summary": "현대글로비스는 3분기 매출 9조536억 원(+23.1%), 영업이익 5,665억 원(+8.1%)으로 모두 분기 최대를 기록했습니다. 북미 물류와 해운이 함께 늘었지만, 유통 부문은 원화 강세로 영업이익이 18.7% 줄었습니다. SK이노베이션은 3조7,000억 원 역대 최대 이익을 냈고, 한미반도체는 영업이익 908억 원, LG CNS는 AI·금융 사업으로 영업이익이 15% 늘었습니다.",
+   "why": "AI 인프라와 물류·에너지 기업은 실적이 좋지만, 오늘처럼 시장 전체가 흔들리면 실적과 무관하게 주가가 밀립니다. 원화 강세가 수출·트레이딩 사업의 이익을 깎는 사례도 이어지고 있습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261030071551527"
+    },
+    {
+     "label": "매일경제 증권",
+     "url": "https://www.mk.co.kr/news/stock/12190192"
+    },
+    {
+     "label": "한국경제 경제",
+     "url": "https://www.hankyung.com/article/202610305726i"
+    },
+    {
+     "label": "한국경제 IT",
+     "url": "https://www.hankyung.com/article/202610305473i"
+    }
+   ]
+  },
+  {
+   "title": "현대차그룹, 9조 원 '새만금 AI 밸리' 착수… 데이터센터 2030년 가동 목표",
+   "tags": [
+    "AI",
+    "투자"
+   ],
+   "count": 22,
+   "summary": "현대차·기아·현대모비스·현대건설·현대오토에버가 AI 데이터센터 건립 투자 참여를 최종 결정했습니다. 다음 달 데이터센터 건축·인프라를 맡는 법인과 GPU를 확보해 서비스하는 법인 등 특수목적법인 2곳이 출범하고, 새만금 현지 사무소도 문을 열었습니다. 데이터센터는 2030년 가동이 목표입니다.",
+   "why": "피지컬 AI(로봇·자율주행)를 키우려는 그룹 차원의 연산 인프라 투자입니다. 다만 빅테크가 AI 투자로 현금 부담을 지적받는 시점이라, 투자 회수 계획에도 관심이 쏠립니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261030038751055"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/industry-company/2026/10/30/MFSWCMLGHBRTGYRWGVRTOZJZME/"
+    },
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261030038700055"
+    }
+   ]
+  },
+  {
+   "title": "바이낸스 최대 7조 원대 해킹 의혹에 입출금 중단, 국내 거래소도 '출금 주의'",
+   "tags": [
+    "가상자산",
+    "보안"
+   ],
+   "count": 20,
+   "summary": "세계 최대 가상자산 거래소 바이낸스가 해킹 의혹 속에 모든 입출금을 일시 중단했고, 피해 규모는 63억 달러(약 7조 원) 상당으로 거론됩니다. 바이낸스는 피해를 전액 보상하겠다고 밝혔습니다. 업비트·빗썸·코인원·디지털엑스는 바이낸스로의 출금에 주의하라고 공지했고, 비트코인은 7만6,000달러대로 밀렸습니다.",
+   "why": "국내 거래소 해킹에 이어 해외 최대 거래소까지 뚫리며 가상자산 시장의 신뢰가 흔들리고 있습니다. 민주당은 내년 1월 가상자산 과세의 유예 여부를 1~2주 안에 정하겠다고 밝혔습니다.",
+   "sources": [
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/economy_general/2026/10/30/KSK3QATC25FFFF32CXQHH43LPA/"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261030046800002"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/10/30/2026103010503859402"
+    },
+    {
+     "label": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "label": "연합뉴스 (과세 결론)",
+     "url": "https://www.yna.co.kr/view/AKR20261030090400001"
+    }
+   ]
+  },
+  {
+   "title": "9월 생산 3.0%·소비 3.6%·투자 5.3% '트리플 증가'… 생산 증가폭 15년 6개월 만에 최대",
+   "tags": [
+    "거시",
+    "생산"
+   ],
+   "count": 9,
+   "summary": "9월 전산업생산은 한 달 전보다 3.0% 늘었고, 제조업 생산은 9.9% 증가해 2009년 2월 이후 가장 크게 늘었습니다. 소매판매는 3.6%, 설비투자는 5.3% 늘어 석 달 만에 생산·소비·투자가 모두 증가했습니다. 반도체 호조와 자동차 파업 종료, 신차 출시가 영향을 줬습니다.",
+   "why": "8월 생산이 1.2% 줄었다가 곧바로 반등해 경기 흐름이 생각보다 단단하다는 신호입니다. 다만 반도체 쏠림이 커서, 오늘 같은 반도체 주가 급락이 길어지면 체감 경기는 다르게 움직일 수 있습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261030021452002"
+    },
+    {
+     "label": "매일경제 경제",
+     "url": "https://www.mk.co.kr/news/economy/12191140"
+    },
+    {
+     "label": "뉴닉",
+     "url": "https://newneek.co/@newneek/article/48260"
+    }
+   ]
+  }
+ ],
+ "global": [
+  {
+   "title": "알파벳 13% 폭락·아마존·인텔 실망, AI 투자 의구심이 세계 증시로",
+   "tags": [
+    "AI",
+    "실적"
+   ],
+   "count": 58,
+   "summary": "알파벳은 29일 12.64% 떨어져 시가총액 약 5,000억 달러가 사라졌고, 나스닥은 1.38% 내렸습니다. 장 마감 뒤 아마존은 AWS 매출이 39.3% 늘었는데도 전체 매출과 광고·소매가 기대에 못 미치고 잉여현금흐름 적자가 424억 달러로 6배 커지며 급락했습니다. 인텔은 데이터센터·AI 매출이 78% 늘었지만 4분기 매출 전망(150억~160억 달러)이 예상(171억 달러)에 크게 못 미쳐 20% 넘게 폭락했습니다.",
+   "why": "FT는 미국 실적 발표가 AI 지출 우려를 키우며 세계 기술주 매도가 깊어졌다고 전했습니다. 닛케이(−2.54%)와 대만 가권지수(−3.25%)도 오전 장에서 크게 내렸습니다.",
+   "sources": [
+    {
+     "label": "한국경제 (알파벳)",
+     "url": "https://www.hankyung.com/article/2026103048766"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261030007351091"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261030013500091"
+    },
+    {
+     "label": "FT",
+     "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/10/30/2026103011432220912"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/tech_it/2026/10/30/GAZDSNJSHEZTGOLGGE3WEMDEMM/"
+    }
+   ]
+  },
+  {
+   "title": "미국, 중간선거 뒤 이란 공격 재개 임박… 호르무즈 유조선 기뢰 피격",
+   "tags": [
+    "중동",
+    "원유"
+   ],
+   "count": 27,
+   "summary": "미군 중부사령관이 29일 백악관에서 트럼프 대통령에게 대이란 군사공격 선택지를 직접 보고했습니다. 트럼프 대통령은 11월 3일 중간선거 뒤 대대적 공격 가능성을 여러 차례 내비쳤고, 미국은 중재국을 통해 사실상 최후통첩을 보낸 것으로 전해졌습니다. 이란은 호르무즈 해협에서 유조선 4척이 기뢰에 부딪혔다고 밝혔습니다.",
+   "why": "29일 유가는 외교 기대감에 소폭 내렸지만(WTI 102.00달러), 30일 아시아 시간에는 공격 재개 신호에 다시 오르고 있습니다. 이스라엘 총선은 개표 결과 과반 진영이 없어 정국 불확실성도 이어집니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261030062600009"
+    },
+    {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/2026103049327"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261030058600009"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9tbXFMMlg1cjY2NzhHaWxOS1Y0ZFNYcGhWRFg4RTE1YzhrcW96UDVLdXY2QjNTVG5aajd0ODRhQWVZSFM1X3ZCUVZTbzZpVXhna3F4eF9jcm5aT0ptZkZ1bXRnYzA2TkV3RWNGYm5ta01xODdWRzU2Y1lpY2pHQ1ZCX3hkbDAxcktreEtWSWVWRWV2S2ZMS3BhWGs1QQ?oc=5"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261030054900009"
+    }
+   ]
+  },
+  {
+   "title": "중앙은행들 '금리 못 내린다': ECB 12월 인상 시사, 일본은행 1.25% 동결",
+   "tags": [
+    "금리",
+    "중앙은행"
+   ],
+   "count": 13,
+   "summary": "ECB는 금리를 동결했지만 12월 인상을 시사했고, 로이터는 정책위원들이 12월 인상 뒤 동결을 예상한다고 전했습니다. 일본은행은 30일 기준금리를 1.25%로 유지하면서, 기조적 물가가 목표치 2%와 '대체로 정합적'이라고 처음 공식 표명했습니다. 금값은 금리 인상 베팅 속에 온스당 4,000달러 부근에서 움직이고 있습니다.",
+   "why": "미국에 이어 유럽·일본도 물가 때문에 긴축 쪽으로 기울어 있습니다. 엔화와 유로화 움직임이 원/달러 환율과 외국인 수급에도 영향을 줍니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261030092400073"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeE91a2VQZFdXLXB2NG5rMUpWOTh0YkQyXzhKZmZsX0M4Smo1ZzVpbFNISTYxcVVEOWtSV1JQWWJDVWswd0xfQ1Rod2duX1hWVmExTXZOOXZUTDNoX3RYRHA1N0ZscHE5ZmFEV0FBZkFvbXdrTndOY0hBQWgySGJKcUZXaUFSdjFzRjk5dDR1V1k3d3pFemt5WVdMR0FVb0EzYUU2dnVjcjM4T19rWnRJ?oc=5"
+    },
+    {
+     "label": "Reuters (12월 인상 뒤 동결)",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXJsZnJoaDBVczhVVHlHVktscUlEVzhTcGtnX25CS2F4c2FHVGpxOE02UHBudjRiRm02UmV6anhHX05mLWJSbHQ0ZmJqQV9fVDU0eVhmNXZjX0gtYXNWQzlrcXR1bHB5THJxVXVjWGM3bjN5VUdOTEJzUktnWHcyWUo2ZUIteER2MUVtb1VYaVU4NUQ1VWNDbU5aMy1URWtndFNEcmp3azNBRDNhdlZIa2FyeUlzS1UxU3V4Y0ln?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUN6SVNKYlRQbEVSTHhPbWNJZEltZHRnb2FKUU1ld285b0ZNaHhReVF5NmZPUkNXbEF6ekg2TU96VmJqbXlTVFlSeG9IN0I4bEt6RlljWlhYS05ITEs3dERHMDZia3ZVenRDaHNHc2hyNUhXaWhkNkJPOHNBTGlSNXJIMjhsMkRYODhBSlNLeGVHVTlQRE5mbzhJSEd0bXZFdjJfUDBfbmd1UGEyTlVzdUd6bGU?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "중국 경제: BYD 실적 기대 하회, 본토 자금 홍콩 이탈",
+   "tags": [
+    "중국",
+    "자동차"
+   ],
+   "count": 6,
+   "summary": "BYD의 3분기 순이익은 100억 위안으로 28% 늘었지만 시장 전망 범위(114억~129억5,000만 위안)를 밑돌았습니다. 해외 출하가 두 배 넘게 늘어 내수 부진을 메웠지만, 매출채권은 연초보다 52.6%, 재고는 60.1% 늘었습니다. 블룸버그는 홍콩 증시를 떠받치던 본토 투자자들이 빠져나가고 있다고 전했습니다.",
+   "why": "중국 전기차의 수출 공세가 한국 자동차 시장에도 영향을 주고 있습니다. 홍콩 증시는 전날 4개월 만의 최저치에서 30일 오전 저가 매수로 반등했습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261030075800089"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPalJfZ0I1eUxFaS1acnNmbG0yTDdnTXhTWXk4WWFXcDdGZjFTdkVZNkl3RG1BSnU5OGd5QUNvSmlLS2hjaHcxX25zN0dVTTNVaDhTM0oxMlJFSXc1Y0VubDFJT21QU2VlRVViT1YzcUlVb1dWTUFuOEVKMVVIekdtcFprUDlYdm1BRV9GQnZTaUN5QWl6eENsbmhWb3ZLWkdSY3dzd0RERlhaSnczN2h5ajFFOA?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU5nUUh0aU4wcVVpU2czZUJNQzdma2N6cE9zLTdQYko3MlAtZzJFMXNtQ2ZMQmd0SkJhd2FjQlpIbEQweEJRZ0VBb3VOdGdjbUJOQWIyU20tOU9vaTNiYXdaeFZjU1d6bENWNmI1S2tVOUtqb01XeHZXb0pFdFZrZDZ1UElCRUhOSG1XUUF6NUk3ck4xYUgyTkhNNGZDaTFCX0NvNlpoYzFNcVFoX3k0Vi1nNA?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVNvaHpZS0dsU1dqX2JlMjFYMnRCOGVpaTNnMWtZUFg1OGk5SUtKZkFiV3FVdlZMU2txVlJKNW9LWERMN2NnMW5VTHJtYU9UcHlJVDlUUGJNQUdRTWpyVmpkQkRmWFlvbFRYaDV3MWdLYzZybGxmWnRKWmVhZ3pMcXlFVlBQSEIxRUlRVmVnTENtczJlcExQZEJGT1hYal9rc01LdTRoVFVJdw?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "미 연방정부 채무, GDP의 100% 도달… 1946년 이후 처음",
+   "tags": [
+    "미국",
+    "재정"
+   ],
+   "count": 6,
+   "summary": "2026 회계연도 말 미국 연방정부 채무(정부 내부 보유분 제외)는 32조2,000억 달러로 GDP의 100.03%에 이르렀습니다. 회계연도 말 기준으로 100%를 넘은 것은 2차 대전 직후인 1946년 이후 처음이며, 재정적자는 GDP의 6.2%인 약 2조 달러였습니다. 블룸버그는 워시 의장의 '향후 신호 자제' 기조가 국채시장 변동성을 키울 수 있다고 짚었습니다.",
+   "why": "3.4% 성장에도 빚이 빠르게 늘어 장기금리 상승 압력이 이어질 수 있습니다. 미국 장기금리는 국내 대출금리와 원/달러 환율에 직결됩니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261030003400072"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzdFbTR0Tm11V3ZMZkxaYTU0d2NuRW5SYmhHOWFqWjdTOVU2cUhoa3kyLUlTT2tvVXRKaHYwbnVLMkNqa2RUdF9QOEVFeHFEUnJwLXVubUh0VzBIWmZfSnZGbkVaOERxYmRfUzgwT2F6VWFMYk80Rlc4eTF4VEZnMVFuM2ktdm5EQldmVG5Sc3I2WWpaQUpjRnlESUFBdDhlM1F6MU5SU3k3TTVYMWZv?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQk85OG5hWG05YWVBemZzTk05c3ltZ0JGS3ZRYXFib1RRX1dXRVlSMmRiZ19lSlk2czJMTzZFUDZCY2ZIa0oxR0FXVy1ScGJaTHlmNGRCaVRlWWZDcE1QYlBhQVA0N1pGaWg1OU9rN3JfQVlncDYySGN0aWtJdXk1VkNBcldQUS1RQWM1SWZXWEY0eEJGaDRjcC1Rb0ZHWEJ1UVFhbEFpSDdsLTlZMFlISDNZRjM?oc=5"
+    }
+   ]
+  }
+ ],
+ "industry": [
+  {
+   "who": "엔비디아",
+   "what": "네이버에 10억 달러 투자해 지분 4.54%로 3대 주주, AI 팩토리 동맹 본격화",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/tech_it/2026/10/30/7TDUTUEZYVANLIFCOS744F4RGI/"
+   }
+  },
+  {
+   "who": "한화오션",
+   "what": "초대형 원유운반선(VLCC) 2척 3,568억 원에 수주",
+   "source": {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261030058500003"
+   }
+  },
+  {
+   "who": "쿠팡CLS",
+   "what": "부산에 420억 원 들여 신규 스마트 물류센터 구축",
+   "source": {
+    "label": "연합뉴스 경제",
+    "url": "https://www.yna.co.kr/view/AKR20261030044700030"
+   }
+  },
+  {
+   "who": "삼성·은행권",
+   "what": "미소금융에 8,000억 원 출연, 청년·라이더·농업 특화 대출 출시",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/economy_general/2026/10/30/TH6ZB45ZRJFONC3BS4FXO4JZFQ/"
+   }
+  },
+  {
+   "who": "하나은행",
+   "what": "서민금융진흥원에 1,000억 원 출연, 저소득 직장인 신용대출 출시",
+   "source": {
+    "label": "연합뉴스 경제",
+    "url": "https://www.yna.co.kr/view/AKR20261030073200002"
+   }
+  },
+  {
+   "who": "생명보험업계",
+   "what": "6조2,000억 원 규모 생산적 금융으로 인프라·첨단산업 투자",
+   "source": {
+    "label": "매일경제 경제",
+    "url": "https://www.mk.co.kr/news/economy/12190170"
+   }
+  },
+  {
+   "who": "한화투자증권",
+   "what": "체인링크와 디지털자산 플랫폼 구축 협력",
+   "source": {
+    "label": "연합뉴스 경제",
+    "url": "https://www.yna.co.kr/view/AKR20261030088600008"
+   }
+  },
+  {
+   "who": "쏘카",
+   "what": "자율주행 사업 진출 소식에 상한가, 티맵 IPO 기대도 커져",
+   "source": {
+    "label": "한국경제 IT",
+    "url": "https://www.hankyung.com/article/202610293461i"
+   }
+  },
+  {
+   "who": "칼시",
+   "what": "예측 베팅 플랫폼, 1조4,000억 원 투자 유치로 기업가치 55조 원",
+   "source": {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261030063400009"
+   }
+  },
+  {
+   "who": "디즈니+",
+   "what": "월 7,000원 광고형 멤버십 다음 달 출시",
+   "source": {
+    "label": "연합뉴스 경제",
+    "url": "https://www.yna.co.kr/view/AKR20261030067300017"
+   }
+  },
+  {
+   "who": "나노포지AI",
+   "what": "소재 개발 기간을 10년에서 한 달로 줄이는 AI, 146억 원 시드 투자 유치",
+   "source": {
+    "label": "머니투데이",
+    "url": "https://www.mt.co.kr/future/2026/10/30/2026103010003272073"
+   }
+  }
+ ],
+ "trends": [
+  {
+   "title": "AI 투자 사이클, 이제 '현금'과 '빚'을 따진다",
+   "evidence": [
+    {
+     "text": "아마존, 데이터센터 투자로 잉여현금흐름 적자 424억 달러, 6배로 확대",
+     "source": {
+      "label": "연합뉴스 마켓",
+      "url": "https://www.yna.co.kr/view/AKR20261030007351091"
+     }
+    },
+    {
+     "text": "구글 부채위험 지표 상승, 실적 발표로 AI 부채 불안 재점화",
+     "source": {
+      "label": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQk85OG5hWG05YWVBemZzTk05c3ltZ0JGS3ZRYXFib1RRX1dXRVlSMmRiZ19lSlk2czJMTzZFUDZCY2ZIa0oxR0FXVy1ScGJaTHlmNGRCaVRlWWZDcE1QYlBhQVA0N1pGaWg1OU9rN3JfQVlncDYySGN0aWtJdXk1VkNBcldQUS1RQWM1SWZXWEY0eEJGaDRjcC1Rb0ZHWEJ1UVFhbEFpSDdsLTlZMFlISDNZRjM?oc=5"
+     }
+    },
+    {
+     "text": "HSBC, 데이터센터 대출 위험을 신용보험으로 헤지 추진",
+     "source": {
+      "label": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSFFVa1k4M0piYVUxbnl0RERBMS1XR0NKZ1JpX1NFV3R3em4zNGVGem1xZVV1ZTB3YWR6UkRnYTFqWDZKT1hjTk1VY3RxcHlsaTBjaDRaT2xBQVpjVHpzS0pNY1U2amdZSFB1VDhWdG96YWwxejNxZ1BZUjBxeE5BOUNsUzdEN21qalpmYzBYT1RvODljR0tXd2F6cTRIQWdjZmhQT3FtbmhSUnp3UFRkQUVmNDM?oc=5"
+     }
+    },
+    {
+     "text": "모건스탠리 \"한국의 대미 수출은 미국 AI 투자를 가늠할 선행지표\"",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261030087300008"
+     }
+    },
+    {
+     "text": "현대차그룹, 9조 원 새만금 AI 밸리 데이터센터 착수",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261030038751055"
+     }
+    }
+   ],
+   "insight": "AI 인프라 투자는 계속되지만 시장은 그 비용을 누가, 어떤 빚으로 대는지 따지기 시작했습니다. 미국 빅테크 투자에 수출이 연결된 한국은 이 평가 변화에 가장 민감하게 반응합니다."
+  },
+  {
+   "title": "인플레이션 재점화, 금리를 내리지 못하는 세계",
+   "evidence": [
+    {
+     "text": "ECB, 금리 동결하며 12월 인상 시사",
+     "source": {
+      "label": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5"
+     }
+    },
+    {
+     "text": "일본은행, 1.25% 동결하며 물가가 목표 2%에 부합한다고 첫 공식 표명",
+     "source": {
+      "label": "연합뉴스 국제",
+      "url": "https://www.yna.co.kr/view/AKR20261030092400073"
+     }
+    },
+    {
+     "text": "금값, 금리 인상 베팅 속 온스당 4,000달러 부근",
+     "source": {
+      "label": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUN6SVNKYlRQbEVSTHhPbWNJZEltZHRnb2FKUU1ld285b0ZNaHhReVF5NmZPUkNXbEF6ekg2TU96VmJqbXlTVFlSeG9IN0I4bEt6RlljWlhYS05ITEs3dERHMDZia3ZVenRDaHNHc2hyNUhXaWhkNkJPOHNBTGlSNXJIMjhsMkRYODhBSlNLeGVHVTlQRE5mbzhJSEd0bXZFdjJfUDBfbmd1UGEyTlVzdUd6bGU?oc=5"
+     }
+    },
+    {
+     "text": "미 연방정부 채무 GDP 대비 100% 도달",
+     "source": {
+      "label": "연합뉴스 국제",
+      "url": "https://www.yna.co.kr/view/AKR20261030003400072"
+     }
+    },
+    {
+     "text": "주요국이 금리를 쉽게 못 내리는 이유 (뉴질랜드 동결·캐나다 인상 포함)",
+     "source": {
+      "label": "어피티",
+      "url": "https://uppity.co.kr/%eb%b6%88%eb%b6%99%ec%9d%80-%ec%9d%b8%ed%94%8c%eb%a0%88%ec%9d%b4%ec%85%98-%ec%a3%bc%ec%9a%94%ea%b5%ad%ec%9d%b4-%ea%b8%88%eb%a6%ac%eb%a5%bc-%ec%89%bd%ea%b2%8c-%eb%aa%bb-%eb%82%b4%eb%a6%ac%eb%8a%94/"
+     }
+    }
+   ],
+   "insight": "에너지발 물가와 정부 부채가 겹치며 주요국 대부분이 금리를 유지하거나 올리는 쪽으로 움직이고 있습니다. 대출자에게는 금리 부담이 쉽게 줄지 않는 환경입니다."
+  },
+  {
+   "title": "계층 이동은 막히고, 서민금융 재원은 늘어난다",
+   "evidence": [
+    {
+     "text": "소득 계층이 오른 사람 16.9%, 2017년 이후 최저",
+     "source": {
+      "label": "뉴닉",
+      "url": "https://newneek.co/@newneek/article/48261"
+     }
+    },
+    {
+     "text": "삼성·은행권, 미소금융에 8,000억 원 출연",
+     "source": {
+      "label": "조선일보 경제",
+      "url": "https://www.chosun.com/economy/economy_general/2026/10/30/TH6ZB45ZRJFONC3BS4FXO4JZFQ/"
+     }
+    },
+    {
+     "text": "하나은행, 서금원에 1,000억 원 출연해 저소득 직장인 대출",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261030073200002"
+     }
+    },
+    {
+     "text": "카카오·토스뱅크, 청소년 도박 차단 위해 경찰과 협약",
+     "source": {
+      "label": "머니투데이",
+      "url": "https://www.mt.co.kr/finance/2026/10/30/2026103009215120738"
+     }
+    }
+   ],
+   "insight": "청년층의 소득 상향 이동이 줄어드는 가운데 정부와 금융권은 서민금융 재원을 늘리고 있습니다. 고금리 속 다중채무와 불법 도박 같은 취약 지점을 막는 정책이 함께 나오고 있습니다."
+  }
+ ],
+ "explainers": [
+  {
+   "title": "알파벳 주가 하루 만에 12% 폭락, 시총 670조 원 증발… 무슨 일이야?",
+   "summary": "3분기 실적 부진과 AI 투자 우려로 매도가 커진 배경과 코스피에 미친 영향을 정리했습니다.",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48262"
+   }
+  },
+  {
+   "title": "9월 생산·소비·투자 동반 상승, 3개월 만에 '트리플 증가' 재현된 이유는?",
+   "summary": "전산업 생산 3.0%, 소매판매 3.6%, 설비투자 5.3% 증가의 배경을 짚었습니다.",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48260"
+   }
+  },
+  {
+   "title": "불붙은 인플레이션, 주요국이 금리를 쉽게 못 내리는 이유",
+   "summary": "미국·유럽·일본과 뉴질랜드·캐나다까지 이번 주 금리 결정을 묶어 각국이 물가를 경계하는 흐름을 설명합니다.",
+   "source": {
+    "label": "어피티",
+    "url": "https://uppity.co.kr/%eb%b6%88%eb%b6%99%ec%9d%80-%ec%9d%b8%ed%94%8c%eb%a0%88%ec%9d%b4%ec%85%98-%ec%a3%bc%ec%9a%94%ea%b5%ad%ec%9d%b4-%ea%b8%88%eb%a6%ac%eb%a5%bc-%ec%89%bd%ea%b2%8c-%eb%aa%bb-%eb%82%b4%eb%a6%ac%eb%8a%94/"
+   }
+  },
+  {
+   "title": "다른 나라의 금리 결정이 내 대출과 주식에 미치는 영향",
+   "summary": "해외 중앙은행의 결정이 국내 대출 금리와 주식 시장으로 이어지는 경로를 다룬 오늘 자 머니레터입니다.",
+   "source": {
+    "label": "어피티",
+    "url": "https://uppity.co.kr/%f0%9f%92%b0%eb%8b%a4%eb%a5%b8-%eb%82%98%eb%9d%bc%ec%9d%98-%ea%b8%88%eb%a6%ac-%ea%b2%b0%ec%a0%95%ec%9d%b4-%eb%82%b4-%eb%8c%80%ec%b6%9c%ea%b3%bc-%ec%a3%bc%ec%8b%9d%ec%97%90-%eb%af%b8%ec%b9%98%eb%8a%94/"
+   }
+  },
+  {
+   "title": "퇴직금 사외 적립 의무화·기금형 퇴직연금 도입, 2030년까지 어떻게 바뀔까?",
+   "summary": "2030년까지 모든 기업이 퇴직금을 외부에 적립해야 하고, 여러 기업의 퇴직연금을 묶어 운용하는 기금형이 도입됩니다.",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48263"
+   }
+  },
+  {
+   "title": "소득 계층 오른 사람 10명 중 2명도 안 된다, 4년 연속 하락한 계층 이동률",
+   "summary": "2024년 소득 상향 이동 비율이 16.9%로 2017년 이후 최저였고, 청년층도 줄었다는 통계를 풀어 줍니다.",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48261"
+   }
+  }
+ ],
+ "search_trends": {
+  "note": "Google 트렌드 한국 · 수집 시점 기준",
+  "items": [
+   {
+    "term": "중공업",
+    "traffic": "2,000+"
+   },
+   {
+    "term": "삼성그룹",
+    "traffic": "2,000+"
+   },
+   {
+    "term": "한국장학재단",
+    "traffic": "500+"
+   },
+   {
+    "term": "비트코인 시세",
+    "traffic": "100+"
+   },
+   {
+    "term": "k패스",
+    "traffic": "100+"
+   }
+  ],
+  "comment": "비트코인 시세는 바이낸스 해킹 의혹으로 가격이 흔들리면서, k패스는 기후동행카드 종료와 기후동행패스 전환 안내와 맞물려 검색이 늘었습니다. 삼성그룹은 삼성전자 창립 57주년 보도와 함께 올랐습니다."
+ },
+ "schedule": {
+  "note": "모두 한국 시간",
+  "rows": [
+   {
+    "when": "10/30(금) 21:30",
+    "event": "미국 3분기 고용비용지수",
+    "watch": "임금발 물가 압력, 12월 인상 확률",
+    "hot": true
+   },
+   {
+    "when": "10/30(금) 밤",
+    "event": "미국 증시, 아마존·인텔 실적 반영 첫 거래",
+    "watch": "기술주 매도 확산 여부",
+    "hot": true
+   },
+   {
+    "when": "11/1(일)",
+    "event": "미국 서머타임 종료",
+    "watch": "미국 증시·지표 발표가 한국 시간으로 1시간 늦어짐"
+   },
+   {
+    "when": "11월 중",
+    "event": "상장사 52곳, 1억923만 주 의무보유 해제",
+    "watch": "물량 출회 부담"
+   },
+   {
+    "when": "1~2주 안",
+    "event": "민주당, 가상자산 과세 유예 여부 결론",
+    "watch": "내년 1월 시행 여부"
+   },
+   {
+    "when": "11/3(화)",
+    "event": "미국 중간선거 · 래블업 코스닥 상장",
+    "watch": "선거 뒤 이란 공격 재개 여부"
+   }
+  ],
+  "foot": "미국 일정은 서머타임(EDT, 한국과 13시간 차) 기준이며, 11월 1일 서머타임 종료 후에는 14시간 차입니다.",
+  "sources": [
+   {
+    "label": "Regards of Wall Street",
+    "url": "https://www.regardsofwallstreet.com/news/stock-market-week-ahead-october-26-2026"
+   },
+   {
+    "label": "한국경제 증권",
+    "url": "https://www.hankyung.com/article/202610305727i"
+   },
+   {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261030090400001"
+   },
+   {
+    "label": "벤처스퀘어 (래블업)",
+    "url": "https://www.venturesquare.net/1123545/"
+   },
+   {
+    "label": "연합뉴스 (이란)",
+    "url": "https://www.yna.co.kr/view/AKR20261030062600009"
+   }
+  ]
+ },
+ "watch": {
+  "opportunities": [
+   {
+    "text": "9월 생산이 15년 6개월 만에 가장 크게 늘어 실물 경기의 기초 체력은 단단합니다",
+    "source": {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261030021452002"
+    }
+   },
+   {
+    "text": "엔비디아의 네이버 지분 투자 등 국내 AI 인프라에 글로벌 자본이 들어오고 있습니다",
+    "source": {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/tech_it/2026/10/30/7TDUTUEZYVANLIFCOS744F4RGI/"
+    }
+   },
+   {
+    "text": "해운·물류(현대글로비스)와 조선(한화오션 VLCC 수주) 등 고운임 수혜 업종의 실적이 견조합니다",
+    "source": {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261030071551527"
+    }
+   },
+   "급락장에서 실적이 좋은 종목까지 함께 밀리면 장기 투자자에게는 가격 부담이 줄어드는 구간이 될 수 있습니다."
+  ],
+  "risks": [
+   {
+    "text": "AI 투자 회수에 대한 의구심이 이어지면 반도체 비중이 큰 코스피의 변동성이 더 커질 수 있습니다",
+    "source": {
+     "label": "FT",
+     "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1"
+    }
+   },
+   {
+    "text": "미국이 중간선거 뒤 이란 공격을 재개하면 유가가 다시 뛸 수 있습니다",
+    "source": {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261030062600009"
+    }
+   },
+   {
+    "text": "바이낸스 해킹 의혹으로 가상자산 시장의 신뢰와 가격이 흔들리고 있습니다",
+    "source": {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/economy_general/2026/10/30/KSK3QATC25FFFF32CXQHH43LPA/"
+    }
+   },
+   {
+    "text": "11월 상장사 52곳의 의무보유 해제 물량이 수급 부담이 될 수 있습니다",
+    "source": {
+     "label": "한국경제 증권",
+     "url": "https://www.hankyung.com/article/202610305727i"
+    }
+   }
+  ],
+  "keywords": [
+   "매도 사이드카",
+   "AI 투자 회수",
+   "바이낸스 해킹",
+   "트리플 증가",
+   "이란 공격",
+   "12월 인상"
+  ]
+ },
+ "notes": [
+  "이 판은 30일 12:44(장중)에 만들었습니다. 시세판은 전 거래일(10/29) 종가이고, 오늘 코스피 수치는 오전 11시 3분 기준 기사입니다.",
+  "어제 판 일정표의 경기도 버스 총파업은 30일 새벽 노사가 임금 3.2% 인상에 합의해 철회됐고, 모든 노선이 첫차부터 정상 운행했습니다."
+ ]
+}
