@@ -1,0 +1,702 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "08:12",
+ "collection": {
+  "window": "10/31 08:08 – 11/01 08:08 KST",
+  "feeds_ok": 29,
+  "feeds_total": 29,
+  "articles": 671,
+  "failed": []
+ },
+ "title": "오늘의 비즈니스·경제 브리핑",
+ "lead": "코스피가 10월 한 달 16% 넘게 떨어져 역대 일곱 번째로 큰 월간 하락을 기록한 가운데, 이번 주는 미국 중간선거와 애플·AMD 실적, 미국 고용 지표가 방향을 정합니다. 미 FBI는 바이낸스 해킹의 배후로 북한을 공식 지목했고, 오픈AI는 투자 유치 목표의 절반도 채우지 못해 AI 투자 심리가 식고 있음을 보여 줬습니다.",
+ "market": {
+  "note": "국내 10/30 종가 · 미국과 유가 10/30(현지) 종가 · 주말",
+  "tiles": [
+   {
+    "name": "코스피",
+    "value": "5,730.74",
+    "change": "206.92 (−3.48%)",
+    "dir": "down",
+    "note": "10/30 · 연합뉴스"
+   },
+   {
+    "name": "코스닥",
+    "value": "724.38",
+    "change": "28.85 (−3.83%)",
+    "dir": "down",
+    "note": "10/30 · 연합뉴스"
+   },
+   {
+    "name": "원/달러",
+    "value": "1,334.3",
+    "change": "2.5원",
+    "dir": "down",
+    "note": "10/30 15:30 · 연합뉴스"
+   },
+   {
+    "name": "국고채 10년",
+    "value": "4.008%",
+    "change": "7.3bp",
+    "dir": "down",
+    "note": "10/30 · 연합뉴스"
+   },
+   {
+    "name": "S&P 500",
+    "value": "7,580.07",
+    "change": "140.32 (−1.82%)",
+    "dir": "down",
+    "note": "10/30 현지 · 연합뉴스"
+   },
+   {
+    "name": "나스닥",
+    "value": "25,437.00",
+    "change": "747.73 (−2.86%)",
+    "dir": "down",
+    "note": "10/30 현지 · 연합뉴스"
+   },
+   {
+    "name": "다우",
+    "value": "51,770.31",
+    "change": "572.25 (−1.09%)",
+    "dir": "down",
+    "note": "10/30 현지 · 연합뉴스"
+   },
+   {
+    "name": "필라델피아 반도체",
+    "value": "—",
+    "change": "−7.20%",
+    "dir": "down",
+    "note": "10/30 · 등락률만 확인 · 연합뉴스"
+   },
+   {
+    "name": "WTI (12월물)",
+    "value": "$104.12",
+    "change": "2.08%",
+    "dir": "up",
+    "note": "10/30 현지 · 연합뉴스"
+   },
+   {
+    "name": "브렌트 (12월물)",
+    "value": "$117.64",
+    "change": "2.40%",
+    "dir": "up",
+    "note": "10/30 현지 · 6개월 최고 · 연합뉴스"
+   },
+   {
+    "name": "미 국채 10년",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "FRED 키 등록 시 표시"
+   },
+   {
+    "name": "VIX",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "FRED 키 등록 시 표시"
+   }
+  ],
+  "foot": "주말이라 지난 판과 같은 10/30 종가입니다. 원/달러는 서울 외환시장 15:30 기준가, 유가는 12월 인도분 선물 종가입니다. 오늘(11월 1일)부터 미국 서머타임이 끝나 한국과의 시차가 14시간이 됩니다.",
+  "sources": [
+   {
+    "label": "연합뉴스 (코스피 마감)",
+    "url": "https://www.yna.co.kr/view/AKR20261030131551008"
+   },
+   {
+    "label": "연합뉴스 (환율)",
+    "url": "https://www.yna.co.kr/view/AKR20261030130000002"
+   },
+   {
+    "label": "연합뉴스 (국고채)",
+    "url": "https://www.yna.co.kr/view/AKR20261030149151008"
+   },
+   {
+    "label": "연합뉴스 (뉴욕 증시)",
+    "url": "https://www.yna.co.kr/view/AKR20261031005452072"
+   },
+   {
+    "label": "한국경제 (반도체 시총)",
+    "url": "https://www.hankyung.com/article/2026103172407"
+   },
+   {
+    "label": "연합뉴스 (유가)",
+    "url": "https://www.yna.co.kr/view/AKR20261031005200072"
+   }
+  ]
+ },
+ "domestic": [
+  {
+   "title": "코스피 10월 −16.2%, 역대 일곱 번째 월간 급락… 올해 사이드카 55회 '역대 최다'",
+   "tags": [
+    "증시",
+    "변동성"
+   ],
+   "count": 16,
+   "summary": "코스피는 10월 한 달 6,838.04에서 5,730.74로 16.19% 떨어져 월간 기준 역대 일곱 번째로 큰 하락률을 기록했습니다. 올해 유가증권시장 사이드카는 55회 발동돼 연간 역대 최다이자 2008년 금융위기 때의 두 배를 넘었습니다. 지수가 내린 날의 평균 하락률(3%)이 오른 날의 평균 상승률(2.44%)보다 커 반등 탄력이 약했습니다.",
+   "why": "이번 주 뉴욕 증시는 중간선거보다 애플·AMD 실적과 비농업 고용이 더 큰 변수라는 시각이 많습니다. 증시가 흔들리자 ETF 자금은 국내 주식형에서 채권형으로 옮겨 가고 있습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261031026200008"
+    },
+    {
+     "label": "연합뉴스 (뉴욕 주간전망)",
+     "url": "https://www.yna.co.kr/view/AKR20261101006700009"
+    },
+    {
+     "label": "한국경제 증권",
+     "url": "https://www.hankyung.com/article/2026103058016"
+    },
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261031026300008"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261030184200008"
+    }
+   ]
+  },
+  {
+   "title": "미 FBI \"북한이 바이낸스 60억 달러 탈취 배후\"… 바이낸스는 손실 90% 보충, 오늘 입출금 재개",
+   "tags": [
+    "가상자산",
+    "보안"
+   ],
+   "count": 15,
+   "summary": "미 연방수사국(FBI)이 바이낸스에서 약 60억 달러의 가상자산을 탈취한 배후로 북한을 공식 지목했습니다. 바이낸스는 이용자자산보호기금(SAFU)과 사내 유보금 등을 동원해 손실의 90%를 메웠고, 거래량 상위 10개 자산은 100% 준비금을 확보했다며 11월 1일 입출금을 재개한다고 밝혔습니다. 국내에서는 금융당국이 금융권에 해킹 보안 개선 계획 제출을 요구하고 AI 기반 공동 보안관제 구축을 검토하고 있습니다.",
+   "why": "10월 국내 금융권 해킹 도미노에 이어 해외 최대 거래소까지 뚫리며 보안이 금융회사의 핵심 경영 과제로 떠올랐습니다. 해커가 아직 상당액을 쥐고 있어 자금 세탁 추적이 이어질 전망입니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261101006400071"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261101001800091"
+    },
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261031045700002"
+    },
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261031035200017"
+    },
+    {
+     "label": "한국경제 IT",
+     "url": "https://www.hankyung.com/article/2026103175637"
+    }
+   ]
+  },
+  {
+   "title": "방한한 샘 올트먼, 삼성 사장단·최태원 SK 회장과 연쇄 회동",
+   "tags": [
+    "AI",
+    "반도체"
+   ],
+   "count": 11,
+   "summary": "오픈AI의 샘 올트먼 CEO가 방한해 삼성 사장단과 'AI 혁신' 간담회를 열었고, 최태원 SK그룹 회장과도 SK하이닉스 등 계열사 임원이 함께한 오찬을 가졌습니다. SK는 지난해 올트먼 방한 때 오픈AI의 데이터센터 사업 '스타게이트'에 HBM 공급 등 핵심 파트너로 참여하기로 했습니다. 블룸버그는 메모리 품귀가 깊어지는 가운데 이뤄진 회동이라고 전했습니다.",
+   "why": "AI 투자 심리가 식는 와중에도 메모리 확보 경쟁은 계속되고 있다는 신호입니다. 다만 오픈AI 자체의 자금 조달이 목표에 못 미쳐, 대형 공급 계약의 속도에는 변수가 생겼습니다.",
+   "sources": [
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/industry/2026/10/31/2026103120394629432"
+    },
+    {
+     "label": "samsung",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQZlRjM2N4SEpMaG1MOG1tM1RrTkF2bU4wMHlLdmJYQ3FuX3diclhKdzlUMl9IV3F3M0dnbC1zRndGdlNWUk9jdGdtaGNDTk5WWmh0ZEVrQ0poZld1YktVbUxOSVBqYl9sbkU0SGdqek5FWGtnSVBWRGl3aTJCelJmZi1OUHVXdmJNVVVYT3ZkWk4yTEhaS2pBT3BtdWxwWTlNZlI3dGYxbG9vbVRwaG9SZFAzUWNhZ0VsRHN0OE9yd0tNUE5DUU1HeXRvamszVC1jSDFnbjBCSndpcmdBVjJwYk1LOU56djJzLU5kSnJaN3o3Y1pLMFUwaHR6aGRlNDVObUlpd2NRa1JBM3J4RmVDU1RBTXhRVnlSZWQ0U1ByWFFUekF6MU16OXhPa1VrWEJwcWZ0Ng?oc=5"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/industry-company/2026/10/31/5YSITEOBVRGTTEXFU5DWVNHSQ4/"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1Fva1BkZVk3T3ZZVWZiSUNOQVhaMElmVERReF8zekRzTWt0YnNZZUVpTGUtaUd0MFVKcmp2TXF2d2hxNldzTUYyNVhTRjFxUU8xeHAtYllENzhtMDRlbF93dXUtb3RXNWkwbk9icU5KdlN4anY3RzJnSXl2dHZ0a3JTT2QzMlRsY1hhLWxyUVdSYzFFV1E3MzRBeXJmOU5EcnVIUzI0S2hhYTk2dUE?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "HBM4 경쟁 새 국면: 삼성 추격, SK하이닉스 수성… 삼전닉스 효과로 자사주 취득 5.7배",
+   "tags": [
+    "반도체",
+    "메모리"
+   ],
+   "count": 8,
+   "summary": "3분기 실적 발표에서 삼성전자는 HBM4를 앞세워 점유율 회복에 자신감을 보였고, SK하이닉스는 HBM4 수율과 생산능력을 높이며 주도권을 지키겠다고 밝혔습니다. 두 회사의 3분기 반도체 합산 영업이익은 약 190조 원에 이릅니다. 올해 국내 자사주 취득액은 두 회사 효과로 1년 전보다 5.7배 늘었습니다.",
+   "why": "두 종목은 열흘 중 8일을 같은 방향으로 움직였지만, 실적 발표 때는 주주환원 계획에 따라 엇갈렸습니다. 금요일 밤 미국 반도체 급락이 월요일 두 종목에 어떻게 반영될지가 관심입니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261030165200003"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261031025400008"
+    },
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261031000200008"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/tech/2026/11/01/2026103118035098309"
+    }
+   ]
+  },
+  {
+   "title": "서울 아파트 매물 8만 건 쌓이고 리모델링도 흔들",
+   "tags": [
+    "부동산",
+    "주택"
+   ],
+   "count": 7,
+   "summary": "서울 아파트 매물이 8만 건 넘게 쌓이며 '집을 내놔도 안 팔린다'는 반응이 나옵니다. 조합 인가 취소와 재건축 전환이 잇따르며 리모델링 사업도 흔들리고 있습니다. 건설사 해킹으로 스마트 아파트 입주민의 정보 보안 문제도 불거졌습니다.",
+   "why": "고금리와 대출 규제가 길어지며 거래가 줄고 관망세가 짙어지고 있습니다. 지방은 스트레스 DSR 3단계 적용 유예가 거론될 만큼 침체가 깊습니다.",
+   "sources": [
+    {
+     "label": "한국경제",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UU016XzFSVVRZdG9tQ2xNRTBJdThtMG5MdnV1UFBUby1lWWpMTjBfUmxwWGlUV0E1NWo0dl9aUW9uZ0Nia0gyaE9HckZvUWt5djk5Wk5yNDI2UQ?oc=5"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/real_estate/2026/11/01/GBRDIODGGA2TCNTFME3GKZRYGM/"
+    },
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261031047400003"
+    }
+   ]
+  }
+ ],
+ "global": [
+  {
+   "title": "미 중간선거 D-2: 사전투표 5,100만 명 돌파… 루비오 \"패배해도 외교 정책 못 바꾼다\"",
+   "tags": [
+    "미국",
+    "정치"
+   ],
+   "count": 28,
+   "summary": "11월 3일 중간선거를 앞두고 사전투표자가 약 5,100만 명으로 역대 최다 기록을 경신했습니다. 정당 등록 25개 주에서 민주당원 비중이 공화당원보다 약 14%포인트 높지만, 2022년에도 11%포인트 차이였던 만큼 유불리는 단정하기 이릅니다. 루비오 국무장관은 선거에서 지더라도 트럼프 대통령의 외교 정책은 바뀌지 않을 것이라고 말했습니다.",
+   "why": "선거 결과는 관세와 재정, 이란 정책의 집행 속도에 영향을 줍니다. 개표가 늦어지는 주가 많아 결과 확정까지 시간이 걸릴 수 있다는 점도 시장의 변수입니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261101002200071"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261101005100071"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/01/2026103009430746354"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRk40a0N0b1lVeFF4MFN0ZndHRzByZG5WTFRzM3FOU0xGaUd4c0JTcHJFTERZZTNubnN6TExPOThCWlJPcHU5MWtVMjZLUHhLc3ZFYlZGZ2I4OUVrY2pneU9YZ2hsaWUzRWVLaXJjOC1MZjl0WUwxNGhrUko1ZDFOZmwyNUZsd1BfWk52RG9pY3pPQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "이란 최고지도자 \"공격 땐 지리 제한 없이 대응\"… 카타르 중재 12시간 협상은 '진전'",
+   "tags": [
+    "중동",
+    "원유"
+   ],
+   "count": 18,
+   "summary": "이란 최고지도자는 미국의 모든 자산이 타격권에 있다며 공격을 받으면 지리적 제한 없이 대응하겠다고 경고하고 군에 대비 태세를 주문했습니다. 루비오 국무장관은 트럼프 대통령이 이란 공격 재개를 아직 결정하지 않았으며 외교적 해결을 선호한다고 밝혔습니다. 카타르 중재단은 테헤란에서 12시간 넘게 협상을 벌였고 '긍정적 진전'이 있었다는 전언이 나왔습니다.",
+   "why": "중간선거 직후 공격 재개 여부에 따라 이미 6개월 최고치인 유가가 크게 출렁일 수 있습니다. 이란은 7년 만에 선체 부착식 기뢰 공격도 감행한 것으로 전해졌습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261031048751108"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261101002700071"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261031035100009"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEQyUXVZd3NxbDRqMFNvYWlqRnFTNWJ0bGhSZ1VXNHJwdEEwTXZtVERNdDVTR0NXWE1CMXVJSmF3cEt4ZVlXLUZEbTJ5bFJfdEs3UUZPYU4weXVmWl9KUHhRTmFHbVFsVktyUjJhVkNiOEVFQWhhY2ZVQUFpSmxfU2ROQ05pOWxubnlKRzZVN3VTQ0g0bUFCVkwzY3U3RURIWko2aW9UaGsyNXNmM2VrZDNwaw?oc=5"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261031044100009"
+    }
+   ]
+  },
+  {
+   "title": "G20 외무장관회의, 러시아 참석 두고 동맹국과 이견",
+   "tags": [
+    "외교",
+    "러시아"
+   ],
+   "count": 15,
+   "summary": "미국 애틀랜타에서 열린 G20 외무장관회의에서 루비오 국무장관이 동맹국의 비판에도 러시아의 참석을 옹호했습니다. 러시아 연방보안국(FSB)은 미국이 모스크바 공격 가능성을 경고했다고 밝혔고, 우크라이나에서는 러시아 점령지 주민들이 드문 국지 휴전 속에 귀환했습니다.",
+   "why": "미국의 대러 접근이 유럽 동맹과 엇갈리며 우크라이나 전쟁의 외교 구도가 복잡해지고 있습니다. 러시아·우크라이나 정유시설 공격은 국제 석유제품 가격에도 영향을 줍니다.",
+   "sources": [
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcE51blN1dmZYRy1UTHBiNDlKZVl4RHE1cVQ4YThtRE9laU9nTDV6TlozSEFBZEdyUjVPOEc1RzhKdkpDWko3Wm9NbHl6SndrRk1Jdk43MUlsaVUtaEczcmJwYXFnMWxic1JsMnQ4SWlXUUZtUzJPMF9WakFmU25heGp5cTBOUUxOUnJhOWxNdlJJemRZOWZDa1o2UzJkTGFuazQwd3pLMExIdHFnekFRREdKRmZLQQ?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN01mVmZKa0N0UWNiYkxZaDY4a0J5ekhBX2NKVi1xUDh5cmpEeHhzX3U3VE9GU21KUjlvQ0FuWGVlalZMVjJTY1FnVlJxR0YxNHpLMl9YTG5hNW9yQUVzbzB2RkFHV3JRTTVUVVdwRUkyeE9KRVBVdTQ5R3NYM1p6dF9lZFU0TkNCTVJWb2UyZ2h3eXAx?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "오픈AI, 300억 달러 목표에 110억 달러만 확보… AI 투자 문턱 높아져",
+   "tags": [
+    "AI",
+    "투자"
+   ],
+   "count": 8,
+   "summary": "오픈AI는 300억 달러(약 40조 원)를 목표로 한 신규 투자 유치에서 지금까지 약 110억 달러의 약정만 확보했다고 월스트리트저널이 전했습니다. 앞서 목표액을 200억 달러로 100억 달러 낮췄고, 이번 유치에서 평가된 기업가치도 기대(1조4,000억 달러)보다 낮은 약 1조2,500억 달러였습니다.",
+   "why": "알파벳·아마존·인텔 실적 충격 이후 AI 인프라 과잉 투자에 대한 불안이 비상장 대표 기업의 자금 조달까지 번졌습니다. 블랙스톤은 상장을 앞둔 앤트로픽이 상장 뒤에도 투기등급에 머물 것으로 내다봤습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261101005900072"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamxPa09kV2VNeERWR3RpM2NoN1k0STRYb0pyWW5xbWxXdmJ3Qkp1VVdMU1BkcW00bE81LXZkQ1ZGd0RGWlQtMnNvYzA4NnlaRmxNZG9GNVN5UWxmTnlLb3RNajlIdTEzNUFGVUQxcFN1Tm1Pd0F0ME1JZ1kyQWRfZkFTWEd6YlJ0ZW4wekJiZ1pZbXBvLTRxRWwxanQtM25GR1U1a1EyNXFPVUp1cXZNTVpaOA?oc=5"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261031025300009"
+    },
+    {
+     "label": "Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXNLQVVkZFk4ZVpBWDRxdUcxc3hIUUlFSnM4X3lBSFRZS2JrMmZSSXZtRUpvbDNfZndNejN1ZTZxdmdJRkRrdXVONkVNMmlzY01YMEU4aEZrSzlIR2ZKTUp1YWMxaHR2OGRxYWZZcVRYcFVhcUtwX0pmcHQteVlOZ0xB0gGWAUFVX3lxTFBjRWo4MlppUnJiWU9QWlFVbGJ0Ykp3RHk1SEtkM3NkZ2tKQy16eXJILUVMS3RYUHFvNnNIQVFMYm9JLXpUaXpYZlBXU1BPMHNnOGUtbHd6UDYzYmFHR3pOaEpDQ3phY0dUdDRBVVdMcWlDTDlZc3hORWlDTE05cFpsRzJiSnlpVmk3S0o0Y2d6VjlENXp0Zw?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "미국 도피한 보우소나루 \"핍박 때문\"… 루비오-브라질 외교장관 회동 예정",
+   "tags": [
+    "신흥국",
+    "정치"
+   ],
+   "count": 7,
+   "summary": "대선에서 진 뒤 미국으로 도피한 플라비우 보우소나루 상원의원이 인스타그램에 나와 핍박 때문에 브라질을 떠났다고 주장했습니다. 선거를 둘러싼 긴장 속에 루비오 국무장관과 브라질 외교장관의 회동이 예정돼 있습니다. 블룸버그는 브라질의 충격이 다른 신흥국으로 크게 번지지 않았다고 분석했습니다.",
+   "why": "미국과 브라질 관계가 브라질 자산 가격과 헤알화의 변수입니다. 국내 브라질 채권 투자자에게도 직접 영향이 있습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261031042200009"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMU1lcUJ4ekM3bVNoZTdyS3VtQjN5YkRXbm9hRlVSLWtOam9FLWp1Y3ZUenY3dVNPUEFRTGl3cmVRcm42RGlwd3lvWmhESWlXdGZ5d2VxLVlNdG1sM3ZjZjV6QTVKT0ZYdmd3VzAtSzhENnpGeFc3Zm1hZks3eThWaTA3X0tRYWp1QTdyLVFjWWItdnhLZHRlTFBSeEFaTVZicjR6ZlgteWdKMlhha2FiMXcxcTF0VGNBTGM5cjg0cS1ubU5ORHAybmc5cW1OWHAzSGZJTg?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVV0bWRlbmh4S3JGdTkzQk5seUdkMDFxYlc1VDlWTHIxUUppSjJCZllQeFJwbDlPZXNqRUF4SzVsb1JkWGFwTnBxZTlESTBtWlhGYldPWjBTMjBEZWo2eFhHMFQwSDJVVHczQU5jLUQ5b3V6M2NOMUY5NkxqNEVKSUExZl94TVlwb3BmaFk2aFlONzdCeXhQMGZldHU4X1JBd0c1Y1BVUExyOEM5clFSNDlEcw?oc=5"
+    }
+   ]
+  }
+ ],
+ "industry": [
+  {
+   "who": "SK",
+   "what": "티맵모빌리티 매각 추진, 중복상장 규제로 IPO 대신 M&A 택해",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/11/01/MRTGKZBRG5RTIYRSGVSTGNRRGI/"
+   }
+  },
+  {
+   "who": "세일즈포스",
+   "what": "방산 AI 스타트업 룬 인수로 국방 시장 공략",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/tech_it/2026/10/31/GI2TSZTGMQ3DSM3BGMYTQNBTMI/"
+   }
+  },
+  {
+   "who": "AI 데이터센터 냉각",
+   "what": "3조 원 수주와 엔비디아 승인까지, 냉각 설비 업체 부상",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/tech_it/2026/11/01/G42DCZRUGUYTAMJQGBSTEYLFHE/"
+   }
+  },
+  {
+   "who": "발전소 전력 직판",
+   "what": "송전망 막힌 지방 발전소, 기업에 전기 직접 판매 길 열려",
+   "source": {
+    "label": "한국경제 경제",
+    "url": "https://www.hankyung.com/article/202610280304i"
+   }
+  },
+  {
+   "who": "동아에스티",
+   "what": "생물농약사 에코윈 인수 2년, 해외 수출 지연에 성장 정체",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/science/2026/11/01/MIZTANBSG4YWKNJWHA2WEMJRME/"
+   }
+  },
+  {
+   "who": "앤트로픽",
+   "what": "기업가치 2,700조 원 상장 기대 속 국내 투자 방법에 관심",
+   "source": {
+    "label": "매일경제 증권",
+    "url": "https://www.mk.co.kr/news/stock/12192529"
+   }
+  }
+ ],
+ "trends": [
+  {
+   "title": "AI 투자의 문턱이 높아진다",
+   "evidence": [
+    {
+     "text": "오픈AI, 투자 유치 목표 300억 달러 중 110억 달러만 확보",
+     "source": {
+      "label": "연합뉴스 국제",
+      "url": "https://www.yna.co.kr/view/AKR20261101005900072"
+     }
+    },
+    {
+     "text": "블랙스톤 \"앤트로픽, 상장 뒤에도 투기등급\"",
+     "source": {
+      "label": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXNLQVVkZFk4ZVpBWDRxdUcxc3hIUUlFSnM4X3lBSFRZS2JrMmZSSXZtRUpvbDNfZndNejN1ZTZxdmdJRkRrdXVONkVNMmlzY01YMEU4aEZrSzlIR2ZKTUp1YWMxaHR2OGRxYWZZcVRYcFVhcUtwX0pmcHQteVlOZ0xB0gGWAUFVX3lxTFBjRWo4MlppUnJiWU9QWlFVbGJ0Ykp3RHk1SEtkM3NkZ2tKQy16eXJILUVMS3RYUHFvNnNIQVFMYm9JLXpUaXpYZlBXU1BPMHNnOGUtbHd6UDYzYmFHR3pOaEpDQ3phY0dUdDRBVVdMcWlDTDlZc3hORWlDTE05cFpsRzJiSnlpVmk3S0o0Y2d6VjlENXp0Zw?oc=5"
+     }
+    },
+    {
+     "text": "ETF 자금, 국내 주식형 줄고 채권형 늘어",
+     "source": {
+      "label": "연합뉴스 마켓",
+      "url": "https://www.yna.co.kr/view/AKR20261030184200008"
+     }
+    },
+    {
+     "text": "\"주식은 무서워서 못 사겠다\"… 한 달 새 4조2,000억 원 몰린 피난처",
+     "source": {
+      "label": "한국경제 증권",
+      "url": "https://www.hankyung.com/article/2026103064936"
+     }
+    }
+   ],
+   "insight": "AI 인프라에 대한 기대가 '성과 증명' 국면으로 바뀌며 비상장 AI 기업의 자금 조달과 개인 투자자 자금 흐름 모두 보수적으로 바뀌고 있습니다."
+  },
+  {
+   "title": "수출 현장의 새 부담: 규제와 손실 분담",
+   "evidence": [
+    {
+     "text": "국산 하이브리드차 EU 수출 연 10만 대, 수입 제한 움직임에 촉각",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261031047500003"
+     }
+    },
+    {
+     "text": "대EU 철강 수출, 감소 폭 줄었지만 잇단 규제에 긴장",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261030178500003"
+     }
+    },
+    {
+     "text": "체코 원전, 수출은 한 팀인데 손실은 시공사 몫이라는 업계 반발",
+     "source": {
+      "label": "머니투데이",
+      "url": "https://www.mt.co.kr/estate/2026/11/01/2026103012595451929"
+     }
+    },
+    {
+     "text": "경유 수출 풀었지만 최고가격제 손실보전 정산은 진통",
+     "source": {
+      "label": "머니투데이",
+      "url": "https://www.mt.co.kr/economy/2026/11/01/2026103013502760408"
+     }
+    }
+   ],
+   "insight": "유럽의 역내 산업 보호와 수출 프로젝트의 비용 분담 문제가 동시에 불거지고 있습니다. 수출 실적만큼 계약 조건과 규제 대응이 중요해졌습니다."
+  },
+  {
+   "title": "해킹 도미노 이후, 보안이 경영 과제로",
+   "evidence": [
+    {
+     "text": "10월 해킹 대란이 남긴 질문: 왜 잇따라 뚫렸나",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261031035200017"
+     }
+    },
+    {
+     "text": "금융당국, AI 기반 공동 보안관제 검토와 개선 계획 제출 요구",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261031045700002"
+     }
+    },
+    {
+     "text": "건설사 해킹으로 스마트 아파트 입주민 정보 보안 부각",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261031047400003"
+     }
+    },
+    {
+     "text": "출판사 창비도 더존비즈온 해킹 여파로 저자·거래처 정보 유출 가능성",
+     "source": {
+      "label": "머니투데이",
+      "url": "https://www.mt.co.kr/culture/2026/10/31/2026103121121546255"
+     }
+    },
+    {
+     "text": "바이낸스 해킹에 국내 코인 거래소도 보안 강화",
+     "source": {
+      "label": "연합뉴스 마켓",
+      "url": "https://www.yna.co.kr/view/AKR20261031034500009"
+     }
+    }
+   ],
+   "insight": "금융·건설·출판까지 업종을 가리지 않는 해킹에 공급망(ERP 등) 단위의 보안 점검이 필요해졌습니다. 보안 투자는 이제 비용이 아니라 영업 지속의 조건입니다."
+  }
+ ],
+ "schedule": {
+  "note": "모두 한국 시간 · 오늘부터 미국과 14시간 차",
+  "rows": [
+   {
+    "when": "11/1(일) 오늘",
+    "event": "바이낸스 입출금 재개 · 미국 서머타임 종료",
+    "watch": "출금 정상화 여부",
+    "hot": true
+   },
+   {
+    "when": "11/2(월)",
+    "event": "국내 증시, 금요일 미국 반도체 급락(−7.2%) 반영",
+    "watch": "삼전닉스·외국인 수급",
+    "hot": true
+   },
+   {
+    "when": "11/3(화)",
+    "event": "미국 중간선거 · 래블업 코스닥 상장",
+    "watch": "의회 구도, 선거 뒤 이란 공격 재개 여부",
+    "hot": true
+   },
+   {
+    "when": "이번 주",
+    "event": "애플·AMD 실적, 미국 비농업 고용 지표",
+    "watch": "AI 투자 심리 회복 여부"
+   },
+   {
+    "when": "이번 주",
+    "event": "한국 10월 소비자물가",
+    "watch": "유가 상승분 반영 정도"
+   },
+   {
+    "when": "이번 주",
+    "event": "금융당국-금융권 해킹 보안 점검회의",
+    "watch": "보안 개선 계획과 제재 수위"
+   }
+  ],
+  "foot": "미국 실적·고용 지표와 한국 소비자물가의 정확한 발표일은 확인하지 못해 '이번 주'로 적었습니다.",
+  "sources": [
+   {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261101001800091"
+   },
+   {
+    "label": "연합뉴스 (뉴욕 주간전망)",
+    "url": "https://www.yna.co.kr/view/AKR20261101006700009"
+   },
+   {
+    "label": "서울경제",
+    "url": "https://www.sedaily.com/article/20108623"
+   },
+   {
+    "label": "연합뉴스 경제",
+    "url": "https://www.yna.co.kr/view/AKR20261031045700002"
+   },
+   {
+    "label": "연합뉴스 (래블업 상장)",
+    "url": "https://www.yna.co.kr/view/AKR20261030172900008"
+   }
+  ]
+ },
+ "watch": {
+  "opportunities": [
+   {
+    "text": "올트먼의 연쇄 회동처럼 AI 메모리 확보 경쟁은 계속되고 있습니다",
+    "source": {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1Fva1BkZVk3T3ZZVWZiSUNOQVhaMElmVERReF8zekRzTWt0YnNZZUVpTGUtaUd0MFVKcmp2TXF2d2hxNldzTUYyNVhTRjFxUU8xeHAtYllENzhtMDRlbF93dXUtb3RXNWkwbk9icU5KdlN4anY3RzJnSXl2dHZ0a3JTT2QzMlRsY1hhLWxyUVdSYzFFV1E3MzRBeXJmOU5EcnVIUzI0S2hhYTk2dUE?oc=5"
+    }
+   },
+   {
+    "text": "송전망 대신 발전소가 기업에 전기를 직접 파는 길이 열려 지방 첨단산업 유치에 도움이 될 수 있습니다",
+    "source": {
+     "label": "한국경제 경제",
+     "url": "https://www.hankyung.com/article/202610280304i"
+    }
+   },
+   {
+    "text": "급락장에서 자사주 매입이 크게 늘어 주가 하단을 받칠 수 있습니다",
+    "source": {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261031025400008"
+    }
+   },
+   "월간 16% 하락 뒤에는 실적 대비 가격 부담이 줄어든 종목이 늘어납니다."
+  ],
+  "risks": [
+   {
+    "text": "금요일 밤 미국 반도체지수가 7.2% 급락해 월요일 국내 증시에 하락 압력이 예상됩니다",
+    "source": {
+     "label": "연합뉴스 (뉴욕 주간전망)",
+     "url": "https://www.yna.co.kr/view/AKR20261101006700009"
+    }
+   },
+   {
+    "text": "중간선거 직후 미국이 이란 공격을 재개하면 유가가 다시 뛸 수 있습니다",
+    "source": {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261101002700071"
+    }
+   },
+   {
+    "text": "오픈AI의 자금 조달 부진은 AI 인프라 투자 속도 둔화의 신호일 수 있습니다",
+    "source": {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261101005900072"
+    }
+   },
+   {
+    "text": "EU의 하이브리드차 수입 제한 움직임이 국내 완성차 수출에 부담이 될 수 있습니다",
+    "source": {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261031047500003"
+    }
+   }
+  ],
+  "keywords": [
+   "코스피 −16%",
+   "FBI 북한 지목",
+   "올트먼 방한",
+   "중간선거 D-2",
+   "이란 경고",
+   "AI 투자 문턱"
+  ]
+ },
+ "notes": [
+  "주말판: 시세판은 지난 판과 같은 10/30 종가입니다. 최근 24시간 동안 어피티·뉴닉에 새 해설 글이 없어 '쉽게 읽는 해설'을, 급상승 검색어에 경제 관련어가 없어 검색어 항목을 뺐습니다."
+ ]
+}
