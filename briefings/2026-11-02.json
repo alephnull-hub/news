@@ -1,0 +1,700 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "08:14",
+ "collection": {
+  "window": "11/01 08:11 – 11/02 08:11 KST",
+  "feeds_ok": 29,
+  "feeds_total": 29,
+  "articles": 856,
+  "failed": []
+ },
+ "title": "오늘의 비즈니스·경제 브리핑",
+ "lead": "10월 수출이 1,153억 달러로 93.7% 급증하며 한국은 이달 중 세계 네 번째로 연간 수출 1조 달러 돌파를 앞두고 있지만, 그 절반이 반도체라는 쏠림도 뚜렷해졌습니다. 11월 첫 거래일 코스피는 금요일 밤 '인텔 쇼크'를 이어받아 약세로 출발할 가능성이 크고, 내일 미국 중간선거와 이란 정세가 다음 변수입니다.",
+ "market": {
+  "note": "국내 10/30 종가 · 미국과 유가 10/30(현지) 종가 · 오늘 국내 장 시작 전",
+  "tiles": [
+   {
+    "name": "코스피",
+    "value": "5,730.74",
+    "change": "206.92 (−3.48%)",
+    "dir": "down",
+    "note": "10/30 · 연합뉴스"
+   },
+   {
+    "name": "코스닥",
+    "value": "724.38",
+    "change": "28.85 (−3.83%)",
+    "dir": "down",
+    "note": "10/30 · 연합뉴스"
+   },
+   {
+    "name": "원/달러",
+    "value": "1,334.3",
+    "change": "2.5원",
+    "dir": "down",
+    "note": "10/30 15:30 · 연합뉴스"
+   },
+   {
+    "name": "국고채 10년",
+    "value": "4.008%",
+    "change": "7.3bp",
+    "dir": "down",
+    "note": "10/30 · 연합뉴스"
+   },
+   {
+    "name": "S&P 500",
+    "value": "7,580.07",
+    "change": "140.32 (−1.82%)",
+    "dir": "down",
+    "note": "10/30 현지 · 연합뉴스"
+   },
+   {
+    "name": "나스닥",
+    "value": "25,437.00",
+    "change": "747.73 (−2.86%)",
+    "dir": "down",
+    "note": "10/30 현지 · 연합뉴스"
+   },
+   {
+    "name": "다우",
+    "value": "51,770.31",
+    "change": "572.25 (−1.09%)",
+    "dir": "down",
+    "note": "10/30 현지 · 연합뉴스"
+   },
+   {
+    "name": "필라델피아 반도체",
+    "value": "—",
+    "change": "−7.20%",
+    "dir": "down",
+    "note": "10/30 · 등락률만 확인 · 연합뉴스"
+   },
+   {
+    "name": "WTI (12월물)",
+    "value": "$104.12",
+    "change": "2.08%",
+    "dir": "up",
+    "note": "10/30 현지 · 연합뉴스"
+   },
+   {
+    "name": "브렌트 (12월물)",
+    "value": "$117.64",
+    "change": "2.40%",
+    "dir": "up",
+    "note": "10/30 현지 · 6개월 최고 · 연합뉴스"
+   },
+   {
+    "name": "미 국채 10년",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "FRED 키 등록 시 표시"
+   },
+   {
+    "name": "VIX",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "FRED 키 등록 시 표시"
+   }
+  ],
+  "foot": "11월 첫 거래일 개장 전이라 10/30 종가입니다. 원/달러는 서울 외환시장 15:30 기준가, 유가는 12월 인도분 선물 종가입니다. 미국과의 시차는 11월 1일부터 14시간입니다.",
+  "sources": [
+   {
+    "label": "연합뉴스 (코스피 마감)",
+    "url": "https://www.yna.co.kr/view/AKR20261030131551008"
+   },
+   {
+    "label": "연합뉴스 (환율)",
+    "url": "https://www.yna.co.kr/view/AKR20261030130000002"
+   },
+   {
+    "label": "연합뉴스 (국고채)",
+    "url": "https://www.yna.co.kr/view/AKR20261030149151008"
+   },
+   {
+    "label": "연합뉴스 (뉴욕 증시)",
+    "url": "https://www.yna.co.kr/view/AKR20261031005452072"
+   },
+   {
+    "label": "한국경제 (반도체 시총)",
+    "url": "https://www.hankyung.com/article/2026103172407"
+   },
+   {
+    "label": "연합뉴스 (유가)",
+    "url": "https://www.yna.co.kr/view/AKR20261031005200072"
+   }
+  ]
+ },
+ "domestic": [
+  {
+   "title": "10월 수출 1,153억 달러(+93.7%), 연간 '수출 1조 달러' 이달 돌파 확실… 절반이 반도체",
+   "tags": [
+    "수출",
+    "반도체"
+   ],
+   "count": 23,
+   "summary": "10월 수출은 1,152억8,000만 달러로 두 달 연속 1,100억 달러를 넘었고, 1~10월 누적 수출이 처음으로 9,000억 달러를 돌파했습니다. 반도체 수출은 564억4,000만 달러로 10월 기준 역대 최대였고, 메모리만 360.5% 늘었습니다. 정부는 이달 중하순 연간 수출 1조 달러 달성이 확실하다며, 미국·중국·독일에 이어 세계 네 번째가 될 것으로 봅니다.",
+   "why": "반도체 비중은 1월 31.2%에서 10월 48.9%로 커졌고, 반도체를 뺀 수출 증가율은 34%에 그쳤습니다. AI 투자가 숨 고르기에 들어가면 수출 전체가 흔들릴 수 있다는 경고가 나오는 이유입니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 (10월 수출)",
+     "url": "https://www.yna.co.kr/view/AKR20261101015351003"
+    },
+    {
+     "label": "한국경제 경제",
+     "url": "https://www.hankyung.com/article/2026110185721"
+    },
+    {
+     "label": "서울경제",
+     "url": "https://www.sedaily.com/article/20108646"
+    },
+    {
+     "label": "매일경제 경제",
+     "url": "https://www.mk.co.kr/news/economy/12193048"
+    },
+    {
+     "label": "서울경제",
+     "url": "https://www.sedaily.com/article/20108803"
+    }
+   ]
+  },
+  {
+   "title": "코스피 11월 첫 거래일, '인텔 쇼크' 이어받아 약세 출발 전망… 6천피 회복은 미지수",
+   "tags": [
+    "증시",
+    "전망"
+   ],
+   "count": 22,
+   "summary": "증권가는 금요일 밤 인텔 폭락(−28.6%)과 미국 반도체지수 7.2% 급락의 영향으로 코스피가 하락 출발할 가능성이 크다고 봅니다. 코스피는 10월 한 달 16% 넘게 떨어졌고, 30일 외국인이 1조6,000억 원 넘게 순매도했습니다. BNK투자증권은 반도체를 빼면 상장사 영업이익이 줄어드는 '실적 양극화'를 지적했습니다.",
+   "why": "이번 주는 미국 중간선거, 애플·AMD 실적, 미국 고용 지표가 연달아 나옵니다. LS증권처럼 지금 가격대가 매수 구간이라는 시각도 있어 변동성이 큰 장세가 예상됩니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261102015000008"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/02/4E75CXBNLJHA7FOPL7FEFL5GRU/"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/02/MZSDQM3DMJSTEZBTGQ3DKMJYHA/"
+    },
+    {
+     "label": "매일경제 증권",
+     "url": "https://www.mk.co.kr/news/stock/12193071"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/02/HAYWIMTFGZRDKMDBMIYDKYZVHE/"
+    }
+   ]
+  },
+  {
+   "title": "해킹 여파 확산: 미래에셋생명 병력 정보 유출 우려, 일본 GMO 해킹도 '북한 배후' 정황",
+   "tags": [
+    "보안",
+    "금융"
+   ],
+   "count": 15,
+   "summary": "미래에셋생명 해킹으로 병력·수술 이력 같은 민감 정보가 새어 나갔을 가능성이 제기돼 보험업계 CEO들이 긴장하고 있습니다. 일본 IT 대기업 GMO는 대규모 정보 유출의 배후로 북한 조직이 의심된다고 정부에 보고했습니다. 스마트 아파트가 늘었지만 건설업계의 보안 투자는 여전히 적다는 지적도 나왔습니다.",
+   "why": "개인정보를 넘어 돈과 의료 정보까지 노리는 공격이 늘며 '코인 해킹이 금융 불안의 방아쇠가 될 수 있다'는 우려가 나옵니다. 금융당국은 이번 주 금융권과 보안 점검회의를 엽니다.",
+   "sources": [
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/realty/realestate_industry/2026/11/02/GU3GGN3BHAZWMYRRHE2TOYJZGE/"
+    },
+    {
+     "label": "MBC 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KZjZRSkRFOFNNN082ZTFhZUctWmJOYmF1UXlKcGw5N25OZU82Z1Z4d0laOGRMc1FXenpvRkdGWFNDejJpVDg2cDRRZWx4Ym9Id1hfay1oS2JuQ2dYTzVBYkwtVC1vTDBVS3JORHNjUHBwdWFt0gF0QVVfeXFMTmFfVTlNOHBhc0N3eUFadzN1cVI5ZGtRekVrelhpMXJOenpMd0tVNmc5SFdDbW00ajNRQzBuN1FrWVRoS2s4YnI2LS04aW91bjRmQmVDUnlCMEhlSU43TndXMUdod09CN0xGNVdQMUxUektUcWg?oc=5"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/estate/2026/11/02/2026110111204492703"
+    },
+    {
+     "label": "한겨레",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tOGdVclg2MXpVY01tb0pQMXdLTzFEUGZ0cksycHRvYUg4SnlqVkJsUVFmMWZubzBzUkNwaHNreFpNMmN1M1B3UGFvZFd4cmhHa1RlZ3hvQkctNk96NGJkNFpwcUxydEU?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "거래소, 저PBR 151곳 명단 첫 공개… 오늘부터 증권사 앱에 '꼬리표'",
+   "tags": [
+    "밸류업",
+    "증시"
+   ],
+   "count": 11,
+   "summary": "한국거래소가 3년간 업종별 PBR 하위권에 머문 151개사(코스피 96, 코스닥 55)의 명단을 처음 공개했습니다. 현대제철·이마트·한화생명·롯데케미칼 등 시가총액 1조 원 이상 기업도 포함됐고, 평균 PBR은 약 0.25배로 상장사 평균(약 1.8배)에 크게 못 미칩니다. 기업가치 제고 계획을 공시한 34곳은 명단에서 빠졌습니다.",
+   "why": "이름을 공개해 기업가치 개선을 압박하는 '네이밍 앤드 셰이밍' 방식입니다. 명단 기업의 주주환원·자산 재평가 발표가 이어질지가 관심입니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261031025200008"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/02/32F7D2XRHNCVRJ6RHUNJWPRLAU/"
+    },
+    {
+     "label": "매일경제 증권",
+     "url": "https://www.mk.co.kr/news/stock/12193045"
+    }
+   ]
+  },
+  {
+   "title": "이재용 회장, 창립기념일에 일본 첨단 패키징 연구 거점 점검",
+   "tags": [
+    "반도체",
+    "삼성"
+   ],
+   "count": 6,
+   "summary": "이재용 삼성전자 회장이 창립기념일인 1일 일본 요코하마의 '어드밴스트 패키지 랩(APL)'을 찾아 차세대 패키징 기술 연구 현황을 점검하고, 일본 소재·부품·장비 업계와 협력 방안을 논의했습니다. 삼성은 2024년부터 5년간 400억 엔(약 3,500억 원)을 투자해 웨이퍼 본딩·유리기판 등 차세대 기술을 개발하고 있습니다.",
+   "why": "AI 반도체 경쟁의 승부처가 칩 설계와 함께 패키징으로 옮겨 가고 있습니다. HBM4 경쟁에서 점유율 회복을 노리는 삼성의 기술 투자 방향을 보여 줍니다.",
+   "sources": [
+    {
+     "label": "전자신문",
+     "url": "https://www.etnews.com/20261101000090"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/01/ZM563YPANRDEFHJJ4EZIRBERPI/"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/industry/2026/11/02/2026110119483795136"
+    }
+   ]
+  }
+ ],
+ "global": [
+  {
+   "title": "네타냐후 \"중간선거 직후 이란 타격\" 압박… 트럼프는 '외교에 시간 더'",
+   "tags": [
+    "중동",
+    "원유"
+   ],
+   "count": 30,
+   "summary": "네타냐후 이스라엘 총리가 트럼프 대통령과의 통화에서 3일 중간선거가 끝나는 즉시 이란 공격을 재개하라고 요구했지만, 트럼프 대통령은 외교 협상에 시간을 더 주길 원했다고 이스라엘 채널12가 보도했습니다. 카타르는 도하에서 사흘 연속 이란 측과 회담했습니다. 이란 혁명수비대 해군은 호르무즈 해협에서 유조선 2척이 기뢰에 부딪혀 폭발했다고 밝혔습니다.",
+   "why": "선거 직후 미국의 결정에 따라 6개월 최고 수준인 유가가 크게 출렁일 수 있습니다. 이스라엘 선관위는 네타냐후 측의 총선 부정 의혹을 일축했습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261102002951079"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmk2dmxjdk1sOW96UkZiaUlJVXhzc1pJMjZJUnY2WGtvaXd4aXRJY3d4UTNoUmFJdUVQQjlkb0JPSmxEc2YzS1JOZ2NSWmpTUnhzYzBiU1hfeXBvb2F2WEp2NHc5YkFfUUNKSHc2NW1PMUVKT0xqUTdOa0tfUmZpQWE2SDFtdzJ5TmZleWpLd0Zid1JWR2Z0d0dOeVMwekFzNTNTYndHMmMyV0poZ2h0UmFOVWc2M3o3Z2h6TUR2SQ?oc=5"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261102003200079"
+    }
+   ]
+  },
+  {
+   "title": "미 중간선거 D-1: 사전투표 5,200만 명, 트럼프 마지막 유세",
+   "tags": [
+    "미국",
+    "정치"
+   ],
+   "count": 28,
+   "summary": "3일(현지시간) 미국 중간선거를 하루 앞두고 사전투표자가 약 5,200만 명으로 역대 최대를 기록했고, 민주당원 비율이 공화당원보다 11%포인트 높은 것으로 집계됐습니다. 트럼프 대통령은 불만이 커진 유권자를 상대로 마지막 유세에 나섰습니다. 한국 시간으로는 4일 오전부터 주요 결과가 나옵니다.",
+   "why": "상원 다수당이 바뀌면 관세·재정·이란 정책 집행이 느려질 수 있습니다. 개표가 늦은 주가 있어 결과 확정까지 시간이 걸릴 수 있습니다.",
+   "sources": [
+    {
+     "label": "FT",
+     "url": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IQ3NiOGtoX2VDczFXb3h4cGdXZTRMQTZJS053MVZZVk5Hb19nckF6MEhVQkYzbXBzSkw1bnMxLWZmeGthWWJ4STRnOFZoNFc4SFByTnFwdTk4c3JoOElSMlhrQmVKaDdJOUJLV1ZITHJSQmYtMkE?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm9ZSldZUlltbnFxUUhWanNTQjRneFM1YnR4MlpuSWtwNlpVaE56cGVfUnJWSGN1QzFFQktUZEk1XzB6MThhRDJ6ODBkakt2UGZTQk16LVRGUU5qU1FhYjVyQUtIOVJNZmZyZlhSOW9kWDhIajBvTXJJelRNSXFWRFVnd0wyYkJnRkFiT1RjbzVjT2E5eUdTUGp2ZXVGZUpsTEw2bkhJak9NbGxH?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "독일 전역 Z세대 시위 폭력 사태로… 프랑스·영국에서도 충돌",
+   "tags": [
+    "유럽",
+    "사회"
+   ],
+   "count": 13,
+   "summary": "독일 전역에서 교육 개선과 생활고 경감을 요구하던 Z세대 시위가 일부 도시에서 폭력·약탈로 번졌습니다. 프랑크푸르트에서는 상점 17곳이 파손되고 경찰관 100여 명이 다쳤으며 54명이 체포됐습니다. 프랑스는 시위대의 화염병 투척을 살인미수로 수사하고 있고, 런던 미국 대사관 앞 시위에서는 325명이 체포됐습니다.",
+   "why": "에너지발 물가와 생활고가 유럽 청년층의 불만으로 번지며 정치 불안 요인이 되고 있습니다. 재정 지원 압박이 커지면 유럽 각국의 재정·금리 정책에도 부담이 됩니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261101051800085"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGVQU1NHRzl0Um1NM2R6RG5xU2dLN0k2YXRnVXJKckd1bTlJRURXU0JUWVNFUHF2MlVCa04yOXJVMlNyNnlXY3dsNWdVc1JadTF2OWlYNGJaNnMzU0JsMHNIVEdHNThtLThqMlM2anZVQ0xoNjVfZkM0Wk1HN1o5VkZyb2FJUjB0azcyRlVVckxFQmNjTnpSaw?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2l3Y3cxckRlRlpIRFQzT2FWa0YzZHcxYTdSV3dDY29iN0FNUHdqa1hKWkxFdU40NFI5MG8tWEV2SU54cng3NXpoV3JhdzdjVVRKZHJPYmlPNVBYTG95Y1lQYW1PbzVscnpHZ0plMGhET096ZDNjdEg0dTlzd2dPNVNlOXV3N2NiOW5rXzRsN3VZc2pSQWk0TUxkLXl4ZTRrcV9mMW9UWnUtSzlPajJaLS16Qm8?oc=5"
+    },
+    {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261102000700085"
+    }
+   ]
+  },
+  {
+   "title": "바이낸스 출금 재개 9시간 반 만에 36억 달러 순유출",
+   "tags": [
+    "가상자산",
+    "보안"
+   ],
+   "count": 11,
+   "summary": "63억 달러 해킹 피해를 본 바이낸스가 1일 비트코인·이더리움 등부터 단계적으로 출금을 재개했습니다. 탈취 자산의 약 95%를 메웠다고 밝혔지만, 재개 9시간 반 만에 출금 46억5,000만 달러, 입금 11억 달러로 36억4,000만 달러(약 4조9,000억 원)가 순유출됐습니다. 회사는 이 규모가 운용자산의 2.1%라고 밝혔습니다.",
+   "why": "FBI는 북한 해킹 조직이 탈취 자산을 이더리움으로 바꿔 탈중앙화금융(DeFi) 등으로 세탁할 것으로 예상했습니다. 거래소 신뢰 회복 속도가 가상자산 시장의 변수입니다.",
+   "sources": [
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/02/2026110207190363082"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWV6RFQxTF84TnZuaDlxQ1gyX3hqeDBSUHh2N2ZfUjE5UXFnZXpkRDB2cloxdzJ3VUhtLWhDMS1UYWlmeFpnVWZLY29zd3hRYVJhbnlEempHdWlMUldpQjlETWlaZTdTT28tRnJTM05ZV0ZSVTc5V3Q0T0tGWFBZdmNMT1FiWm5NVjg1VGdxOHFDVGI2eTRUUGc3X0hrLUdTcnc?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2YyTGwzbUNaa2oxcUJoeDZoTTZOaDB0MENBc3Ewa2JURFRCVG00cDVxbW1BczVGNzBaa2hUUHFQSXlGaFl3WjdTUUUzbDJCUnZvdW9nZmczZVllNHV1QldfYnZjYVN2SU5wOXJqRVI4ejRYZUMteG1yWnUtMVdXbERMREh0bDIyTE9wTllxaGFGMWstM29NM3EtOGM0N1dObHBUQzMyWHVpZkNoSzlz?oc=5"
+    },
+    {
+     "label": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUNSTU9VSmpLOHdYajBxZ1hpTXJyOW0zSUNFQnlseE1seEFvSTBKTmNXR0dXek8yMGxyMHo3cFpBVW1lQ1BLV19wUjFqZVRwVlJ2OERUVzlzWWlHUC1iR0FoNXY0dWd6RUxXZ3BVOG1EOE1Fek41R2ZsQ2xXbWFDRWhEZWNPRndWdUtkeEN0cGRDTXBPcmtRUzB4LVdaVTdVNnJpVDNrNzJTRk5FYVFYMWtzVjRKXzRRQ1RGR01xTUxvWW4tTHfSAcsBQVVfeXFMTXNlR0FBQ2cwaTYyaU9uLUdhWjVPQnBnVGRta09veExETi12S3o4NV91cWtJbnRyQjdtajFMcVRtMHBoYjhwMDN3MEhiYzNXVk1oU2o0YUwwTGNMRExwX3dOQldha191YjJuLXVMOGdaYkxOZ3AxX1U3cmVfUV9tVHBIeHVReW5RTW95TG9yWU0yUHBPQ1QwZDlENU1SZFhfMURpRkZndXpYWERaYzROc1JJbG9HejFyZDRkQnRsYWFPWlVVWFZ0dE1IVkE?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "인도, 소비는 돌아왔는데 증시는 부진… 시위 운동 결집도 부담",
+   "tags": [
+    "신흥국",
+    "인도"
+   ],
+   "count": 9,
+   "summary": "블룸버그는 인도 소비가 회복세를 보이지만 증시는 따라오지 못하고 있다고 전했습니다. 인도 각지의 시위 운동이 하나로 결집하면서 모디 정부에 새로운 부담이 되고 있다는 분석도 나왔습니다.",
+   "why": "인도는 국내 기업의 생산 거점이자 소비 시장으로 주목받고 있어, 정치·증시 흐름이 진출 기업과 인도 펀드 투자자에게 영향을 줍니다.",
+   "sources": [
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWh5U3FLMDNHaUZYcWhfQlNSenN0Y0wyaC00SmRDT1YyTzJLcUkyTnFSc095YnZhS1MtQ05xYVhVM2tGazl4azQweWlMaGh2MXpOUXpXRGw0UVFlRTZITWVWc2FneXNZUDhLZlhXVlU2VWdWdG9KODVIX2dBSkJseEkzbFlZbHJHZnA4c05FT1JzNEFxdmdUYk14ZzhSY29FeXotOWJPMzNrZEJWT0xr?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanVodkJCWjR6NUZVX3l6OFBfNGZsS0lsLWxVVExvaEVlVnBGWGNwbXVKb0FCdnhHaEp0TlN6cjFvOFZmc0hwSUlSYTFQQzJiQkZqM2Q0b05ydnVab1RNNzU0SWdYSl9odmsySkdpXzdoSzVzQUxmYTQ2WXpQeGtSUUVjaUdCQXp1Vmw0dl82TFZDM29EeE1yN2I2Uzg1Ulpzcm04Y19tVFExdFgxV2c?oc=5"
+    }
+   ]
+  }
+ ],
+ "industry": [
+  {
+   "who": "SK스퀘어",
+   "what": "티맵모빌리티 매각, 중복상장 규제에 IPO 대신 M&A",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/stock-finance/2026/11/01/MRTGKZBRG5RTIYRSGVSTGNRRGI/"
+   }
+  },
+  {
+   "who": "건설업계",
+   "what": "3분기 실적 희비, 삼성·현대·대우 웃고 GS·DL 울어",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/real_estate/2026/11/02/TD6Z5SSOTFCMZDHHWJYHQM4224/"
+   }
+  },
+  {
+   "who": "체코 원전",
+   "what": "추가 비용 부담 우려에 건설사들 시공 참여 주저",
+   "source": {
+    "label": "머니투데이",
+    "url": "https://www.mt.co.kr/estate/2026/11/02/2026110119421646294"
+   }
+  },
+  {
+   "who": "미국·캐나다",
+   "what": "트럼프 \"새 무역 합의의 '개념' 마련\", 수주 내 계획 발표",
+   "source": {
+    "label": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkdVQi1MWlZSQ24xUkR6aC12d0llYjlUWlFDcmVuX1ByZk5tZ3JoQ3NTd01CM2piUFV2MGlEMWdCSnRTV1ExRDFUVGhYNjVVU2ZQT3lIS1UxbEVxSzNfZmdlY2duVXkySm8yNGNpbWRCdXpOMEF4ZFk3NXlJME5yZmRJTVVnVXUwa3VmcVBwWkNIejVkVjYtQWlYblJmdmVZbzI0eHR6YlMwTUJpWTZyR3hwZ1g?oc=5"
+   }
+  }
+ ],
+ "trends": [
+  {
+   "title": "수출 1조 달러 시대의 명암: 반도체 쏠림",
+   "evidence": [
+    {
+     "text": "반도체 수출 비중 1월 31.2% → 10월 48.9%",
+     "source": {
+      "label": "한국경제 경제",
+      "url": "https://www.hankyung.com/article/2026110185721"
+     }
+    },
+    {
+     "text": "반도체 빼면 상장사 영업이익 감소, 코스피 실적 양극화",
+     "source": {
+      "label": "조선일보 경제",
+      "url": "https://www.chosun.com/economy/stock-finance/2026/11/02/MZSDQM3DMJSTEZBTGQ3DKMJYHA/"
+     }
+    },
+    {
+     "text": "62년 만에 수출 1만 배, 통상장벽 넘어 '제2 반도체' 키워야",
+     "source": {
+      "label": "서울경제",
+      "url": "https://www.sedaily.com/article/20108736"
+     }
+    },
+    {
+     "text": "중국은 내수에 이어 수출도 둔화, 제조업·비제조업 동반 위축",
+     "source": {
+      "label": "한국경제 경제",
+      "url": "https://www.hankyung.com/article/2026110185321"
+     }
+    }
+   ],
+   "insight": "AI 반도체 호황이 수출과 이익을 끌어올렸지만, 그만큼 한 산업의 경기에 나라 전체가 좌우되는 구조가 됐습니다. 반도체 외 수출 품목을 키우는 일이 과제로 떠올랐습니다."
+  },
+  {
+   "title": "주주가치 압박이 커진다: 저PBR 공개와 자사주",
+   "evidence": [
+    {
+     "text": "거래소, 저PBR 151곳 명단 첫 공개",
+     "source": {
+      "label": "연합뉴스 경제",
+      "url": "https://www.yna.co.kr/view/AKR20261031025200008"
+     }
+    },
+    {
+     "text": "증권사 앱에 '저PBR' 꼬리표 표시",
+     "source": {
+      "label": "조선일보 경제",
+      "url": "https://www.chosun.com/economy/stock-finance/2026/11/02/32F7D2XRHNCVRJ6RHUNJWPRLAU/"
+     }
+    },
+    {
+     "text": "삼전닉스 효과로 올해 자사주 취득 5.7배",
+     "source": {
+      "label": "연합뉴스 마켓",
+      "url": "https://www.yna.co.kr/view/AKR20261031025400008"
+     }
+    },
+    {
+     "text": "미국 중간선거 결과에 따른 코스피 유불리 분석",
+     "source": {
+      "label": "한국경제 증권",
+      "url": "https://www.hankyung.com/article/2026103175746"
+     }
+    }
+   ],
+   "insight": "정부와 거래소가 주가가 장부가치에 못 미치는 기업을 공개적으로 압박하고 있습니다. 급락장 속에서 주주환원 계획의 구체성이 종목별 주가를 가르는 기준이 되고 있습니다."
+  },
+  {
+   "title": "로봇·자동화, AI의 다음 승부처",
+   "evidence": [
+    {
+     "text": "\"한국, 로봇·자율주행차가 향후 5년 승부처\"",
+     "source": {
+      "label": "머니투데이",
+      "url": "https://www.mt.co.kr/industry/2026/11/02/2026101214255066069"
+     }
+    },
+    {
+     "text": "국방으로 넓어지는 로봇 시장, 주파수·실증·표준화 과제",
+     "source": {
+      "label": "전자신문",
+      "url": "https://www.etnews.com/20261030000211"
+     }
+    },
+    {
+     "text": "노조 있는 기업이 오히려 자동화율 더 높다는 분석",
+     "source": {
+      "label": "매일경제 경제",
+      "url": "https://www.mk.co.kr/news/economy/12192815"
+     }
+    },
+    {
+     "text": "자기장으로 혈관 길을 찾는 의료 로봇",
+     "source": {
+      "label": "한국경제 경제",
+      "url": "https://www.hankyung.com/article/2026110184701"
+     }
+    }
+   ],
+   "insight": "AI가 소프트웨어를 넘어 로봇과 자율주행 같은 물리적 영역으로 확장되고 있습니다. 제조·국방·의료에서 실증과 표준화를 먼저 갖추는 쪽이 시장을 선점할 전망입니다."
+  }
+ ],
+ "explainers": [
+  {
+   "title": "1조 달러 돌파 눈앞에 둔 한국 수출, 10월 수출 '반도체 쏠림'이 이끌었다고?",
+   "summary": "10월 수출 1,152억8,000만 달러와 누적 9,000억 달러 돌파의 배경, 반도체 쏠림의 의미를 정리했습니다.",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48292"
+   }
+  }
+ ],
+ "search_trends": {
+  "note": "Google 트렌드 한국 · 수집 시점 기준",
+  "items": [
+   {
+    "term": "미국 중간선거",
+    "traffic": "200+"
+   },
+   {
+    "term": "파업",
+    "traffic": "200+"
+   },
+   {
+    "term": "사학연금",
+    "traffic": "200+"
+   },
+   {
+    "term": "구미시",
+    "traffic": "100+"
+   }
+  ],
+  "comment": "미국 중간선거는 사전투표 5,200만 명 기록과 함께, '파업'은 포스코 노조가 7일 임금교섭 잠정합의안 찬반투표를 연다는 소식과 함께 검색이 늘었습니다."
+ },
+ "schedule": {
+  "note": "모두 한국 시간 · 미국과 14시간 차",
+  "rows": [
+   {
+    "when": "11/2(월) 오늘",
+    "event": "11월 첫 거래일 · 증권사 앱 저PBR 꼬리표 표시 시작",
+    "watch": "인텔 쇼크 반영 폭, 외국인 수급",
+    "hot": true
+   },
+   {
+    "when": "11/3(화)",
+    "event": "미국 중간선거(현지) · 래블업 코스닥 상장",
+    "watch": "한국 시간 4일 오전부터 개표 결과",
+    "hot": true
+   },
+   {
+    "when": "이번 주",
+    "event": "애플·AMD 실적, 미국 비농업 고용 지표",
+    "watch": "AI 투자 심리 회복 여부"
+   },
+   {
+    "when": "이번 주",
+    "event": "한국 10월 소비자물가 · 금융권 해킹 보안 점검회의",
+    "watch": "유가 반영 정도, 보안 대책"
+   },
+   {
+    "when": "11/7(토)",
+    "event": "포스코 노조, 임금교섭 잠정합의안 찬반투표",
+    "watch": "파업 리스크 해소 여부"
+   },
+   {
+    "when": "11월 중하순",
+    "event": "연간 수출 1조 달러 돌파 예상",
+    "watch": "세계 4위 수출국 진입"
+   }
+  ],
+  "foot": "미국 실적·고용 지표와 한국 소비자물가의 정확한 발표일은 확인하지 못해 '이번 주'로 적었습니다.",
+  "sources": [
+   {
+    "label": "연합뉴스 경제",
+    "url": "https://www.yna.co.kr/view/AKR20261102015000008"
+   },
+   {
+    "label": "경향신문",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTzlMMjF0TWVDenVsaFpjQzNNZUZXSzlQM25rSmg1Z2RLTzk1bXdYaW82UW9uTUJqeHlRUk5tazdfTXBHa3lsZTdwRlJ4UjhCNzB1aTAtZWgxd9IBX0FVX3lxTE1pZldDVUZHUDRoc21ZUDR4bTdhVmE3Q1EzaGtSYjg3SW9OYTFjdGpOLWh5R0ltZ3VzQ3R0NHBNOEpSQmJwNDNPQU5ZdkNXa0k2ZXZjZ2d3TkxRdTZZemxV?oc=5"
+   },
+   {
+    "label": "뉴스핌",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0ySHc1UEFGVTUydWJHZEFaQ2dfSDVmQW9EYmFMbVNyNWhxNFdvajRlRGx0ZmRhOGNvN0dXWmxPNE5SWHlvZ0g4eUNfMmRPUGFkNkZFc0NFdkhvUQ?oc=5"
+   },
+   {
+    "label": "연합뉴스 (10월 수출)",
+    "url": "https://www.yna.co.kr/view/AKR20261101015351003"
+   },
+   {
+    "label": "연합뉴스 (래블업 상장)",
+    "url": "https://www.yna.co.kr/view/AKR20261030172900008"
+   }
+  ]
+ },
+ "watch": {
+  "opportunities": [
+   {
+    "text": "AI 서버용 SSD(+584%)·전력기기 수출 역대 최대 등 반도체 연관 품목도 함께 크고 있습니다",
+    "source": {
+     "label": "한국경제 경제",
+     "url": "https://www.hankyung.com/article/2026110185721"
+    }
+   },
+   {
+    "text": "저PBR 공개로 명단 기업들의 주주환원 발표가 이어질 수 있습니다",
+    "source": {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261031025200008"
+    }
+   },
+   {
+    "text": "이재용 회장의 패키징 거점 점검처럼 HBM4·첨단 패키징 투자가 확대되고 있습니다",
+    "source": {
+     "label": "전자신문",
+     "url": "https://www.etnews.com/20261101000090"
+    }
+   },
+   {
+    "text": "증권가 일부는 현재 코스피 가격대를 매력적인 매수 구간으로 봅니다",
+    "source": {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/02/HAYWIMTFGZRDKMDBMIYDKYZVHE/"
+    }
+   }
+  ],
+  "risks": [
+   {
+    "text": "수출의 절반이 반도체여서 AI 투자가 꺾이면 수출 전체가 흔들릴 수 있습니다",
+    "source": {
+     "label": "매일경제 경제",
+     "url": "https://www.mk.co.kr/news/economy/12193048"
+    }
+   },
+   {
+    "text": "미국 반도체 급락을 반영해 오늘 코스피가 약세로 출발할 가능성이 큽니다",
+    "source": {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261102015000008"
+    }
+   },
+   {
+    "text": "이스라엘이 중간선거 직후 이란 공격 재개를 압박하고 있습니다",
+    "source": {
+     "label": "연합뉴스 국제",
+     "url": "https://www.yna.co.kr/view/AKR20261102002951079"
+    }
+   },
+   {
+    "text": "해킹이 의료 정보와 가상자산 탈취로 번지며 2차 피해 우려가 커지고 있습니다",
+    "source": {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/realty/realestate_industry/2026/11/02/GU3GGN3BHAZWMYRRHE2TOYJZGE/"
+    }
+   }
+  ],
+  "keywords": [
+   "수출 1조 달러",
+   "반도체 쏠림",
+   "인텔 쇼크",
+   "저PBR 151곳",
+   "중간선거 D-1",
+   "이란 공격 압박"
+  ]
+ },
+ "notes": [
+  "오늘 국내 장 시작 전에 만든 판이라 시세판은 10/30 종가입니다."
+ ]
+}
