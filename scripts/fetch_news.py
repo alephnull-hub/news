@@ -25,6 +25,7 @@ ATOM = "{http://www.w3.org/2005/Atom}"
 TRENDS = "{https://trends.google.com/trending/rss}"
 SITEMAP = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
 NEWNEEK_SITEMAP = "https://newneek.co/sitemap/article-sitemap.xml"
+MONEYSTORY_POPULAR = "https://story.pay.naver.com/popular"
 
 GNEWS = "https://news.google.com/rss"
 FEEDS = [
@@ -58,6 +59,7 @@ FEEDS = [
     ("Product Hunt", "trend", "https://www.producthunt.com/feed"),
     ("어피티", "explainer", "https://uppity.co.kr/feed/"),
     ("뉴닉", "explainer", NEWNEEK_SITEMAP),  # no RSS; read via its public article sitemap
+    ("네이버페이 머니스토리 인기", "explainer", MONEYSTORY_POPULAR),  # no RSS; ranked list in the page HTML
 ]
 
 
@@ -144,6 +146,43 @@ def newneek_entries(root, cutoff):
         yield (meta(page, "og:title"), url, meta(page, "og:description"), meta(page, "article:published_time"), "뉴닉", {})
 
 
+def relative_time(text, now):
+    """'방금 전', 'N분 전', 'N시간 전', 'N일 전' or '2026.11.03.' -> KST datetime (None if unknown)."""
+    text = (text or "").strip()
+    if text.startswith("방금"):
+        return now
+    m = re.match(r"(\d+)\s*(분|시간|일)\s*전", text)
+    if m:
+        n, unit = int(m.group(1)), m.group(2)
+        units = {"분": "minutes", "시간": "hours", "일": "days"}
+        return now - timedelta(**{units[unit]: n})
+    m = re.match(r"(\d{4})\.(\d{1,2})\.(\d{1,2})", text)
+    if m:
+        return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=KST)
+    m = re.match(r"(\d{1,2})\.(\d{1,2})\.", text)  # "11.03." — this year, or last year if that is in the future
+    if m:
+        dt = datetime(now.year, int(m.group(1)), int(m.group(2)), tzinfo=KST)
+        return dt if dt <= now else dt.replace(year=now.year - 1)
+    return None
+
+
+def moneystory_entries(page, now):
+    """Naver Pay MoneyStory popular list: rank, title, summary, topic, posted time, readers (CSS-module class prefixes)."""
+    def field(block, cls):
+        m = re.search(rf'class="[^"]*\b{cls}[^"]*"[^>]*>(.*?)</', block, re.S)
+        return clean(m.group(1)) if m else ""
+    for block in re.split(r'<li class="PopularItem_item', page)[1:]:
+        href = re.search(r'href="(/content/[^"]+)"', block)
+        title = field(block, "PopularItem_title") or (re.search(r'aria-label="([^"]+)"', block) or [None, ""])[1]
+        if not href or not title:
+            continue
+        posted = relative_time(field(block, "PopularItem_display-at"), now) or now
+        extra = {"rank": int(field(block, "PopularItem_rank") or 0), "topic": field(block, "PopularItem_topic-name"),
+                 "readers": field(block, "PopularItem_view-count")}
+        yield (title, "https://story.pay.naver.com" + href.group(1), field(block, "PopularItem_summary-text"),
+               posted.isoformat(), "네이버페이 머니스토리", extra)
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--hours", type=int, default=24, help="keep items published within this many hours")
@@ -157,20 +196,27 @@ def main():
     for name, region, url in FEEDS:
         entry = {"name": name, "region": region, "url": url}
         try:
-            root = ET.fromstring(fetch(url))
+            raw = fetch(url)
+            root = None if url == MONEYSTORY_POPULAR else ET.fromstring(raw)
         except Exception as e:  # network or parse failure: record and move on
             entry.update(status="error", error=str(e)[:200], kept=0)
             feeds.append(entry)
             continue
         kept = 0
-        source_entries = newneek_entries(root, cutoff) if url == NEWNEEK_SITEMAP else entries(root)
+        if url == MONEYSTORY_POPULAR:
+            source_entries = moneystory_entries(raw.decode("utf-8", errors="replace"), now)
+        elif url == NEWNEEK_SITEMAP:
+            source_entries = newneek_entries(root, cutoff)
+        else:
+            source_entries = entries(root)
         for title, link, summary, pub, publisher, extra in source_entries:
             title = clean(title)
             published = parse_date(pub)
             if publisher:
                 publisher = clean(publisher)
                 title = re.sub(rf"\s+-\s+{re.escape(publisher)}$", "", title)
-            if not title or published is None or published < cutoff or published > now + timedelta(hours=1):
+            ranked = "rank" in extra  # a popularity snapshot: keep every listed item, however old
+            if not title or published is None or (published < cutoff and not ranked) or published > now + timedelta(hours=1):
                 continue
             key = re.sub(r"\W+", "", title).lower()
             if key in seen:
@@ -205,7 +251,8 @@ def main():
         "items": items,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     lines = [f"{x['id']}\t{x['region']}\t{x['published'][5:16].replace('T', ' ')}\t{x['publisher']}\t{x['title']}"
-             + (f"\t[검색량 {x['traffic']}]" if "traffic" in x else "") for x in items]
+             + (f"\t[검색량 {x['traffic']}]" if "traffic" in x else "")
+             + (f"\t[인기 {x['rank']}위 · {x['readers']}]" if "rank" in x else "") for x in items]
     (out_dir / "titles.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     ok = sum(f["status"] == "ok" for f in feeds)

@@ -115,7 +115,7 @@ def trends(day, cards, search):
 
 
 def explainers(day, rows):
-    out = [f'<section id="{day}-explain">', sec_head("쉽게 읽는 해설", "어피티 · 뉴닉"), '<ul class="explain">']
+    out = [f'<section id="{day}-explain">', sec_head("쉽게 읽는 해설", "어피티 · 뉴닉 · 네이버페이 머니스토리"), '<ul class="explain">']
     for r in rows:
         src = r.get("source") or {}
         out.append(f'<li><span class="pub">{e(src.get("label"))}</span>'
@@ -160,7 +160,7 @@ def footer(b):
         f"해외 {len(names['global'])}개({e(', '.join(names['global']))}), "
         f"트렌드 {len(names['trend'])}개({e(', '.join(names['trend']))}), "
         f"해설 {len(names['explainer'])}개({e(', '.join(names['explainer']))})에서 직전 24시간 기사를 모았습니다. "
-        "뉴닉은 RSS가 없어 공개 사이트맵과 기사 메타 정보(제목·요약)만 읽었고, 어피티의 광고 글은 제외했습니다."
+        "뉴닉은 RSS가 없어 공개 사이트맵과 기사 메타 정보(제목·요약)만 읽었고, 네이버페이 머니스토리는 인기 글 목록(순위·조회 수)을 읽었으며, 어피티의 광고 글은 제외했습니다."
         + (f" 이번에 열리지 않은 피드: {e(', '.join(failed))}." if failed else "")
         + " 시장 지표는 한국은행 ECOS·FRED(키가 있을 때)와 시황 기사 본문에서, 일정은 공개 캘린더 기사에서 확인했습니다.</p>"
         "<p><b>읽을 때 참고</b> Claude가 기사 제목·공개 요약·본문을 바탕으로 작성했습니다. 유료 기사는 헤드라인만 썼습니다. "

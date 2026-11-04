@@ -24,8 +24,9 @@ python3 scripts/fetch_news.py
 ```
 
 - `data/<오늘>/market.json`: ECOS·FRED 공식 수치. API 키가 없는 소스는 `skipped`로 남는다.
-- `data/<오늘>/news.json`: 29개 출처(국내 12, 해외 9, 트렌드 6, 해설 2)의 직전 24시간 기사. 피드별 성공 여부는 `feeds`에 있다.
-  해설(`explainer`)은 어피티와 뉴닉이다. 어피티 광고 글은 수집 단계에서 빠지고, 뉴닉은 공개 사이트맵과 기사 메타 정보(제목·요약)만 읽는다.
+- `data/<오늘>/news.json`: 30개 출처(국내 12, 해외 9, 트렌드 6, 해설 3)의 직전 24시간 기사. 피드별 성공 여부는 `feeds`에 있다.
+  해설(`explainer`)은 어피티, 뉴닉, 네이버페이 머니스토리다. 어피티 광고 글은 수집 단계에서 빠지고, 뉴닉은 공개 사이트맵과 기사 메타 정보(제목·요약)만 읽는다.
+  머니스토리는 인기 글 목록 10개를 순위(`rank`)·주제(`topic`)·조회 수(`readers`)와 함께 읽으며, 인기 목록이라 24시간보다 오래된 글도 포함된다.
 - `data/<오늘>/titles.txt`: 한 줄에 기사 하나(`id`, 지역, 시각, 매체, 제목). 이슈를 묶고 세는 데 쓴다.
 - 기사 본문은 `python3 scripts/article_text.py <링크>`로 읽는다.
 - 스크립트가 실패해도 멈추지 말고, 수집된 만큼으로 진행한다.
@@ -62,6 +63,7 @@ python3 scripts/fetch_news.py
 8. **이번 주 일정**: 한국 시간으로 쓴다. 해외 일정은 웹 검색으로 확인하고, 확인하지 못한 일정은 넣지 않는다. 오늘과 내일의 핵심 일정은 `hot: true`로 표시한다.
    - 미국 서머타임(3월 둘째 일요일~11월 첫째 일요일)에는 한국과 13시간, 그 외에는 14시간 차이다.
 9. **쉽게 읽는 해설**: `--region explainer` 기사 중 오늘 이슈와 관련 있는 경제·생활 경제 글 4~6개(짝수)를 고른다. 정치·사건 기사는 넣지 않는다.
+   - 머니스토리 인기 글을 고르면 `summary` 끝에 순위와 조회 수를 덧붙인다. 예: `머니스토리 인기 3위, 2.7만 명 읽음.`
    - 제목은 원문을 살리되, 끝의 이모지는 뺀다.
    - `summary`는 RSS 요약이나 메타 설명을 바탕으로 1~2문장으로 직접 쓴다. 원문을 길게 옮기지 않는다.
 10. **생각해 볼 점**: 기회 4개, 리스크 4개, 지켜볼 키워드 5~6개를 쓴다.
@@ -86,7 +88,7 @@ python3 scripts/fetch_news.py
   "global": [/* domestic과 같은 형식 */],
   "industry": [{"who": "네이버", "what": "한 줄", "source": {"label": "", "url": ""}}],
   "trends": [{"title": "", "evidence": [{"text": "", "source": {"label": "", "url": ""}}], "insight": ""}],
-  "explainers": [{"title": "", "summary": "1~2문장", "source": {"label": "어피티|뉴닉", "url": ""}}],
+  "explainers": [{"title": "", "summary": "1~2문장", "source": {"label": "어피티|뉴닉|네이버페이 머니스토리", "url": ""}}],
   "search_trends": {"note": "Google 트렌드 한국 · 수집 시점 기준", "items": [{"term": "", "traffic": "500+"}], "comment": ""},
   "schedule": {"note": "모두 한국 시간", "rows": [{"when": "10/29(목) 03:00", "event": "", "watch": "", "hot": true}], "foot": "", "sources": [{"label": "", "url": ""}]},
   "watch": {"opportunities": ["문장" , {"text": "문장", "source": {"label": "", "url": ""}}], "risks": ["..."], "keywords": ["..."]},
