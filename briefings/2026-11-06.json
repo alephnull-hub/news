@@ -1,0 +1,891 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "19:51",
+ "collection": {
+  "window": "11/05 19:46 – 11/06 19:46 KST",
+  "feeds_ok": 29,
+  "feeds_total": 30,
+  "articles": 1149,
+  "failed": [
+   "연합뉴스 국제"
+  ]
+ },
+ "title": "오늘의 비즈니스·경제 브리핑",
+ "lead": "미국 민주당의 의회 장악으로 AI 데이터센터 규제 공포가 번지며 5일 나스닥이 5.52% 폭락했고, 6일 코스피는 서킷브레이커 끝에 6.02% 내린 5,059.69로 마쳐 이틀간 11% 가까이 빠졌습니다. 정부는 긴급 F4 회의를 열어 빚투 반대매매를 막는 조치를 내놨고, 오늘 밤 10시 30분 미국 10월 고용보고서가 다음 변수입니다.",
+ "market": {
+  "note": "국내 11/06 종가 · 미국 11/05(현지) 종가 · 미국 11/06 장 시작 전",
+  "tiles": [
+   {
+    "name": "코스피",
+    "value": "5,059.69",
+    "change": "324.11 (−6.02%)",
+    "dir": "down",
+    "note": "11/06 · 연합뉴스"
+   },
+   {
+    "name": "코스닥",
+    "value": "644.27",
+    "change": "34.14 (−5.03%)",
+    "dir": "down",
+    "note": "11/06 · 연합뉴스"
+   },
+   {
+    "name": "원/달러",
+    "value": "1,356.6",
+    "change": "14.5원",
+    "dir": "up",
+    "note": "11/06 15:30 · 연합뉴스"
+   },
+   {
+    "name": "국고채 10년",
+    "value": "3.853%",
+    "change": "3.4bp",
+    "dir": "down",
+    "note": "11/06 · 연합뉴스"
+   },
+   {
+    "name": "S&P 500",
+    "value": "7,353.73",
+    "change": "334.89 (−4.36%)",
+    "dir": "down",
+    "note": "11/05 현지 · 전자신문·매일경제"
+   },
+   {
+    "name": "나스닥",
+    "value": "24,315.00",
+    "change": "1,421.52 (−5.52%)",
+    "dir": "down",
+    "note": "11/05 현지 · 전자신문·매일경제"
+   },
+   {
+    "name": "다우",
+    "value": "51,523.06",
+    "change": "1,833.06 (−3.44%)",
+    "dir": "down",
+    "note": "11/05 현지 · 전자신문·매일경제"
+   },
+   {
+    "name": "필라델피아 반도체",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "11/05 정확한 값 미확인 ('12% 넘게 폭락' 보도)"
+   },
+   {
+    "name": "WTI",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "11/05 종가 기사 미수집"
+   },
+   {
+    "name": "브렌트",
+    "value": "—",
+    "change": "3.9%",
+    "dir": "up",
+    "note": "11/05 현지 · 등락률만 확인 · 전자신문"
+   },
+   {
+    "name": "미 국채 10년",
+    "value": "4.84%",
+    "change": "5.2bp",
+    "dir": "down",
+    "note": "11/05 · 수준 전자신문, 등락 연합뉴스"
+   },
+   {
+    "name": "VIX",
+    "value": "확인 불가",
+    "change": "—",
+    "dir": "na",
+    "note": "FRED 키 미등록"
+   }
+  ],
+  "foot": "국내는 6일 종가입니다. 코스피는 개장 3분여 만에 8.78% 내린 4,911.28까지 밀려 1단계 서킷브레이커(20분 매매 정지)가 발동했고, 이틀 동안 624.11포인트(10.98%) 떨어졌습니다. 코스피200 변동성지수는 65.17로 11.96% 뛰었습니다. 미국 증시는 5일 종가이며, 나스닥과 S&P 500의 하루 낙폭은 지난해 4월 이후 가장 컸습니다. 5일 유가 종가는 기사에서 확인하지 못해 브렌트 등락률만 실었습니다. 공식 데이터(ECOS·FRED) 키가 없어 수치는 시황 기사 본문에서 인용했습니다.",
+  "sources": [
+   {
+    "label": "연합뉴스 (코스피 마감)",
+    "url": "https://www.yna.co.kr/view/AKR20261106130151008"
+   },
+   {
+    "label": "연합뉴스 (숫자로 본 급락)",
+    "url": "https://www.yna.co.kr/view/AKR20261106071651008"
+   },
+   {
+    "label": "연합뉴스 (환율)",
+    "url": "https://www.yna.co.kr/view/AKR20261106136200002"
+   },
+   {
+    "label": "연합뉴스 (국고채)",
+    "url": "https://www.yna.co.kr/view/AKR20261106148851008"
+   },
+   {
+    "label": "전자신문 (뉴욕증시)",
+    "url": "https://www.etnews.com/20261106000030"
+   },
+   {
+    "label": "매일경제 (뉴욕증시)",
+    "url": "https://www.mk.co.kr/news/stock/12199715"
+   }
+  ]
+ },
+ "domestic": [
+  {
+   "title": "'검은 금요일' 코스피 6% 폭락, 서킷브레이커 끝에 5,059 턱걸이… 이틀간 11% 하락",
+   "tags": [
+    "증시",
+    "반도체"
+   ],
+   "count": 138,
+   "summary": "코스피는 6일 324.11포인트(6.02%) 내린 5,059.69로 마쳐 3월 31일 이후 약 7개월 만에 가장 낮았고, 장중에는 4,911.28까지 밀려 9개월 만에 5,000선을 내줬습니다. 오전 9시 3분 1단계 서킷브레이커, 9시 34분 매도 사이드카가 잇따라 발동했습니다. 외국인이 2조7,690억 원을 순매도해 6거래일 연속 '팔자'(누적 11조9,949억 원)였고, 기관과 개인은 각각 1조7,041억 원, 6,010억 원을 사들였습니다. 삼성전자는 6.35% 내린 18만8,700원, SK하이닉스는 10.44% 떨어졌습니다.",
+   "why": "코스피는 6월 22일 고점(9,114.55)보다 44.5% 낮아졌고, 시가총액은 고점 대비 약 3,275조 원 줄었습니다. 미국 데이터센터 규제가 메모리 수요 둔화로 이어질지가 반도체 비중이 큰 한국 증시의 최대 변수가 됐습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 (코스피 마감)",
+     "url": "https://www.yna.co.kr/view/AKR20261106130151008"
+    },
+    {
+     "label": "연합뉴스 (숫자로 본 급락)",
+     "url": "https://www.yna.co.kr/view/AKR20261106071651008"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261106130100008"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/stock-finance/2026/11/06/MZSGKYJVMVRWKNBUMQ3TQYRXMQ/"
+    },
+    {
+     "label": "한국경제 증권",
+     "url": "https://www.hankyung.com/article/2026110615991"
+    }
+   ]
+  },
+  {
+   "title": "3분기 실적 희비: 삼양식품·CGV 역대 최대, 롯데케미칼 적자 확대·금호석화 11년 만에 적자",
+   "tags": [
+    "실적",
+    "소비재",
+    "화학"
+   ],
+   "count": 46,
+   "summary": "삼양식품의 3분기 영업이익은 1,962억 원으로 49.9% 늘어 분기 최대였고, 해외 매출이 29.4% 늘어난 6,608억 원이었습니다. CJ CGV는 영업이익 736억 원으로 역대 최대, 진에어는 78억 원으로 흑자 전환했고, 코웨이는 2,608억 원(+7.3%)이었습니다. 반면 롯데케미칼은 영업손실이 2,814억 원으로 커졌고, 금호석유화학은 11년 만에 분기 적자로 돌아섰습니다.",
+   "why": "수출 소비재와 콘텐츠는 실적이 견조하지만 석유화학은 업황 부진이 길어지고 있습니다. 증시 급락 속에서 '실적은 최대인데 주가는 급락'한 종목도 많아 실적과 주가의 괴리가 커졌습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261106131851527"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261106164500005"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261106131300527"
+    },
+    {
+     "label": "한국경제 경제",
+     "url": "https://www.hankyung.com/article/2026110615321"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/market_trend/2026/11/06/HBSTOMRTGFSTANTDMJSDKYJZHA/"
+    },
+    {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261106140400003"
+    }
+   ]
+  },
+  {
+   "title": "정부 긴급 F4 회의… 9일부터 3개월간 신용융자 담보비율 유지의무 면제, '추가 조치' 예고",
+   "tags": [
+    "정책",
+    "증시"
+   ],
+   "count": 9,
+   "summary": "이형일 경제부총리, 권민수 한국은행 부총재, 이억원 금융위원장, 이찬진 금융감독원장이 6일 오전 10시 30분 긴급 F4 회의를 열었습니다. 정부는 9일부터 3개월간 증권사의 신용융자 담보비율(140%) 유지의무를 면제해 반대매매가 매도를 부르는 악순환을 막기로 했고, 변동성이 더 커지면 시장 안정 조치를 추가하겠다고 밝혔습니다.",
+   "why": "증권시장안정펀드나 공매도 금지 같은 대규모 개입 대신 미시 대응을 택했다는 분석이 나옵니다. 빚을 내 투자한 개인의 강제 청산 위험은 줄지만, 외국인 매도가 이어지면 추가 대책 요구가 커질 수 있습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261106089800002"
+    },
+    {
+     "label": "한국경제 증권",
+     "url": "https://www.hankyung.com/article/202611060422i"
+    },
+    {
+     "label": "한겨레",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtSzJEbVlJRXZFNXhRZFE4V2Q5MnpvQkctMHpjYUR4bC1uNkpROGpOTmNRc2l0d2JjY0FwTmdaQUt1MDk5RFZ2b3pIYU5TcFZXSHVsT2VIQXVLZUl5WFlmaU5BdEFLRVZFb01HQzA1M2RSdw?oc=5"
+    },
+    {
+     "label": "매일경제 경제",
+     "url": "https://www.mk.co.kr/news/economy/12200611"
+    },
+    {
+     "label": "뉴닉",
+     "url": "https://newneek.co/@newneek/article/48449"
+    }
+   ]
+  },
+  {
+   "title": "원/달러 14.5원 급등한 1,356.6원… 장중 한 달 만에 1,360원대",
+   "tags": [
+    "환율",
+    "외환"
+   ],
+   "count": 6,
+   "summary": "6일 원/달러 환율은 오후 3시 30분 기준 1,356.6원으로 전날보다 14.5원 올랐습니다. 1,358.0원에 출발해 오전 11시께부터 오르기 시작했고, 낮 12시 20분께 1,362.2원까지 뛰어 한 달 만에 1,360원대를 찍었습니다. 조선일보는 6개월 만의 최대 폭 상승이라고 전했습니다.",
+   "why": "AI 관련주 급락으로 위험 회피 심리가 커지고 외국인이 주식을 대거 팔면서 달러 수요가 늘었습니다. 환율이 더 오르면 수입 물가와 외국인 자금 이탈 우려가 함께 커집니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 (환율)",
+     "url": "https://www.yna.co.kr/view/AKR20261106136200002"
+    },
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261106128400002"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/06/HA3WMZRTHFRWGZJUG42WKMJYMQ/"
+    },
+    {
+     "label": "서울경제",
+     "url": "https://www.sedaily.com/article/20111224"
+    }
+   ]
+  },
+  {
+   "title": "가상자산 거래소 고팍스, 해킹 협박에 입출금·매매 전면 중단",
+   "tags": [
+    "가상자산",
+    "보안"
+   ],
+   "count": 5,
+   "summary": "고팍스는 6일 해킹을 주장하는 세력의 협박 이메일을 받은 뒤 오후 2시 55분께 가상자산 입출금을, 오후 3시 53분부터 매매를 중단하고 미체결 주문을 모두 취소했습니다. 핫월렛에 있던 이용자 자산은 인터넷과 분리된 콜드월렛으로 옮기고 있으며, 출금은 고객지원센터에서 접수해 수동으로 처리합니다. 회사는 위협의 실체는 확인되지 않았고 선제 대응이라고 설명했습니다.",
+   "why": "바이낸스 해킹 이후 거래소 보안에 대한 불안이 커진 상황이라 이용자 이탈과 당국의 보안 점검 강화로 이어질 수 있습니다. 정부는 같은 날 가상자산 소득 과세를 2029년으로 2년 더 미루는 방안을 추진한다고 밝혔습니다.",
+   "sources": [
+    {
+     "label": "연합뉴스 경제",
+     "url": "https://www.yna.co.kr/view/AKR20261106174751002"
+    },
+    {
+     "label": "머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/06/2026110618573641877"
+    },
+    {
+     "label": "조선일보 경제",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/06/RMPAYF4SO5AC5JW4KDJWW2HYJU/"
+    },
+    {
+     "label": "뉴닉",
+     "url": "https://newneek.co/@newneek/article/48422"
+    }
+   ]
+  }
+ ],
+ "global": [
+  {
+   "title": "선거 참패 뒤 트럼프 '관세 300%' 위협·거부권 예고… 헤그세스 탄핵 표결, 루비오 거취 논란",
+   "tags": [
+    "미국",
+    "정치",
+    "관세"
+   ],
+   "count": 52,
+   "summary": "트럼프 대통령은 5일 미국에 공장을 짓지 않는 외국 기업에 최고 300%의 관세를 매기겠다고 위협하며 '1~2주 안에 많은 것을 보게 될 것'이라고 말했고, 'VETO'(거부권) 모자를 책상에 올려 민주당 입법을 막겠다는 뜻을 드러냈습니다. 워싱턴포스트는 이란전을 주도한 헤그세스 국방장관 탄핵소추안 표결이 이르면 다음 주 열린다고 보도했고, 블룸버그는 루비오 국무장관이 행정부를 떠나는 방안을 저울질한다고 전했습니다. 트럼프 대통령은 증시 급락의 책임을 민주당에 돌렸습니다.",
+   "why": "의회 권력을 잃은 행정부가 관세 같은 행정 권한에 더 기대면 통상 불확실성은 오히려 커질 수 있습니다. 미국 투자 압박이 커지면 한국 기업의 대미 투자 일정과 비용에도 영향을 줍니다.",
+   "sources": [
+    {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/2026110615781"
+    },
+    {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/2026110615671"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGdGY1RZR2hoRW9QZ1FpMFlUM2hmUEZWMjdsQ0w5UVZfaEdHNW5JTkstOFZ3UkVRMzZXaFlNbkVma1RUWWdLYjcwUHNxZW4tZEo0T0ZTeWVjR3NqR2xhMGdTQ3VvUGNhMjM1N0lLZGtJb25vYmlUalNmSlZtcnFUMlJ3aGhOZG5jSENoM1ZpbEFkVTZROHl0Y3NtWXdhc3pIc012eG1lTlF1VG8xcFhYbEN1WUQ?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWk5EZ2ZpTjRveG85SUIxeWE1OTBGU3ljanRHSXk4bktSakplVzhLUjhSU3BZb0llVXJsblRUWjRlWElmSEpKMlpfT1Z0cXhxbEdraGZHQ0hma2p4T3o5bl9UU0dTWjZJOHdNcGZuQ0M2SEozMG1RamRYOWRBck01MzZRMXFoR0ZrQ1EzUHlBNlVjOGx4Vy1vZTJKcVY5MDdrWDJfazRfa2VvbUtmQk04?oc=5"
+    },
+    {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/2026110615691"
+    }
+   ]
+  },
+  {
+   "title": "월가 AI 투매: 나스닥 5.52%·S&P 4.36% 폭락, 하루 3.2조 달러 증발… 닛케이 6% 급락",
+   "tags": [
+    "증시",
+    "AI",
+    "반도체"
+   ],
+   "count": 38,
+   "summary": "5일 나스닥은 1,421.52포인트(5.52%) 내린 24,315.00, S&P 500은 4.36% 내린 7,353.73, 다우는 3.44% 내린 51,523.06으로 마쳐 나스닥·S&P 500의 하루 낙폭이 지난해 4월 이후 가장 컸습니다. 엔비디아 9.3%, AMD 17.3%, 마이크론 17%, 브로드컴 10.6%가 떨어졌고 필라델피아 반도체지수는 12% 넘게 폭락했습니다. FT는 월가 시가총액 3조2천억 달러가 사라졌다고 전했고, 6일 일본 닛케이지수도 6.0% 떨어져 1년 반 만에 가장 크게 하락했습니다.",
+   "why": "AI 투자 위축 우려가 반도체에서 전력설비(GE버노바 −7.5%)와 신용시장까지 번지고 있습니다. 반면 미국 10년물 국채 금리는 4.84%로 내려 안전자산으로 돈이 몰렸습니다.",
+   "sources": [
+    {
+     "label": "전자신문 (뉴욕증시)",
+     "url": "https://www.etnews.com/20261106000030"
+    },
+    {
+     "label": "매일경제 (뉴욕증시)",
+     "url": "https://www.mk.co.kr/news/stock/12199715"
+    },
+    {
+     "label": "FT",
+     "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1"
+    },
+    {
+     "label": "MarketWatch",
+     "url": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories"
+    },
+    {
+     "label": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXo4QW9qZVVXdU5oMzRhVlRKSElBYzd3eElBdWdrQjQ1M1Z5eEtfS3ROd1ZicTF3azg4ZWNuQXdTMktrUklIUTB3WTFSWVJyeTBmOC1pbW5GSDF1amJZQWRaWXBYUXFSMGoxSjlYQWpyOGFvZ003ckdVME1lWl85SzRRMUVtbUtyZ0hJ?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHBLTWtYMWE3dHdpQzZMUmMxRm1HMTJvUGNVQXA1T0dBaWxZNy10ZHNWejZTSW1Bb3ZPVUNGemZZOFBTV29IYV9yZFlqSXROT0g0d284cnI5RzZuQ2dUTlRlcGc3d3BITVYxWU5ZdFkzZ1ExX1V4YnRFSExxUkxUYWhMZVB3bXZKN2VBY2VVNzZqRVdyeEZnWV9GNUl4LXcxX1RxdHJNYjZTOVF4Zzk3c1Y3ZHQ?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "데이터센터 역풍 현실로: 텍사스 당선인 '신규 승인 중단', MS는 네오클라우드 감독 강화",
+   "tags": [
+    "AI",
+    "데이터센터",
+    "규제"
+   ],
+   "count": 20,
+   "summary": "텍사스 주지사 당선인 지나 히노호사(민주)는 주민 보호 법안이 마련될 때까지 데이터센터 신규 사업의 환경 인허가와 전력망 연결 승인을 멈추겠다고 밝혔습니다. 마이크로소프트는 지연과 비용 부담을 이유로 네오클라우드 데이터센터 사업 감독을 강화했고, 네오클라우드 업체 IREN은 고객 요청으로 연 40억 달러 규모 매출이 늦어진다고 밝혔습니다. 오픈AI는 반발 여론에 데이터센터 사업에서 지역 주민의 목소리를 더 반영하겠다고 했습니다.",
+   "why": "UBS는 2028년 미국에 추가될 데이터센터 용량의 약 30%가 차질을 빚을 수 있다고 봤습니다. 데이터센터 건설이 늦어지면 AI 반도체·서버·전력설비 수요가 함께 줄어 한국 메모리 업체에도 직접적인 부담입니다.",
+   "sources": [
+    {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/2026110603997"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUdBMU5JdUNaZTZrV1hLcmZ4blU4Y2ZxUjhxUFJkQnE5MzliSXYtcUd1TnVRQ1NYcEZwR2NTS29jTmJVXzFKblhaay12d0FENWs5M0VKampGS3A5VGh6VDAxX29Ld0JSQ0x6blhRVnY0RHJPRHBlZmVfakxpVk5HMmJ3UnJZeUttakxUYVFQQVRlblRxamUzS2hXS2NCZ2dkN0pDOHJza0VTOE9zeHB0MDJpRUw0VEFqVnJfTA?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTR2cGs0cFlMMmd0Zmx6SjMxblBNUWJVajQtQ2tWaGVyeEswUkZvbE5NeEwtSzQxVlNodHFjalBvQU95TW5UcG9Ja3FTMWRHZEplcEFCTFZNcEhiVFlUNHVVaTlJQnpsajNUQzFIRmhJa1BsQzItMkNfZndsdHZBenV3U3lIcGtsVllpZEp1NDkxREJsd25qd3kwV05IekQ4bmVlNkxZNzc2VnRjYTBIWWJ1Rm8?oc=5"
+    },
+    {
+     "label": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iak1TdV9VYjNuOUVBc2I2RGdLNk9aX3dNc0U1QXBYUndsY2EwUlBHeV9ZQkZJWHRyblJSOEswSnEyUWtNbEpid0xQMEE2V0NOUmM3eWRQc2t1R3V0aWNBWUhqa1NKX0VZa3gtUmJENzNiTm1s0gF6QVVfeXFMUEpwaFM2dHFuNDlYaF9fX0hMYVBHbjNJVWlPSnNLYXVBdkhQM2N0SUFqWE8zSUN2eXdscXB5SFpkdTVIdzhtY2N4UnUwZXFDb3FPU3VHaGJyaDlub2p0d0lKWktxRjRnbHZOM2FQckQ5aXg3cDRBVUllalE?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEowNWhNQkUxQWk5Z2xWQ0NNc3hkTV92SzBjV1hGMmw3NEQ4QXlSTTRQRl9wZlNWWGtEZzVpN3Y2MXZPdVpLZTdBZUJnR0NxMXRpV2ROaElJRF9pYzlLXy1Sclp6Nmk0UU5QQ2JZSEw5VDVuNWNmSWFwZGp6UWwtWklwR1lIZDlQVERuMlZQVlk4ZEJURmlDd3RUaW9fdjhwY212UW9MZl9VRmtmRXJqdUcyS2RnUQ?oc=5"
+    },
+    {
+     "label": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3NGMHFJQlQwNk4yNzFPblZsOHRFS0FBcmc0b3JxbGRoSnUzUC00WGctejhmNllYa094VGFmMHJrSWYyaUhBRlFERkdKbktXSmRkcWhhc21JVUp5Z29kbFVtTE11YjZnc3ZkZU5jM3BvbmRqUVVyUDBveF9OTmJXd1poLVI1LVhlRUVfUjhzczh2b2t3cnZuTUc4UDExWXFmVWlQZ2R4MHVQaGllbnljdlR2UQ?oc=5"
+    }
+   ]
+  },
+  {
+   "title": "테슬라·스페이스X 동반 급락… 머스크, 사이버트럭 생산 종료 시사",
+   "tags": [
+    "전기차",
+    "우주",
+    "머스크"
+   ],
+   "count": 15,
+   "summary": "5일 테슬라는 10.8%, 스페이스X는 9.1% 떨어졌고, 이후에도 하락세가 이어지고 있다는 보도가 나왔습니다. 머스크가 중간선거에서 공화당 후보들을 거액으로 지원했던 만큼 민주당 승리가 규제와 정치적 부담을 키울 것이라는 우려가 반영됐습니다. 테슬라는 텍사스 공장의 사이버트럭 생산을 줄여 끝내겠다고 밝혔고, 텍사스 주지사 당선인은 스페이스X와의 토지 협상을 멈춰 달라고 요청했습니다.",
+   "why": "데이터센터 규제와 테슬라·스페이스X 합병 구상에 대한 불확실성이 겹쳤습니다. 블룸버그는 스페이스X의 부도 위험 지표가 최고치로 올랐다고 전했습니다.",
+   "sources": [
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWnlMcV9XTE94RnhqbWNmQ1B5Y01Gd0tReURLRG5nc1VOVlBQR1RwazRSdXF0azlhbS1nTmJ5M0MxZUxMMUQxM1pxRHVjN1VVQWM5OGtOOGdWU1Fwa0llb0hxTXVHX05rV3JoRTR3eWwtTkNseGQ2eW5hcTcxUmQ5YnRYUVNwaGdwaDlhelZ5dmJoOVZhaGU1N1Fkb1RTUDFMY1lCUzlMcG9SYUNDcUlMeHBBYXBWQmM2QUloLWh5QkNuOGRvMTRVSml0dmxEN2lqaU1va09iQ0o?oc=5"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmo5bGd6NWxSRkMyY09hNDJJMVdYc1RuY1B1UUlrZG4wT2hCdVY3aERmejgwR2RWZlhGRjRLeXVnYXk0X3ZaMVNhSm54LXhVQlgtU2NrS0JSSWV0dXpfUmRtMHlGYmtBYlo1RG53NjJPMTB0QnZENlp0TFJXY0FnQ01yQklnc1hIV0ZmU2lhV28tN3RYdGNvWGdWczU3cENFRHFWaFpBbVNPT3V6UzgyRURR?oc=5"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGJsa2I1NzhqeU5WWEVkVVZyUUpTNmh0SmZtQnBPZG5PbDZoUkp4WV9WSGY4blNtR0ZWUE12VmFZSzl6TVJVV2U0cW92MHBUdXRQc1dpcUlQdzZWMC1SNThZOWhQTkRZa0o0RkNzMHdOdXNrNDBsaXZtaHBYd3ZNS0VrcWNHRE1ZTFc2QXF2UE5TMkRhOEIwWXU0LU5tSlE0ZGNkRlFwWWNROTZ6ajYzUXBkQQ?oc=5"
+    },
+    {
+     "label": "전자신문 (뉴욕증시)",
+     "url": "https://www.etnews.com/20261106000030"
+    }
+   ]
+  },
+  {
+   "title": "이란 '제재 풀면 이틀 내 호르무즈 개방' 핵협상 제안… 유가는 주간 큰 폭 하락 예상",
+   "tags": [
+    "중동",
+    "원유"
+   ],
+   "count": 15,
+   "summary": "이란은 카타르를 통해 미국에 핵 협상 제안서를 보냈고, 항구 봉쇄 해제와 원유 수출 제재 면제 등 7가지 요구를 들어주면 호르무즈 해협을 이틀 안에 다시 열겠다는 구상을 내놨습니다. 5일 브렌트유는 유조선 추가 피격 등으로 3.9% 올랐지만, 로이터는 중간선거 뒤 중동산 원유 수출 확대 기대로 이번 주 유가가 큰 폭으로 떨어질 것이라고 전했습니다. FT는 이란이 트럼프의 선거 패배를 반기는 가운데 카타르 주도 중재가 속도를 내고 있다고 보도했습니다.",
+   "why": "협상이 진전되면 유가와 물가 부담이 줄지만, 이란은 미국이 먼저 조치해야 한다는 입장이라 타결까지는 변수가 많습니다. 유가 변동은 유로존(10월 물가 4.0%)과 영국의 금리 인상 압력과도 직결됩니다.",
+   "sources": [
+    {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/2026110696227"
+    },
+    {
+     "label": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5"
+    },
+    {
+     "label": "FT",
+     "url": "https://www.ft.com/content/eced6084-7cd7-4633-a8ba-559173e0f6c1?syn-25a6b1a6=1"
+    },
+    {
+     "label": "Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXNmZnh6cENKbU1vdHBCWUxseFF6ZlpFenZlcFRxMjZjT0RveUdzRkdRZFpoMk5BWUN4SnNqRGJSbENOSGtlbHVDWFhOS1FmakR3WmJIRzhlNmVOYW5udGlCSGhVWW1rWU5zdVkxeFcwVEpfNG16SUIzQUswRDI3N2VSd3NKZnBtRmxaWmpBalZtXzFob2owdDZYUVJrbW5kMWhGd3loeERqdmpXVW00TA?oc=5"
+    },
+    {
+     "label": "Investing 한국어",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5Y2RUelFmWkVqN0hHdGxiZ2RhTC1WYzdjYS1FSnd1WXdUQURtSW9UVTBIZHZmeTUtTzZwU3JyRUtHTnhCTU1KdUoySU9SV2h0X18zUTNTMWxqT2pCZVhmSVRMVHJnaDZRMTNJdXg0bw?oc=5"
+    }
+   ]
+  }
+ ],
+ "industry": [
+  {
+   "who": "엔비디아·네이버",
+   "what": "엔비디아가 네이버 유상증자 대금 1조3,412억 원을 납입해 지분 4.13%로 3대 주주",
+   "source": {
+    "label": "KBS 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82QkFOQmZGaXRyVlRkeUJhUDZEMDFUMVBCc2I5a25odU40WTFIYW1jX0xNcFVzdEVJaS1jaS1IVmVJNEh4YkJvVkpKVzkwUVNjY3E0N3hyMEltVG8?oc=5"
+   }
+  },
+  {
+   "who": "영란은행(BOE)",
+   "what": "기준금리를 연 3.75%에서 4.00%로 인상, 2023년 8월 이후 3년여 만의 인상(8대 1)",
+   "source": {
+    "label": "한국경제 국제",
+    "url": "https://www.hankyung.com/article/2026110593997"
+   }
+  },
+  {
+   "who": "삼양식품",
+   "what": "3분기 영업이익 1,962억 원(+49.9%), 해외 매출 6,608억 원으로 분기 최대",
+   "source": {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261106131851527"
+   }
+  },
+  {
+   "who": "롯데케미칼",
+   "what": "3분기 영업손실 2,814억 원으로 적자 확대, 매출은 5조3,951억 원(+12.7%)",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/industry-company/2026/11/06/GI4DANLDGMYGCZBZMQ2GCZBXG4/"
+   }
+  },
+  {
+   "who": "HD한국조선해양",
+   "what": "초대형 암모니아운반선 4척 수주",
+   "source": {
+    "label": "한국경제 경제",
+    "url": "https://www.hankyung.com/article/2026110615331"
+   }
+  },
+  {
+   "who": "아우디",
+   "what": "새로 짓는 미국 공장에 최대 9조 원 투입",
+   "source": {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261106176800082"
+   }
+  },
+  {
+   "who": "애플",
+   "what": "투자등급 회사채로 75억 달러 조달",
+   "source": {
+    "label": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlhUUFluWi1GY01oNEdScGpmXzdDU2FaWVdtR1ctcjg3UVJZczlVUmxUenAxVWZ2eUVza1RJUE5iMU1fUk1MYlZnOHFVakFIZ2gxaThXb0Nya283XzJsdEhidEptZV83Rl9ab0RqZ1Z4WlVGOHZpU1lkYnlfeXIyQkRvSG9tQzFTam96WUtqWUR1MmN0VzhIRHlPN0p3RmdEWVFPUElzY1psLUtRX1hIR0IxUQ?oc=5"
+   }
+  },
+  {
+   "who": "ING",
+   "what": "데이터센터 대출 5억 달러어치 매각 추진(블룸버그)",
+   "source": {
+    "label": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW45UENNN0lBd0ZnWEU4MzdlZjlvY1JaMWYyeWhsQjZQQVBqcGFfSnhWN2ItcU9BOEI1RzBWRnVfZHplbWlaU3F5VlB4LTIyUFBDcFBQQkFOaE8yUHFtNWZiYVdWbElNWWRLM1JDdm1uNHZhOTFwZHhuSWMwUzZDUXlCUUNmdE03MUFVR293dlhlR1NrYU1LQnVLekFJQUx3c0dLeVRTdjYyV2dtM1ZHSms4Z2ZISXMzTGwwNVhERQ?oc=5"
+   }
+  },
+  {
+   "who": "소프트뱅크",
+   "what": "AI 우려에 신용위험 지표 4년 만에 최고, 주가 급락",
+   "source": {
+    "label": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWEyYjlxaW9WTFZLanBpRjhNVnFKS1NhanJZRjl2WHk5Wm9TUDhOaFlyMXRHZTZyajFqb2RPOXUwTHN0T2VuVlNYUmZVanVGU1JRWTE5X2ZiWHY0MDdXRVltemF5cVZSZFM3b3Q5VXl6VnFlc0l1ZHptbXR4dG1Vd054ODNYVXRqOEpqLQ?oc=5"
+   }
+  },
+  {
+   "who": "CJ CGV",
+   "what": "3분기 영업이익 736억 원으로 역대 최대, 국내 사업 흑자 전환",
+   "source": {
+    "label": "연합뉴스 마켓",
+    "url": "https://www.yna.co.kr/view/AKR20261106164500005"
+   }
+  },
+  {
+   "who": "쿠팡",
+   "what": "법원, 2,011억 원 과징금 집행정지는 인용하고 4,235억 원 과징금 신청은 기각",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48444"
+   }
+  },
+  {
+   "who": "SSG닷컴",
+   "what": "고객 개인정보 유출, KISA·개인정보위에 신고",
+   "source": {
+    "label": "조선일보 경제",
+    "url": "https://www.chosun.com/economy/market_trend/2026/11/06/GBSTKYRTGRRTOZBRMQ4GEM3GMQ/"
+   }
+  }
+ ],
+ "trends": [
+  {
+   "title": "AI 우려가 주식에서 '빚'으로 번진다",
+   "evidence": [
+    {
+     "text": "소프트뱅크 신용위험 4년 만에 최고, 아시아 채권 손실 주도",
+     "source": {
+      "label": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWEyYjlxaW9WTFZLanBpRjhNVnFKS1NhanJZRjl2WHk5Wm9TUDhOaFlyMXRHZTZyajFqb2RPOXUwTHN0T2VuVlNYUmZVanVGU1JRWTE5X2ZiWHY0MDdXRVltemF5cVZSZFM3b3Q5VXl6VnFlc0l1ZHptbXR4dG1Vd054ODNYVXRqOEpqLQ?oc=5"
+     }
+    },
+    {
+     "text": "ING, 데이터센터 대출 5억 달러어치 매각 추진",
+     "source": {
+      "label": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW45UENNN0lBd0ZnWEU4MzdlZjlvY1JaMWYyeWhsQjZQQVBqcGFfSnhWN2ItcU9BOEI1RzBWRnVfZHplbWlaU3F5VlB4LTIyUFBDcFBQQkFOaE8yUHFtNWZiYVdWbElNWWRLM1JDdm1uNHZhOTFwZHhuSWMwUzZDUXlCUUNmdE03MUFVR293dlhlR1NrYU1LQnVLekFJQUx3c0dLeVRTdjYyV2dtM1ZHSms4Z2ZISXMzTGwwNVhERQ?oc=5"
+     }
+    },
+    {
+     "text": "헤지펀드가 AI 관련 채권을 '대량 매도'(RBC)",
+     "source": {
+      "label": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdnZrQ0ZFd0ZvSEh6Ui1GYXNyOGxSS2pNYVB6bFZJUjJpYUVQX3Fsa0hnczhYaS1wTTVyN1JWcEpkZmpHd2VtbE81ZHBiU09hNWMxNWJoRC1ub0RUZ0FfNEdMR3lkdS1oQVFIUEFvYTc5cDJYS0Z2Nndmb25nX1pTUHBwNC03WldVVlVSWkxLeXVVWjUzTWdZSTZwSnlGWEJKb01VTVA2ODg5NHl5bEdiUg?oc=5"
+     }
+    },
+    {
+     "text": "스페이스X 부도 위험 지표 최고치",
+     "source": {
+      "label": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGJsa2I1NzhqeU5WWEVkVVZyUUpTNmh0SmZtQnBPZG5PbDZoUkp4WV9WSGY4blNtR0ZWUE12VmFZSzl6TVJVV2U0cW92MHBUdXRQc1dpcUlQdzZWMC1SNThZOWhQTkRZa0o0RkNzMHdOdXNrNDBsaXZtaHBYd3ZNS0VrcWNHRE1ZTFc2QXF2UE5TMkRhOEIwWXU0LU5tSlE0ZGNkRlFwWWNROTZ6ajYzUXBkQQ?oc=5"
+     }
+    },
+    {
+     "text": "헤지펀드들 포지션 정리·인력 감축",
+     "source": {
+      "label": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFBSNTF3bXFWS1hzT2hRbDZZZFlJTUJlZ2U0OHdTdTBfcEEwdlRUSkk3bFlDM3Ixa1JaR3BUM1dyUFNRU0dWZG5FWE9pZHZwYjBRbGJtZGMzRk9ZZTdaNTAtbUJEWldKT1E0VTI1Q1hfcFEyNmg0WkVwaUdLcGIxZkJCRVZCcWxmX24wRGFEbnhqaFR0ZXNwSW8tNVlTVU5wNk92dVZyLWdiUQ?oc=5"
+     }
+    }
+   ],
+   "insight": "AI 설비 투자를 떠받치던 차입과 대출이 흔들리면서 주가 하락이 신용시장으로 옮겨붙고 있습니다. 자금 조달이 막히면 데이터센터 투자가 더 늦어지는 악순환이 생길 수 있어 회사채·대출 시장 동향을 함께 봐야 합니다."
+  },
+  {
+   "title": "안전자산으로의 대이동: 국채·금으로 쏠리는 돈",
+   "evidence": [
+    {
+     "text": "국고채 3년물 연 3.613%, 이번 주 10년물은 15.5bp 하락",
+     "source": {
+      "label": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261106148851008"
+     }
+    },
+    {
+     "text": "미 국채 강세, 트레이더들은 고용보고서 앞두고 강세 베팅",
+     "source": {
+      "label": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWdhbUJ5Ui1rc0tMbmNPTERJVDR2Wm1LX2pCeV9iQTlYMU1GZWVCNmRuMWJGS2dnZnppWEtpazQ1S1k3M0NQNXdoOEhVY2JXRjBzamFuaE9tWHZyV0Z5VXEtVVZLbFZWSkJSLVVEX0hrb0o1WHFlc1FYbDU5OTlvTnZjTU83bVpiM05RVjA4WXFNaWVodUJxRkxsOWp1M3FpcnppMUpoZ1ZIazBZb3c?oc=5"
+     }
+    },
+    {
+     "text": "중국 10년물 금리 장중 사상 최저",
+     "source": {
+      "label": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjhwREpfcE9NUlVZNExsTE1ZMGphR01NMVVlVFJhT3ZpRmIzUXQ1UHl3LTVzTGIwZklGdkREbFRHNHIzaUhYVVJNelhDNkdFRUFlUWNUZURmTjZfTVNtNmZzR3dZZ2hmNkpWS0hRUXE2Zm54M2JHaU4tSjBpV1JaRHpsS1psbzNnUlZuUDFGb3ZDTHdMQ1o2TTFfei1NSzk1azM4bS1obWRRajNsUWo2Zw?oc=5"
+     }
+    },
+    {
+     "text": "일본 국채도 위험 회피 수요로 강세",
+     "source": {
+      "label": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmJyTTlSNWdpa2E0WjU1VUdBOG5KNzVFem1CWVgwUHE3dVR4V3VXYjZBaTdZeE9Ndk80MDc4WVlHb0JjcmxEQXBfeEo0ZTRTWUFYWGJuaFBqUEJFX0NjVkxQUGdublYxVGo3UW5YM0hhbnd6a3ZXVnRIU2tBRXREenRUeVpfTW95ZmF0Q1VFM0FfdG41ZnJnUTE1a3N3Nkx2aHlqZ1luQVFoQmdsS24xSXpn?oc=5"
+     }
+    },
+    {
+     "text": "금값, 8월 이후 최대 주간 상승 예상",
+     "source": {
+      "label": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3hSNk9RRDhKMmNvdkhnQnN4VkVLaUgwUGJ1dGc5czdxeWI1cHBVNVIwSHlMUWZQekRtd3Q2S2NxVGxwWVU0RUhma1kzLVNoal9BeUllSzMwbUZqaklRRDdKZUd6Q0tVXzBTQ2Y4UEtyUGZodXZHYXBtS1hLYms0S28ycVBtWUpET0JXOHpRRVNmOUx4UXBjYWFSV1N3Y0xmUkRaQkRZV2VfRjFCNzFqdldFZHQ?oc=5"
+     }
+    }
+   ],
+   "insight": "주식에서 빠진 돈이 각국 국채와 금으로 몰리며 금리가 빠르게 내려가고 있습니다. 대출 금리에는 긍정적이지만, 경기 둔화를 미리 반영하는 신호일 수 있습니다."
+  },
+  {
+   "title": "개인 투자자의 레버리지 손실과 '피난처' 찾기",
+   "evidence": [
+    {
+     "text": "레버리지로 물타기한 개인 투자자는 큰 손실, 하락에 베팅한 외국인은 수익",
+     "source": {
+      "label": "매일경제",
+      "url": "https://www.mk.co.kr/news/stock/12200681"
+     }
+    },
+    {
+     "text": "퇴직연금 계좌 손실에 '울고 싶다' 반응",
+     "source": {
+      "label": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261106060751008"
+     }
+    },
+    {
+     "text": "정부, 신용융자 담보비율 유지의무 3개월 면제로 반대매매 차단",
+     "source": {
+      "label": "뉴닉",
+      "url": "https://newneek.co/@newneek/article/48449"
+     }
+    },
+    {
+     "text": "반도체 피난처로 여겨진 은행·자동차주도 하락",
+     "source": {
+      "label": "한국경제",
+      "url": "https://www.hankyung.com/article/2026110615111"
+     }
+    },
+    {
+     "text": "미국 개인 투자자, 2020년 이후 다섯 번째로 큰 매도일",
+     "source": {
+      "label": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVkdCdWRVd0lFQ3lZbHZoQkpRdHh6RlNHcHVTQWdzWWkxV3hzcUkxbkstTzNMTjNxckhQa2M2a1BSVmg4S0R4YWRyZmpNUGYtblNBRFVwTWI4VUVjNnRTRldLWW92N3Jqa2xTYTc1MkpXT3pyTnU1M0E4c2ZSbG5oX3JaUkVJYUFHWDVzbHpoRjVpblY2d3FuTWNuVDdtNVdld1NfM2JVaWRjdVJFVnBDYU51VmJjSDhic2RlREs4TU1NYl9SQWxWckRwTEtCdWdnbGc?oc=5"
+     }
+    }
+   ],
+   "insight": "빚을 낸 투자와 연금 계좌까지 손실이 커지면서 투매가 투매를 부르는 흐름이 나타났습니다. 반대매매 유예는 시간을 벌어 주지만, 레버리지 축소는 당분간 수급 부담으로 남을 수 있습니다."
+  }
+ ],
+ "explainers": [
+  {
+   "title": "데이터센터 규제 공포에 뉴욕증시 작년 4월 이후 최대 낙폭",
+   "summary": "민주당의 의회 장악 뒤 데이터센터 규제 우려로 뉴욕증시가 크게 떨어진 과정을 정리한 글입니다. 머니스토리 인기 1위, 1.9만 명 읽음.",
+   "source": {
+    "label": "네이버페이 머니스토리",
+    "url": "https://story.pay.naver.com/content/3889_2_C1"
+   }
+  },
+  {
+   "title": "코스피 8%대 급락에 정부 긴급 대응, 빚투 반대매매 3개월간 막는다",
+   "summary": "정부가 9일부터 3개월간 증권사의 신용융자 담보비율 유지의무를 면제해 반대매매로 인한 추가 급락을 막기로 한 배경을 설명합니다.",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48449"
+   }
+  },
+  {
+   "title": "미국 중간선거 민주당 압승에 'AI 거품론'이 다시 불붙은 이유 (feat. 네오클라우드)",
+   "summary": "규제 강화 우려로 네오클라우드 기업 주가가 급락하며 AI 공급망 전반으로 부담이 번지는 구조를 풀었습니다.",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48439"
+   }
+  },
+  {
+   "title": "미국 중간선거 '블루 쓰나미' 관세 부담 줄고 반도체 흔들릴까요?",
+   "summary": "생활비 부담이 공화당 패배의 주요 이유로 꼽힌 가운데, 민주당 의회가 관세와 반도체 업황에 미칠 영향을 짚었습니다.",
+   "source": {
+    "label": "어피티",
+    "url": "https://uppity.co.kr/%eb%af%b8%ea%b5%ad-%ec%a4%91%ea%b0%84%ec%84%a0%ea%b1%b0-%eb%b8%94%eb%a3%a8-%ec%93%b0%eb%82%98%eb%af%b8-%ea%b4%80%ec%84%b8-%eb%b6%80%eb%8b%b4-%ec%a4%84%ea%b3%a0-%eb%b0%98%eb%8f%84/"
+   }
+  },
+  {
+   "title": "ETF와 ETN은 내 돈을 굴리는 방식이 달라요",
+   "summary": "둘 다 주식처럼 거래하지만 자산을 보유하는 방식과 발행사 위험이 달라 투자 전 확인해야 할 차이를 정리했습니다. 머니스토리 인기 5위, 3,585명 읽음.",
+   "source": {
+    "label": "네이버페이 머니스토리",
+    "url": "https://story.pay.naver.com/content/3842_1_C1"
+   }
+  },
+  {
+   "title": "코인 과세, 2029년으로 또 미뤄질까? 2020년 법제화 이후 네 번째 유예 추진, 이유는?",
+   "summary": "내년 1월 시행 예정이던 가상자산 소득 과세를 2029년까지 2년 더 미루고, 유예 기간에 손실 이월공제를 도입하는 방안을 다뤘습니다.",
+   "source": {
+    "label": "뉴닉",
+    "url": "https://newneek.co/@newneek/article/48422"
+   }
+  }
+ ],
+ "search_trends": {
+  "note": "Google 트렌드 한국 · 11/06 저녁 수집 시점 기준",
+  "items": [
+   {
+    "term": "퇴직",
+    "traffic": "20000+"
+   },
+   {
+    "term": "티빙",
+    "traffic": "2000+"
+   },
+   {
+    "term": "어도어",
+    "traffic": "1000+"
+   },
+   {
+    "term": "가상자산",
+    "traffic": "500+"
+   }
+  ],
+  "comment": "'퇴직'은 정부가 퇴직연금 사업자와 제도 개편을 논의했다는 소식, '티빙'은 3분기 영업손실 72억 원 실적, '어도어'는 뉴욕타임스가 보도한 뉴진스 계약서 논란, '가상자산'은 소득 과세 2년 유예 추진 소식과 함께 검색됐습니다. 나머지 급상승 검색어는 한국시리즈 등 스포츠 관련이라 뺐습니다."
+ },
+ "schedule": {
+  "note": "모두 한국 시간",
+  "rows": [
+   {
+    "when": "11/06(금) 22:30",
+    "event": "미국 10월 고용보고서",
+    "watch": "로이터 '10월 고용 증가 폭 커질 전망', 안전자산 랠리 지속 여부",
+    "hot": true
+   },
+   {
+    "when": "11/09(월)",
+    "event": "신용융자 담보비율 유지의무 면제 시작(3개월)",
+    "watch": "반대매매 물량 감소 여부",
+    "hot": true
+   },
+   {
+    "when": "11/09(월)",
+    "event": "보금자리론 금리 0.1%포인트 인상 적용",
+    "watch": "연 5.0~5.3%",
+    "hot": false
+   },
+   {
+    "when": "11/10(화)~11(수)",
+    "event": "미·러·우크라 3자 종전 실무 회담(아부다비)",
+    "watch": "에너지·흑해 휴전 논의",
+    "hot": false
+   },
+   {
+    "when": "11/13(금)",
+    "event": "IPO 코너스톤 투자자·사전수요예측 제도 시행",
+    "watch": "얼어붙은 공모 시장 영향",
+    "hot": false
+   }
+  ],
+  "foot": "미국 고용보고서 시각은 11/4 웹 검색으로 확인했고, 나머지는 연합뉴스·뉴닉 보도 기준입니다. 헤그세스 국방장관 탄핵 표결은 '이르면 다음 주'로만 보도돼 일정에서 뺐습니다.",
+  "sources": [
+   {
+    "label": "Thrive in Markets (고용보고서 일정)",
+    "url": "https://thriveinmarkets.com/calendar/dates/nfp-2026/"
+   },
+   {
+    "label": "뉴닉 (반대매매 유예)",
+    "url": "https://newneek.co/@newneek/article/48449"
+   },
+   {
+    "label": "뉴닉 (보금자리론)",
+    "url": "https://newneek.co/@newneek/article/48313"
+   },
+   {
+    "label": "연합뉴스 (종전 협상)",
+    "url": "https://www.yna.co.kr/view/AKR20261103187651085"
+   },
+   {
+    "label": "뉴닉 (코너스톤 제도)",
+    "url": "https://newneek.co/@newneek/article/48372"
+   }
+  ]
+ },
+ "watch": {
+  "opportunities": [
+   {
+    "text": "국고채 3년물이 연 3.613%까지 내려 대출 금리 부담이 줄어들 여지",
+    "source": {
+     "label": "연합뉴스 (국고채)",
+     "url": "https://www.yna.co.kr/view/AKR20261106148851008"
+    }
+   },
+   {
+    "text": "삼양식품·CGV처럼 수출 소비재·콘텐츠 기업은 급락장에서도 역대 최대 실적",
+    "source": {
+     "label": "연합뉴스 마켓",
+     "url": "https://www.yna.co.kr/view/AKR20261106131851527"
+    }
+   },
+   {
+    "text": "이란이 호르무즈 조기 재개방을 제안해 유가 하락 기대",
+    "source": {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/2026110696227"
+    }
+   },
+   {
+    "text": "엔비디아의 네이버 지분 투자 완료로 국내 AI 인프라 협력 본격화",
+    "source": {
+     "label": "KBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82QkFOQmZGaXRyVlRkeUJhUDZEMDFUMVBCc2I5a25odU40WTFIYW1jX0xNcFVzdEVJaS1jaS1IVmVJNEh4YkJvVkpKVzkwUVNjY3E0N3hyMEltVG8?oc=5"
+    }
+   }
+  ],
+  "risks": [
+   {
+    "text": "외국인이 6거래일 연속 11조9,949억 원 순매도",
+    "source": {
+     "label": "연합뉴스 (숫자로 본 급락)",
+     "url": "https://www.yna.co.kr/view/AKR20261106071651008"
+    }
+   },
+   {
+    "text": "텍사스 등 데이터센터 신규 승인 중단이 메모리 수요 둔화로 이어질 위험",
+    "source": {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/2026110603997"
+    }
+   },
+   {
+    "text": "원/달러가 장중 1,362.2원까지 올라 수입 물가·자금 이탈 부담",
+    "source": {
+     "label": "연합뉴스 (환율)",
+     "url": "https://www.yna.co.kr/view/AKR20261106136200002"
+    }
+   },
+   {
+    "text": "트럼프 '관세 300%' 위협 등 행정 권한에 기댄 통상 압박 강화",
+    "source": {
+     "label": "한국경제 국제",
+     "url": "https://www.hankyung.com/article/2026110615781"
+    }
+   }
+  ],
+  "keywords": [
+   "서킷브레이커",
+   "데이터센터 규제",
+   "미 고용보고서",
+   "반대매매",
+   "관세 300%",
+   "호르무즈"
+  ]
+ },
+ "notes": [
+  "11/5 브리핑은 만들지 않았습니다. 5일 코스피 급락(이틀 합계 −10.98%)은 이 판에 함께 담았습니다.",
+  "미국 증시는 6일 장이 열리기 전이라 5일 종가입니다. 5일 WTI·브렌트 종가와 필라델피아 반도체지수 값은 기사에서 확인하지 못했습니다."
+ ]
+}
