@@ -1,0 +1,221 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "16:55",
+ "collection": {"window": "11/15 16:31 – 11/16 16:31 KST", "feeds_ok": 30, "feeds_total": 30, "articles": 1178, "failed": []},
+ "title": "오늘의 비즈니스·경제 브리핑",
+ "lead": "젠슨 황 전 CEO의 사임 뒤 엔비디아가 AI 업계 자금 지원을 줄일 것이라는 보도와 '빅위크' 경계감이 겹치며 코스피가 3.59% 내린 5,100.50으로 마쳤고, 외국인은 1조3,800억 원 넘게 팔았습니다. 이번 주는 17일(현지) 엔비디아 실적, 19일 앤트로픽 상장과 미·중·러 첫 3자 정상회담이 잇따라 시장의 방향을 가를 전망입니다.",
+ "market": {
+  "note": "국내 11/16 종가 · 미국과 유가는 11/13(현지) 종가를 확인하지 못함",
+  "tiles": [
+   {"name": "코스피", "value": "5,100.50", "change": "190.03 (−3.59%)", "dir": "down", "note": "11/16 · 연합뉴스"},
+   {"name": "코스닥", "value": "665.65", "change": "34.01 (−4.86%)", "dir": "down", "note": "11/16 · 연합뉴스·머니투데이"},
+   {"name": "원/달러", "value": "1,335.7", "change": "1.0원", "dir": "down", "note": "11/16 15:30 · 연합뉴스"},
+   {"name": "국고채 10년", "value": "확인 불가", "change": "—", "dir": "na", "note": "11/16 마감 기사 미수집"},
+   {"name": "S&P 500", "value": "확인 불가", "change": "—", "dir": "na", "note": "11/13 종가 기사 미수집"},
+   {"name": "나스닥", "value": "확인 불가", "change": "—", "dir": "na", "note": "11/13 종가 기사 미수집"},
+   {"name": "다우", "value": "확인 불가", "change": "—", "dir": "na", "note": "11/13 종가 기사 미수집"},
+   {"name": "필라델피아 반도체", "value": "확인 불가", "change": "—", "dir": "na", "note": "11/13 종가 기사 미수집"},
+   {"name": "WTI", "value": "확인 불가", "change": "—", "dir": "na", "note": "11/13 종가 기사 미수집"},
+   {"name": "브렌트", "value": "확인 불가", "change": "—", "dir": "na", "note": "11/13 종가 기사 미수집"},
+   {"name": "미 국채 10년", "value": "확인 불가", "change": "—", "dir": "na", "note": "FRED 키 미등록"},
+   {"name": "VIX", "value": "확인 불가", "change": "—", "dir": "na", "note": "FRED 키 미등록"}
+  ],
+  "foot": "국내는 16일 종가입니다. 코스피는 0.28% 오른 5,305.40으로 출발했다가 한때 5,069.83(−4.17%)까지 밀렸고, 12일부터 3거래일 연속 하락했습니다. 원/달러는 서울 외환시장 15:30 기준가이며, 달러인덱스는 장중 103.48로 1년 7개월여 만에 가장 높았습니다. 미국 증시·유가의 13일(금) 종가는 수집 범위(최근 24시간) 밖이라 기사로 확인하지 못했고, 웹 검색에서도 날짜가 맞는 기사를 찾지 못해 '확인 불가'로 뒀습니다. 국고채 금리는 이 판을 만든 시각까지 마감 기사가 나오지 않았습니다.",
+  "sources": [
+   {"label": "연합뉴스 (코스피 마감)", "url": "https://www.yna.co.kr/view/AKR20261116134900008"},
+   {"label": "머니투데이 (코스닥 마감)", "url": "https://www.mt.co.kr/stock/2026/11/16/2026111615340378447"},
+   {"label": "연합뉴스 (환율)", "url": "https://www.yna.co.kr/view/AKR20261116130500002"},
+   {"label": "연합뉴스 (환율 기준가)", "url": "https://www.yna.co.kr/view/AKR20261116126500002"}
+  ]
+ },
+ "domestic": [
+  {"title": "코스피 3.59% 급락한 5,100.50… 외국인 1.4조 매도, 삼전·닉스 3%·7%대 하락",
+   "tags": ["증시", "반도체"], "count": 60,
+   "summary": "코스피는 16일 190.03포인트(3.59%) 내린 5,100.50으로 마쳐 3거래일 연속 하락했습니다. 0.28% 오른 5,305.40으로 출발했지만 곧 하락 전환해 한때 5,069.83까지 밀렸습니다. 외국인이 1조3,837억 원, 기관이 4,598억 원을 팔았고 개인만 1조3,484억 원을 샀습니다. 삼성전자와 SK하이닉스는 각각 3%대, 7%대 급락했고 코스닥은 4.86% 내린 665.65였습니다.",
+   "why": "WSJ는 콜레트 크레스 임시 CEO 체제의 엔비디아가 AI 업계 자금 지원을 크게 줄일 것이라고 보도했고, 이번 주 엔비디아 실적·앤트로픽 상장·FOMC 의사록을 앞둔 경계감도 커졌습니다. SK하이닉스 급락으로 SK그룹 시가총액은 1천조 원에 턱걸이했습니다.",
+   "sources": [
+    {"label": "연합뉴스 (코스피 마감 종합)", "url": "https://www.yna.co.kr/view/AKR20261116134900008"},
+    {"label": "연합뉴스 ('AI 빅위크' 경계감)", "url": "https://www.yna.co.kr/view/AKR20261116113751008"},
+    {"label": "조선일보 경제 (마켓뷰)", "url": "https://www.chosun.com/economy/stock-finance/2026/11/16/GY2GEMTBG5RGKNJXGU4DIN3FMY/"},
+    {"label": "머니투데이 (내일의전략)", "url": "https://www.mt.co.kr/stock/2026/11/16/2026111615520233166"},
+    {"label": "연합뉴스 마켓 (SK그룹 시총)", "url": "https://www.yna.co.kr/view/AKR20261116138500008"}
+   ]},
+  {"title": "3분기 실적: SK스퀘어 영업익 7.9조·LS 90%↑, 오뚜기 34.5%↓·두나무 적자 전환",
+   "tags": ["실적"], "count": 54,
+   "summary": "SK스퀘어의 3분기 영업이익은 7조9,406억 원으로 1년 전의 3배가 넘었고, ㈜LS는 전력 슈퍼사이클에 힘입어 영업이익 4,882억 원(+90%)을 냈습니다. 오리온은 매출 9,227억 원(+11.3%), 영업이익 1,509억 원(+9.4%)으로 성장했고, CJ올리브영 매출은 1조7,290억 원으로 11% 늘었습니다. 반면 오뚜기 영업이익은 363억 원으로 34.5% 줄었고, 업비트 운영사 두나무는 거래 위축으로 순손실 186억 원을 내 적자로 돌아섰습니다.",
+   "why": "반도체 지분가치와 전력망 투자 수혜 기업은 실적이 크게 뛰었지만, 내수 식품과 가상자산 거래소는 부진했습니다. 증시 급락 속에서도 실적이 견조한 업종과 아닌 업종의 차별화가 커지고 있습니다.",
+   "sources": [
+    {"label": "연합뉴스 마켓 (SK스퀘어)", "url": "https://www.yna.co.kr/view/AKR20261116117900017"},
+    {"label": "연합뉴스 (LS)", "url": "https://www.yna.co.kr/view/AKR20261116135700003"},
+    {"label": "조선일보 경제 (오리온)", "url": "https://www.chosun.com/economy/market_trend/2026/11/16/GY2TSN3BMIZDSZBVGBSGGZRRGE/"},
+    {"label": "연합뉴스 (오뚜기)", "url": "https://www.yna.co.kr/view/AKR20261116124800030"},
+    {"label": "연합뉴스 (두나무)", "url": "https://www.yna.co.kr/view/AKR20261116137400002"},
+    {"label": "연합뉴스 마켓 (CJ올리브영)", "url": "https://www.yna.co.kr/view/AKR20261116139700030"}
+   ]},
+  {"title": "세무사 수석의 'AI 커닝' 파문… 정부 TF로 3~5년 합격자 재점검, 거래소 채용서도 AI 안경 적발",
+   "tags": ["AI", "시험", "정책"], "count": 32,
+   "summary": "올해 세무사 시험 수석 합격자가 초소형 카메라와 생성형 AI를 이용한 부정행위를 자백하자, 재정경제부는 국세청·한국산업인력공단과 '부정행위 대응 TF'를 꾸려 시험 무효와 5년간 응시자격 정지 절차에 들어갔습니다. 정부는 최근 3~5년간 세무사 최종 합격자의 성적도 다시 점검하기로 했습니다. 한국거래소도 6월 신입 채용 필기시험에서 AI 안경으로 시험지를 찍으려던 응시자를 적발해 5년간 응시를 제한한 사실이 뒤늦게 알려졌습니다.",
+   "why": "19일 수능을 사흘 앞두고 교육부 대책에 초소형 카메라 대응이 빠졌다는 논란이 일고 있습니다. 국가자격시험과 채용시험 전반의 신뢰 문제로 번지며 전파탐지기 등 감독 장비 수요도 커질 전망입니다.",
+   "sources": [
+    {"label": "조선일보 경제 (TF·처분)", "url": "https://www.chosun.com/economy/economy_general/2026/11/16/HAYWEYZXGY2WGMZVMMZDAOLEGA/"},
+    {"label": "연합뉴스 (합격자 재점검)", "url": "https://www.yna.co.kr/view/AKR20261116134300002"},
+    {"label": "머니투데이 (거래소 채용)", "url": "https://www.mt.co.kr/stock/2026/11/16/2026111616183810485"},
+    {"label": "뉴닉 (수능 대책)", "url": "https://newneek.co/@newneek/article/48721"},
+    {"label": "FT", "url": "https://www.ft.com/content/5cf11f3d-0d22-4eb5-8279-7533e161e4d0?syn-25a6b1a6=1"}
+   ]},
+  {"title": "롯데 3세 신유열, 입사 6년 만에 사장 승진… 신설 경영전략실서 그룹 전략 총괄",
+   "tags": ["인사", "롯데"], "count": 10,
+   "summary": "롯데그룹은 16일 2027년 정기 임원인사에서 신동빈 회장의 장남 신유열 롯데지주 미래성장실장을 사장으로 승진시키고, 신설 경영전략실을 맡겨 그룹 중장기 전략과 포트폴리오 조정을 총괄하게 했습니다. 지주는 단일 전문경영인 체제로 바꾸고 식품·유통은 사업별 대표 체제를 강화했습니다. 서정호 롯데웰푸드 대표는 사장으로 승진했고, 현장 경험이 많은 여성 임원 8명(7명이 40대)도 발탁됐습니다.",
+   "why": "오너 3세의 역할이 커지면서 화학·유통 등 부진 사업의 재편 속도가 관심입니다. 사업별 책임경영 강화가 실적 개선으로 이어질지가 시험대입니다.",
+   "sources": [
+    {"label": "전자신문 (종합)", "url": "https://www.etnews.com/20261116000359"},
+    {"label": "조선일보 경제", "url": "https://www.chosun.com/economy/market_trend/2026/11/16/CJULONS2TNETZL7ICZYE6RLNFQ/"},
+    {"label": "한국경제 경제", "url": "https://www.hankyung.com/article/202611169238g"},
+    {"label": "조선일보 경제 (여성 임원)", "url": "https://www.chosun.com/economy/market_trend/2026/11/16/HFRDGNZVGI3GKZRTHAZTEODEGM/"},
+    {"label": "조선일보 경제 (식품 계열사)", "url": "https://www.chosun.com/economy/market_trend/2026/11/16/GQZTKOJUMVSWKZJVGJQTEYJVGM/"}
+   ]},
+  {"title": "신규 코픽스 3.62%, 2년 8개월 만에 최고… 변동형 주담대 금리가 고정형 추월",
+   "tags": ["금리", "대출"], "count": 6,
+   "summary": "은행권 주택담보대출 변동금리의 기준인 코픽스(신규 취급액 기준)가 10월 연 3.62%로 두 달 연속 올라 2년 8개월 만에 가장 높아졌습니다. 예금금리 인상으로 은행의 조달비용이 늘어난 영향입니다. 매일경제는 변동형 주담대 금리가 고정형을 웃돌기 시작했다고 전했습니다.",
+   "why": "코픽스 상승은 변동금리 대출자의 이자 부담으로 바로 이어집니다. 보금자리론 10년 만기 금리도 처음 5%대에 올라 가계의 대출 부담이 커지고 있습니다.",
+   "sources": [
+    {"label": "연합뉴스 (종합)", "url": "https://www.yna.co.kr/view/AKR20261116115851002"},
+    {"label": "매일경제 경제", "url": "https://www.mk.co.kr/news/economy/12209978"},
+    {"label": "매일경제 경제 (변동형 추월)", "url": "https://www.mk.co.kr/news/economy/12210025"}
+   ]}
+ ],
+ "global": [
+  {"title": "젠슨 황 사임 뒤 엔비디아 CEO 공백… 베선트 '외부 인사로', 황은 복귀 논의·의회 출석 동의",
+   "tags": ["AI", "반도체", "지배구조"], "count": 42,
+   "summary": "엔비디아는 12일(현지시간) 젠슨 황 CEO가 경영진과 이사회에서 물러났다고 발표했고, 2013년부터 재무를 맡아온 콜레트 크레스 CFO가 임시 CEO를 맡았습니다. 베선트 재무장관은 새 CEO를 '회사 밖에서' 찾아야 한다고 했고, FT는 황 전 CEO가 측근들과 복귀를 논의하고 있다고 보도했습니다. 황 전 CEO는 미 하원 중국특위의 비공개 조사에 출석하기로 했고, 복귀를 촉구하는 온라인 청원에는 14만 명이 서명했습니다.",
+   "why": "WSJ는 엔비디아가 AI 기업에 '백지수표'를 써 주던 역할을 줄일 것이라고 전해, AI 스타트업의 자금줄과 GPU 수요 전망이 함께 흔들리고 있습니다. 한편 트럼프 행정부는 엔비디아·아마존·MS·오픈AI·앤트로픽 등 20여 곳을 'AI 내셔널 챔피언'으로 지정해 수출을 지원할 계획입니다.",
+   "sources": [
+    {"label": "어피티 (사임 경과)", "url": "https://uppity.co.kr/%ec%a0%a0%ec%8a%a8-%ed%99%a9-%ec%97%86%eb%8a%94-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-ai-%ec%97%85%ea%b3%84-%eb%8f%88%ec%a4%84-%ec%97%ad%ed%95%a0-%ea%b3%84%ec%86%8d%ed%95%a0%ea%b9%8c/"},
+    {"label": "Reuters (베선트)", "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5"},
+    {"label": "조선일보 경제 (복귀 논의)", "url": "https://www.chosun.com/economy/tech_it/2026/11/16/KABQGST32BD4THOVAFWQBQEZLA/"},
+    {"label": "머니투데이 (의회 출석)", "url": "https://www.mt.co.kr/world/2026/11/16/2026111615201268120"},
+    {"label": "WSJ (자금 지원 축소)", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg?oc=5"},
+    {"label": "머니투데이 (AI 내셔널 챔피언)", "url": "https://www.mt.co.kr/world/2026/11/16/2026111614592182319"}
+   ]},
+  {"title": "이란, 이틀 만에 또 바레인 美기지 공격… '합의 길은 열려 있다'면서 협상판 흔들기",
+   "tags": ["중동", "원유"], "count": 18,
+   "summary": "이란이 9월 초 이후 2개월여 만에 걸프 국가 내 미군 시설 공격을 재개해 이틀 만에 다시 바레인 기지를 겨냥했고, 예멘 후티 반군도 공세를 강화했습니다. 블룸버그는 이란이 공격과 함께 미국과의 합의 길은 열려 있다고 밝혔다고 전했습니다. 연합뉴스는 미국의 해상봉쇄와 경제 제재에 맞서 이란이 군사 행동으로 협상판을 흔들려 한다고 분석했습니다.",
+   "why": "로이터에 따르면 국제유가는 공급 과잉 전망에 하락 압력을 받고 있지만, 걸프 지역 공격이 이어지면 다시 출렁일 수 있습니다. 19일 미·중·러 정상회담의 의제에도 이란 전쟁이 올라 있습니다.",
+   "sources": [
+    {"label": "연합뉴스 (바레인 공격)", "url": "https://www.yna.co.kr/view/AKR20261116083200704"},
+    {"label": "Bloomberg", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXpxVVpLejY0TU5TcHFqQUFIY1YtTThlNkc3MFJ2OVkwM2JZZHcyeHF5WVkzVzdXX1IwZHlWeDBPcnkyeXdtQXkyWHpKdlU4aGl6SnA4cmVfMmxUWEhBMlR4MjluNkNUNUJieUxhSDlZZzVRYkxKdUxYY0RGNTJGWXB6NlpPb09jcWhOYS0wOE40QjdnZWRzTFNPOTZ1dEpuTERPWFcyZkxqcmwwcF80V2VfNA?oc=5"},
+    {"label": "연합뉴스 (협상판 흔들기)", "url": "https://www.yna.co.kr/view/AKR20261116026300009"},
+    {"label": "Reuters (유가)", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5"}
+   ]},
+  {"title": "19일 선전서 트럼프·시진핑·푸틴 첫 3자 정상회담… 핵 감축·이란 전쟁 논의",
+   "tags": ["외교", "미중러"], "count": 14,
+   "summary": "중국 정부가 19일 광둥성 선전에서 시진핑 국가주석, 트럼프 미국 대통령, 푸틴 러시아 대통령의 3자 정상회담을 연다고 공식 발표했습니다. 미·중·러 정상이 한자리에 모이는 것은 처음이며, 핵무기 감축과 이란 전쟁이 주요 의제로 거론됩니다. FT는 이번 주 아시아 외교 일정을 '얄타 2.0'에 빗댔습니다.",
+   "why": "중간선거에서 패한 트럼프 대통령이 외교에서 성과를 내려 할 수 있다는 분석이 나옵니다. 한국은 회담에서 빠져 있어 한반도 문제가 다뤄질지 정부가 경계하고 있습니다.",
+   "sources": [
+    {"label": "연합뉴스 (공식 발표)", "url": "https://www.yna.co.kr/view/AKR20261116052351083"},
+    {"label": "뉴닉", "url": "https://newneek.co/@newneek/article/48711"},
+    {"label": "FT", "url": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1"},
+    {"label": "머니투데이 (슈퍼위크)", "url": "https://www.mt.co.kr/world/2026/11/16/2026111613484723593"}
+   ]},
+  {"title": "일본 3분기 0.02% 역성장… 물가에 가계 소비 위축, 4분기 만에 마이너스",
+   "tags": ["일본", "성장률"], "count": 8,
+   "summary": "일본의 3분기 실질 GDP는 전 분기보다 0.02% 줄어 연율 환산 0.1% 역성장했고, 4분기 만에 마이너스로 돌아섰습니다. 로이터는 물가 상승이 가계를 압박한 것을, 블룸버그는 궂은 날씨에 따른 소비 부진을 원인으로 꼽았습니다.",
+   "why": "엔화 약세와 물가 부담 속 성장이 꺾이면서 일본은행의 금리 인상 판단이 더 어려워졌습니다. 같은 날 발표된 중국 10월 산업생산·소매판매도 예상에 못 미쳐 아시아 경기 둔화 우려가 커졌습니다.",
+   "sources": [
+    {"label": "Reuters", "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5"},
+    {"label": "한국무역협회 (경제성장률)", "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQlB0bzU4U0theGZBWTczbkdpcktTZnU5azFHVlB5eFdxZlFUQ2dYSE1PbXNraUkxenVxVEFYck92T2NnU2RkNENLS08xU3VKcF9mWi1tM3BSeFhwOFQ3MkJfN2dRa0drQnhkZk1lbHRiQkhzYmVzMks5bnpRLXB4bVhnREtydUVqU0RWTzVOSm9IeTVXY2t2NVE5RW8taFFNOHRXZUtSSUM5ZFhsazdTeV9HRmI0TWh3YVlXQjUzZXBTVXVHeVBPdHJEU21RZTBjQjREdmJ3?oc=5"},
+    {"label": "Reuters (중국 지표)", "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzZkMk1FbkdXMWpRaWFDbU05ZmJGY19kTS1BT2FjRE96eGRGSzNGY1l4cnAxS2VGVEY5SjE2a0E3S3h2TnhXV1RlbE1BYUVielk3ZEN3TTlaX0pfZ2M1VnVpNmp0bVZOczJ0cThYaFFLUUtyVXB4OUZjSDI5c3VHWVk3Yk80SzhVdlJxcVlwNS1QZG9TZ0dMVExLMm4?oc=5"},
+    {"label": "Bloomberg (중국 경기)", "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjFiTE1FdTd4TV93WnROMERVZXMtQzdSZDRTOTh3cVhocV9Sb1NSRVVGelJYamtpWkwyLWc5WTc2MGRWVUJWckNkVVJTOVBUZTNuN3Jxdl92R1E3dWRySnk3RTAyZ3BlVVI2bGZKbjJKb0U4WkNSS1VJU3dQZ1B2eUJXaUF3TVZaWk4zS0N5RlVVSWRlcXZ4UkZQYl9nQkxrRkFxNF93dm94c0NLWEdCa1d3X2Z2UQ?oc=5"}
+   ]},
+  {"title": "'AI 빅위크': 17일 엔비디아 실적·19일 앤트로픽 나스닥 상장… 올해 대형 IPO는 평균 20% 넘게 손실",
+   "tags": ["AI", "IPO"], "count": 5,
+   "summary": "17일(현지시간) 엔비디아가 젠슨 황 전 CEO 없이 처음으로 3분기 실적을 발표하고, 19일에는 앤트로픽이 나스닥에 상장합니다. 로이터는 두 일정을 앞두고 아시아 증시가 하락했다고 전했습니다. FT에 따르면 올해 가장 큰 상장 10건의 주가는 평균 20% 넘게 떨어져, 4년 연속 이어진 대형 IPO 수익 행진이 끊겼습니다.",
+   "why": "두 이벤트가 AI 투자 심리를 다시 끌어올릴지, 조정을 더 깊게 할지를 가를 시험대로 꼽힙니다. 이 판을 쓴 Claude는 앤트로픽이 만든 AI이며, 이 이슈도 다른 이슈와 같은 기준(보도 건수)으로 골랐습니다.",
+   "sources": [
+    {"label": "머니투데이 (슈퍼위크)", "url": "https://www.mt.co.kr/world/2026/11/16/2026111613484723593"},
+    {"label": "Reuters (아시아 증시)", "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5"},
+    {"label": "FT (대형 IPO 손실)", "url": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1"}
+   ]}
+ ],
+ "industry": [
+  {"who": "대한전선", "what": "싱가포르 전력청 400kV 초고압 전력망 프로젝트 2,718억 원 수주(지난해 매출의 약 7.5%)", "source": {"label": "머니투데이", "url": "https://www.mt.co.kr/industry/2026/11/16/2026111615170012955"}},
+  {"who": "대우건설", "what": "여의도 화랑아파트 소규모재건축 시공사 선정, 공사비 2,749억 원(최고 49층 268세대)", "source": {"label": "조선일보 경제", "url": "https://www.chosun.com/economy/real_estate/2026/11/16/GRSTOMZUHA4TINRWGQYTQMBVMQ/"}},
+  {"who": "SK하이닉스", "what": "5년간 10억 달러를 들여 반도체 협력사 지원(로이터)", "source": {"label": "Reuters", "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDRWSThFSldhVWEwa1J0VHdPLXZnaVJidjk5aDNDY2JiRnlLTTJXbjVaLUN1VnVlM3hOZVZhdnZTNklWYlhINF9UVWFldjEwYk1LckhLQkU4SndRcjZkWnpORUNkV1B5dXBUN2Fua3NJVUtKYnV2WnNtUm5tR1Z0SkRuUnliQWpwSndON2JNcEJoT2QzMkQyaWVicUVlTFdHa1FaZ0Z3ZU9kZ2l1S1BxVHZ5VjlSbFRjZ0E?oc=5"}},
+  {"who": "카카오뱅크", "what": "국내 은행권 최초로 애플페이 도입, 현대카드 이후 3년 8개월 만", "source": {"label": "조선일보 경제", "url": "https://www.chosun.com/economy/stock-finance/2026/11/16/HFSDCOLBG43GEZTGMUZDEZBTG4/"}},
+  {"who": "미 상무부", "what": "엔비디아·아마존·MS·오픈AI·앤트로픽 등 20여 곳을 'AI 내셔널 챔피언'으로 지정해 수출 지원 추진(WSJ)", "source": {"label": "머니투데이", "url": "https://www.mt.co.kr/world/2026/11/16/2026111614592182319"}},
+  {"who": "인텔", "what": "PC 재고 부진을 늦게 공시해 주가가 하루 29% 급락했다며 주주 집단소송", "source": {"label": "연합뉴스 마켓", "url": "https://www.yna.co.kr/view/AKR20261116112600009"}},
+  {"who": "항공업계", "what": "12월 국제선 유류할증료 4개월 만에 인하, 뉴욕 왕복 약 6만 원 낮아져", "source": {"label": "조선일보 경제", "url": "https://www.chosun.com/economy/industry-company/2026/11/16/GBTDMMBWMYYGGNRRG4ZGGZJUGQ/"}},
+  {"who": "기획재정부(국고채)", "what": "국고채 입찰 담합 과징금 부과에도 10년물 입찰 호조, 2조2천억 원 전액 소화", "source": {"label": "연합뉴스", "url": "https://www.yna.co.kr/view/AKR20261116099900008"}},
+  {"who": "메가스피드", "what": "엔비디아 반도체 중국 유출 의혹의 핵심 인물 앨리스 황이 2025년 8월 퇴사했다고 확인", "source": {"label": "The New York Times", "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTFteWE3T01VQ29ObzFtdi1VSlExVDZmWVAwWGM3YkdtZHliQXNEa0hQMjhkYTlKRDJqSnhEbU5VeEFKNnRQaWZ6bF9OZGpKdUs5OEFRTWQ4eHpySlJuZlJOY3NsaVdLUnJULXJrcVJWUHlpWkY2N01XTnZxOGhoN01BMXdyT2lwVjJn?oc=5"}},
+  {"who": "오리온", "what": "3분기 매출 9,227억 원(+11.3%), 영업이익 1,509억 원(+9.4%), 1~3분기 누적 매출 2조7,467억 원", "source": {"label": "조선일보 경제", "url": "https://www.chosun.com/economy/market_trend/2026/11/16/GY2TSN3BMIZDSZBVGBSGGZRRGE/"}}
+ ],
+ "trends": [
+  {"title": "AI 자금줄이 조여든다: '백지수표'의 끝과 IPO 성적표",
+   "evidence": [
+    {"text": "WSJ, 엔비디아의 AI 업계 '백지수표' 역할 끝나간다", "source": {"label": "WSJ", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg?oc=5"}},
+    {"text": "올해 10대 IPO, 평균 20% 넘게 하락", "source": {"label": "FT", "url": "https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1"}},
+    {"text": "AI 매도세 속 인도 증시로 '대이동'", "source": {"label": "Bloomberg", "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekZiMTBjakhPUXcyZm9yZ1N6SkhLQmNrSFZ0M0RPNTNhOFh1YkExSUZEc0pJbzJoU0VkdEZKTHhVb2RYUXJjRFdtY1o2R3lzSml1RVZJS3I0MEFLRW5mMlFMV183RW9xa1d4bDhpcEtWNGFSeDEzc2xMdHBkcTBfZW5DU0Fobl9CV04zVVZuZzB0YXkwN1NwZzVTVDFtTFVaM2lSSk16YUpwMnRocGpGdThMWERWazZ5eE1Z?oc=5"}},
+    {"text": "모건스탠리는 'AI 사이클은 그대로'라며 글로벌 주식 최대 비중확대", "source": {"label": "Bloomberg", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHdTZG14X3RFSFFCSzJ6VGlqaVdNekZxd0t5eXMzLWdjVHlhWjZkSndXSDV2RlZnWVBGdEtZaWxPakR6SjJWSUxSV0l6TGctTWowU25uQjdwWllDallCUnhENV9xeXJvM2RrYTdPSGxiNUtJbzlMZ0JvMUlwVzRQeUxmazFNZlM4alRDdHVhY01ZNnJqOHBtY0RIa2swSjBVV1BoWm5sQ0VubjF6NEVPeFhBNA?oc=5"}}
+   ],
+   "insight": "AI 생태계에 돈을 대던 엔비디아의 역할이 줄고 대형 신규 상장주의 성적도 부진해, AI 기업의 자금 조달 환경이 빡빡해지고 있습니다. 다만 AI 사이클 자체는 유효하다는 시각도 여전해 이번 주 엔비디아 실적과 앤트로픽 상장이 방향을 가를 전망입니다."},
+  {"title": "강달러·금리 상승이 가계와 자산시장을 동시에 압박",
+   "evidence": [
+    {"text": "달러인덱스 장중 103.48, 1년 7개월여 만에 최고", "source": {"label": "연합뉴스", "url": "https://www.yna.co.kr/view/AKR20261116130500002"}},
+    {"text": "신규 코픽스 3.62%, 2년 8개월 만에 최고", "source": {"label": "연합뉴스", "url": "https://www.yna.co.kr/view/AKR20261116115851002"}},
+    {"text": "보금자리론 10년 만기도 처음 5%대, 올해만 1.35%p 상승", "source": {"label": "네이버페이 머니스토리", "url": "https://story.pay.naver.com/content/3943_27_C10"}},
+    {"text": "금값, 강달러와 연준 전망에 1년여 만에 최저", "source": {"label": "Reuters", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5"}},
+    {"text": "엔비디아 급락이 미 국채시장까지 흔들어 금리 5% 복귀", "source": {"label": "한국경제 국제", "url": "https://www.hankyung.com/article/202611168081i"}}
+   ],
+   "insight": "미국의 추가 긴축 기대가 달러와 금리를 끌어올리면서 금 같은 안전자산마저 약세입니다. 국내에서는 대출 금리 상승으로 이어져 소비와 부동산에 부담이 될 수 있습니다."},
+  {"title": "'AI 커닝'이 시험과 채용의 신뢰를 흔든다",
+   "evidence": [
+    {"text": "세무사 수석 합격자, 초소형 카메라·AI 부정행위 자백", "source": {"label": "뉴닉", "url": "https://newneek.co/@newneek/article/48718"}},
+    {"text": "정부 TF, 시험 무효·5년 응시 정지와 3~5년 합격자 재점검", "source": {"label": "조선일보 경제", "url": "https://www.chosun.com/economy/economy_general/2026/11/16/HAYWEYZXGY2WGMZVMMZDAOLEGA/"}},
+    {"text": "한국거래소 채용 필기시험에서도 AI 안경 적발", "source": {"label": "머니투데이", "url": "https://www.mt.co.kr/stock/2026/11/16/2026111616183810485"}},
+    {"text": "수능 대책에 초소형 카메라 대응 빠져 논란", "source": {"label": "뉴닉", "url": "https://newneek.co/@newneek/article/48721"}},
+    {"text": "FT도 '한국 시험 파문' 보도", "source": {"label": "FT", "url": "https://www.ft.com/content/5cf11f3d-0d22-4eb5-8279-7533e161e4d0?syn-25a6b1a6=1"}}
+   ],
+   "insight": "생성형 AI와 웨어러블 기기가 결합하면서 기존 감독 방식으로는 부정행위를 막기 어려워졌습니다. 시험 제도 개편과 탐지 장비 수요가 늘어나는 한편, AI 안경 같은 신제품에 대한 규제 논의도 커질 수 있습니다."}
+ ],
+ "explainers": [
+  {"title": "젠슨 황 없는 엔비디아, AI 업계 '돈줄' 역할 계속할까요?", "summary": "황 CEO 사임 경과와 콜레트 크레스 임시 CEO 체제에서 엔비디아의 AI 업계 투자 역할이 어떻게 바뀔지를 짚었습니다.", "source": {"label": "어피티", "url": "https://uppity.co.kr/%ec%a0%a0%ec%8a%a8-%ed%99%a9-%ec%97%86%eb%8a%94-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-ai-%ec%97%85%ea%b3%84-%eb%8f%88%ec%a4%84-%ec%97%ad%ed%95%a0-%ea%b3%84%ec%86%8d%ed%95%a0%ea%b9%8c/"}},
+  {"title": "미국 반도체주, 젠슨 황 사임 여파에 급락", "summary": "젠슨 황 사임 뒤 미국 반도체주가 급락한 흐름을 정리한 글입니다. 머니스토리 인기 2위, 1.2만 명 읽음.", "source": {"label": "네이버페이 머니스토리", "url": "https://story.pay.naver.com/content/3964_2_C1"}},
+  {"title": "한 달만 넣어도 연 10%? 요즘 뜨는 초단기 재테크 총정리", "summary": "증시 변동성이 커지자 한 달 적금부터 CMA까지 원금 손실을 줄이며 이자를 챙기는 초단기 상품을 비교했습니다. 머니스토리 인기 1위, 1.5만 명 읽음.", "source": {"label": "네이버페이 머니스토리", "url": "https://story.pay.naver.com/content/3932_3_C2"}},
+  {"title": "감독관 코앞에서도 안 걸렸다? 세무사 수석 AI 부정행위 자백부터 국가시험 전수조사 나선 정부 상황 요약", "summary": "세무사 수석 합격자의 AI 부정행위 자백과 정부의 국가자격시험 전수조사, 수능 감독 강화 움직임을 정리했습니다.", "source": {"label": "뉴닉", "url": "https://newneek.co/@newneek/article/48718"}},
+  {"title": "트럼프·시진핑·푸틴, 19일 사상 첫 3자 정상회담: 핵 감축·이란 논의 예정, 한반도 영향은?", "summary": "선전에서 열리는 첫 미·중·러 정상회담의 의제와, 한국이 빠진 회담에 대한 우려를 설명합니다.", "source": {"label": "뉴닉", "url": "https://newneek.co/@newneek/article/48711"}},
+  {"title": "보금자리론 10년 만기도 첫 5%대… 올해만 1.35%p 올랐다", "summary": "보금자리론 금리가 5%대에 오른 배경과 인상 전 금리를 적용받으려면 확인해야 할 신청 시점을 짚었습니다. 머니스토리 인기 4위, 3,250명 읽음.", "source": {"label": "네이버페이 머니스토리", "url": "https://story.pay.naver.com/content/3943_27_C10"}}
+ ],
+ "search_trends": {"note": "Google 트렌드 한국 · 11/16 오후 수집 시점 기준",
+  "items": [{"term": "카카오뱅크 애플페이", "traffic": "1000+"}, {"term": "신유열", "traffic": "200+"}, {"term": "위메이드", "traffic": "200+"}, {"term": "신세계", "traffic": "200+"}],
+  "comment": "'카카오뱅크 애플페이'는 카카오뱅크의 애플페이 서비스 시작, '신유열'은 롯데지주 사장 승진 소식과 함께 검색됐습니다. '위메이드'는 창업주 관련 기자수첩이 함께 노출됐고, '신세계'는 이유를 확인하지 못했습니다. 나머지 급상승 검색어는 연예·스포츠 관련이라 뺐습니다."},
+ "schedule": {"note": "모두 한국 시간 (미국 일정은 현지 날짜로 표기)",
+  "rows": [
+   {"when": "현지 11/17(화)", "event": "엔비디아 3분기 실적 발표", "watch": "젠슨 황 없는 첫 실적, AI 투자 지원 축소 여부", "hot": true},
+   {"when": "11/19(목)", "event": "2027학년도 수능", "watch": "AI 부정행위 감독 대책", "hot": false},
+   {"when": "11/19(목)", "event": "미·중·러 3자 정상회담(중국 선전)", "watch": "핵 감축·이란 전쟁·한반도 논의 여부", "hot": false},
+   {"when": "현지 11/19(목)", "event": "앤트로픽 나스닥 상장", "watch": "AI 업종 투자심리", "hot": false},
+   {"when": "11/19(목)", "event": "대법원 전원합의체, 한덕수·김건희 선고", "watch": "12·3 내란죄 첫 대법 판단", "hot": false}
+  ],
+  "foot": "엔비디아 실적과 앤트로픽 상장은 머니투데이 보도의 현지 날짜이며, 정확한 발표 시각은 확인하지 못했습니다. 이번 주 예정된 FOMC 의사록 발표는 날짜를 확인하지 못해 뺐습니다.",
+  "sources": [
+   {"label": "머니투데이 (슈퍼위크)", "url": "https://www.mt.co.kr/world/2026/11/16/2026111613484723593"},
+   {"label": "연합뉴스 (미중러 정상회담)", "url": "https://www.yna.co.kr/view/AKR20261116052351083"},
+   {"label": "뉴닉 (수능 교통대책)", "url": "https://newneek.co/@newneek/article/48727"},
+   {"label": "뉴닉 (대법원 선고)", "url": "https://newneek.co/@newneek/article/48720"}
+  ]},
+ "watch": {
+  "opportunities": [
+   {"text": "대한전선·LS 등 전력망 수주와 실적 호조가 이어지는 '전력 슈퍼사이클'", "source": {"label": "연합뉴스", "url": "https://www.yna.co.kr/view/AKR20261116135700003"}},
+   {"text": "미 행정부가 엔비디아 등을 'AI 내셔널 챔피언'으로 지정해 해외 수출 지원", "source": {"label": "머니투데이", "url": "https://www.mt.co.kr/world/2026/11/16/2026111614592182319"}},
+   {"text": "유가 하락으로 12월 국제선 유류할증료 4개월 만에 인하", "source": {"label": "조선일보 경제", "url": "https://www.chosun.com/economy/industry-company/2026/11/16/GBTDMMBWMYYGGNRRG4ZGGZJUGQ/"}},
+   {"text": "모건스탠리는 AI 사이클이 유효하다며 글로벌 주식 최대 비중확대 의견", "source": {"label": "Bloomberg", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHdTZG14X3RFSFFCSzJ6VGlqaVdNekZxd0t5eXMzLWdjVHlhWjZkSndXSDV2RlZnWVBGdEtZaWxPakR6SjJWSUxSV0l6TGctTWowU25uQjdwWllDallCUnhENV9xeXJvM2RrYTdPSGxiNUtJbzlMZ0JvMUlwVzRQeUxmazFNZlM4alRDdHVhY01ZNnJqOHBtY0RIa2swSjBVV1BoWm5sQ0VubjF6NEVPeFhBNA?oc=5"}}
+  ],
+  "risks": [
+   {"text": "외국인 1조3,837억 원 순매도, 이틀 연속 '팔자'", "source": {"label": "연합뉴스", "url": "https://www.yna.co.kr/view/AKR20261116134900008"}},
+   {"text": "엔비디아의 AI 업계 자금 지원 축소가 GPU·메모리 수요로 번질 위험", "source": {"label": "WSJ", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXRsejdndmRqaEQtdlRCZE1mc19mWVdObHdta0hXcHBSbVo1N09pa3NHT1VpbVFoSjBjYnd4S1VaZDR5WVdnQVdOOGl3X2pFdHVOT01VQnBfVXVyLWV0dGFGbEtsYk1XaTNmMHdrTGhUM0pSTHhnTlhqVGVneUl2bnNDV1ZtdFFHZExBenBGa05DdWZRZTBPYzUtMXpORDU4M2dKVg?oc=5"}},
+   {"text": "코픽스 상승으로 변동금리 대출자의 이자 부담 확대", "source": {"label": "매일경제 경제", "url": "https://www.mk.co.kr/news/economy/12210025"}},
+   {"text": "이란의 걸프 미군기지 공격 재개로 중동 긴장 재고조", "source": {"label": "연합뉴스", "url": "https://www.yna.co.kr/view/AKR20261116083200704"}}
+  ],
+  "keywords": ["엔비디아 실적", "앤트로픽 상장", "미중러 정상회담", "외국인 매도", "코픽스", "AI 커닝"]},
+ "notes": ["11/11~11/15 브리핑은 만들지 않았습니다.", "미국 증시·유가의 11/13(금) 종가는 수집 범위 밖이라 확인하지 못했고, 국고채 금리는 이 판을 만든 시각까지 마감 기사가 없었습니다."]
+}
